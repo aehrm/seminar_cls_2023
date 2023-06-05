@@ -1,2001 +1,1931 @@
-char,freq,filename
-Walter,157,DEU073_Schicksale_einer_Seele.txt.tsv
-Mutter,155,DEU073_Schicksale_einer_Seele.txt.tsv
-Menschen,83,DEU073_Schicksale_einer_Seele.txt.tsv
-Kind,69,DEU073_Schicksale_einer_Seele.txt.tsv
-Frau,62,DEU073_Schicksale_einer_Seele.txt.tsv
-Mädchen,58,DEU073_Schicksale_einer_Seele.txt.tsv
+mention,freq,filename
+Walter,175,DEU073_Schicksale_einer_Seele.txt.tsv
 Arnold,57,DEU073_Schicksale_einer_Seele.txt.tsv
-Kinder,52,DEU073_Schicksale_einer_Seele.txt.tsv
-sie,52,DEU073_Schicksale_einer_Seele.txt.tsv
-Traut,51,DEU073_Schicksale_einer_Seele.txt.tsv
-Mann,50,DEU073_Schicksale_einer_Seele.txt.tsv
-die,50,DEU073_Schicksale_einer_Seele.txt.tsv
-Frauen,43,DEU073_Schicksale_einer_Seele.txt.tsv
-Dame,38,DEU073_Schicksale_einer_Seele.txt.tsv
-Eltern,35,DEU073_Schicksale_einer_Seele.txt.tsv
-Gott,34,DEU073_Schicksale_einer_Seele.txt.tsv
-Charlotte,33,DEU073_Schicksale_einer_Seele.txt.tsv
-Leute,30,DEU073_Schicksale_einer_Seele.txt.tsv
-Mensch,29,DEU073_Schicksale_einer_Seele.txt.tsv
+Charlotte,34,DEU073_Schicksale_einer_Seele.txt.tsv
+Traut,30,DEU073_Schicksale_einer_Seele.txt.tsv
 Adalbert,28,DEU073_Schicksale_einer_Seele.txt.tsv
-Vater,27,DEU073_Schicksale_einer_Seele.txt.tsv
-Marlene,24,DEU073_Schicksale_einer_Seele.txt.tsv
-Weib,21,DEU073_Schicksale_einer_Seele.txt.tsv
-Mama,19,DEU073_Schicksale_einer_Seele.txt.tsv
-Knaben,19,DEU073_Schicksale_einer_Seele.txt.tsv
-Damen,19,DEU073_Schicksale_einer_Seele.txt.tsv
-wir,18,DEU073_Schicksale_einer_Seele.txt.tsv
-Familie,17,DEU073_Schicksale_einer_Seele.txt.tsv
-Walters,17,DEU073_Schicksale_einer_Seele.txt.tsv
-Männer,17,DEU073_Schicksale_einer_Seele.txt.tsv
-Kindern,16,DEU073_Schicksale_einer_Seele.txt.tsv
-sich,16,DEU073_Schicksale_einer_Seele.txt.tsv
-Priester,16,DEU073_Schicksale_einer_Seele.txt.tsv
-ihnen,15,DEU073_Schicksale_einer_Seele.txt.tsv
-Arzt,15,DEU073_Schicksale_einer_Seele.txt.tsv
-Gatten,15,DEU073_Schicksale_einer_Seele.txt.tsv
+Marlene,21,DEU073_Schicksale_einer_Seele.txt.tsv
 Wolf Brant,15,DEU073_Schicksale_einer_Seele.txt.tsv
-Geschwister,14,DEU073_Schicksale_einer_Seele.txt.tsv
-der,14,DEU073_Schicksale_einer_Seele.txt.tsv
-Dienstmädchen,13,DEU073_Schicksale_einer_Seele.txt.tsv
-jemand,13,DEU073_Schicksale_einer_Seele.txt.tsv
-Hausfrau,13,DEU073_Schicksale_einer_Seele.txt.tsv
-Götter,13,DEU073_Schicksale_einer_Seele.txt.tsv
-Brüder,12,DEU073_Schicksale_einer_Seele.txt.tsv
-Lehrer,12,DEU073_Schicksale_einer_Seele.txt.tsv
-Todten,12,DEU073_Schicksale_einer_Seele.txt.tsv
-uns,12,DEU073_Schicksale_einer_Seele.txt.tsv
-Gattin,12,DEU073_Schicksale_einer_Seele.txt.tsv
-Walterchen,12,DEU073_Schicksale_einer_Seele.txt.tsv
+Gott,12,DEU073_Schicksale_einer_Seele.txt.tsv
 Alice,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Person,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Herr,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Freundin,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Dichter,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Volk,11,DEU073_Schicksale_einer_Seele.txt.tsv
-er,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Muttchen,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Pierrette,11,DEU073_Schicksale_einer_Seele.txt.tsv
-Geschöpf,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Kindermädchen,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Bruder,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Fräulein,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Kinde,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Andern,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Anderen,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Gesellschaft,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Pierrot,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Philomela,10,DEU073_Schicksale_einer_Seele.txt.tsv
-Auguste,9,DEU073_Schicksale_einer_Seele.txt.tsv
-ihre,9,DEU073_Schicksale_einer_Seele.txt.tsv
-Schwester,9,DEU073_Schicksale_einer_Seele.txt.tsv
-Kindes,9,DEU073_Schicksale_einer_Seele.txt.tsv
-Andere,9,DEU073_Schicksale_einer_Seele.txt.tsv
+Walterchen,11,DEU073_Schicksale_einer_Seele.txt.tsv
+Philomela,11,DEU073_Schicksale_einer_Seele.txt.tsv
+Helena,10,DEU073_Schicksale_einer_Seele.txt.tsv
 Wilhelm,9,DEU073_Schicksale_einer_Seele.txt.tsv
-Helena,9,DEU073_Schicksale_einer_Seele.txt.tsv
-Großmutter,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Freund,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Papa,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Schwestern,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Herren,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Professor,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Heiligen,8,DEU073_Schicksale_einer_Seele.txt.tsv
-Tochter,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Dienstboten,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Sohn,7,DEU073_Schicksale_einer_Seele.txt.tsv
-ihm,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Schauspielerin,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Gottes,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Gatte,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Schriftsteller,7,DEU073_Schicksale_einer_Seele.txt.tsv
-ihn,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Geliebten,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Madonna,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Sphynx,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Kapuziner,7,DEU073_Schicksale_einer_Seele.txt.tsv
-Geschwistern,6,DEU073_Schicksale_einer_Seele.txt.tsv
-Brüderchen,6,DEU073_Schicksale_einer_Seele.txt.tsv
-Braut,6,DEU073_Schicksale_einer_Seele.txt.tsv
-man,6,DEU073_Schicksale_einer_Seele.txt.tsv
-die sich,6,DEU073_Schicksale_einer_Seele.txt.tsv
-Woldemar,227,DEU066_Der_Stechlin.txt.tsv
-Dubslav,226,DEU066_Der_Stechlin.txt.tsv
-Melusine,164,DEU066_Der_Stechlin.txt.tsv
-Czako,162,DEU066_Der_Stechlin.txt.tsv
-Rex,156,DEU066_Der_Stechlin.txt.tsv
-Lorenzen,149,DEU066_Der_Stechlin.txt.tsv
-Engelke,147,DEU066_Der_Stechlin.txt.tsv
-Armgard,106,DEU066_Der_Stechlin.txt.tsv
-Stechlin,91,DEU066_Der_Stechlin.txt.tsv
-Herren,81,DEU066_Der_Stechlin.txt.tsv
-die,77,DEU066_Der_Stechlin.txt.tsv
-Frau,74,DEU066_Der_Stechlin.txt.tsv
-sie,71,DEU066_Der_Stechlin.txt.tsv
-Menschen,69,DEU066_Der_Stechlin.txt.tsv
-Mann,67,DEU066_Der_Stechlin.txt.tsv
-Herr von Stechlin,64,DEU066_Der_Stechlin.txt.tsv
-Herr,64,DEU066_Der_Stechlin.txt.tsv
-Damen,63,DEU066_Der_Stechlin.txt.tsv
-Gräfin,62,DEU066_Der_Stechlin.txt.tsv
-Graf,62,DEU066_Der_Stechlin.txt.tsv
-Domina,57,DEU066_Der_Stechlin.txt.tsv
-Leute,56,DEU066_Der_Stechlin.txt.tsv
-wir,54,DEU066_Der_Stechlin.txt.tsv
-Wrschowitz,51,DEU066_Der_Stechlin.txt.tsv
-Krippenstapel,50,DEU066_Der_Stechlin.txt.tsv
-Alte,49,DEU066_Der_Stechlin.txt.tsv
-Baronin,49,DEU066_Der_Stechlin.txt.tsv
-Kind,48,DEU066_Der_Stechlin.txt.tsv
-Papa,47,DEU066_Der_Stechlin.txt.tsv
-der,46,DEU066_Der_Stechlin.txt.tsv
-Koseleger,46,DEU066_Der_Stechlin.txt.tsv
-Vater,45,DEU066_Der_Stechlin.txt.tsv
-Katzler,44,DEU066_Der_Stechlin.txt.tsv
-Adelheid,44,DEU066_Der_Stechlin.txt.tsv
-Agnes,41,DEU066_Der_Stechlin.txt.tsv
-Schwester,39,DEU066_Der_Stechlin.txt.tsv
-man,39,DEU066_Der_Stechlin.txt.tsv
-Alten,38,DEU066_Der_Stechlin.txt.tsv
-Uncke,38,DEU066_Der_Stechlin.txt.tsv
-sich,36,DEU066_Der_Stechlin.txt.tsv
-Gundermann,35,DEU066_Der_Stechlin.txt.tsv
-Prinzessin,35,DEU066_Der_Stechlin.txt.tsv
-Mensch,32,DEU066_Der_Stechlin.txt.tsv
-wer,32,DEU066_Der_Stechlin.txt.tsv
-Pastor,30,DEU066_Der_Stechlin.txt.tsv
-Tante,30,DEU066_Der_Stechlin.txt.tsv
-Comtesse,30,DEU066_Der_Stechlin.txt.tsv
-Herrn,27,DEU066_Der_Stechlin.txt.tsv
-Dame,26,DEU066_Der_Stechlin.txt.tsv
-Schmargendorf,26,DEU066_Der_Stechlin.txt.tsv
-Frau Gräfin,26,DEU066_Der_Stechlin.txt.tsv
-Herr Major,25,DEU066_Der_Stechlin.txt.tsv
-Grafen,24,DEU066_Der_Stechlin.txt.tsv
-einer,24,DEU066_Der_Stechlin.txt.tsv
+Pierrot,8,DEU073_Schicksale_einer_Seele.txt.tsv
+Erich,7,DEU073_Schicksale_einer_Seele.txt.tsv
+traut,6,DEU073_Schicksale_einer_Seele.txt.tsv
+Pierrette,6,DEU073_Schicksale_einer_Seele.txt.tsv
+Julie,5,DEU073_Schicksale_einer_Seele.txt.tsv
+August,5,DEU073_Schicksale_einer_Seele.txt.tsv
+Lina,5,DEU073_Schicksale_einer_Seele.txt.tsv
+Veronika,5,DEU073_Schicksale_einer_Seele.txt.tsv
+Auguste,5,DEU073_Schicksale_einer_Seele.txt.tsv
+Fräulein Claus,5,DEU073_Schicksale_einer_Seele.txt.tsv
+Madonna,5,DEU073_Schicksale_einer_Seele.txt.tsv
+Mignon,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Klärchen,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Paulinchen,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Göthe,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Jesus,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Bettina,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Helene Bucher,4,DEU073_Schicksale_einer_Seele.txt.tsv
+-,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Vetter Erich,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Jesu Christi,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Sphynx,4,DEU073_Schicksale_einer_Seele.txt.tsv
+Elfriede,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Napoleon,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Tante Berthel,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Schiller,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Eduard,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Consuelo,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Moritz,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Walter Bucher,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Lessing,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Bertha,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Frau Bronowski,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Charlotten,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Hamlet,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Gräfin Virginia,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Jesu,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Roth,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Todt,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Maria,3,DEU073_Schicksale_einer_Seele.txt.tsv
+Philomele,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Egbert,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Schwester Alice,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Goethe,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Egmont,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Freundin Pauline,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Frau Buschberg,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Herr Schulze,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Schulze,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Heine,2,DEU073_Schicksale_einer_Seele.txt.tsv
+George Sand,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Herder,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Mephisto,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Staffage,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Byron,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Lohengrin,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Bacchus,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Anna,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Jette,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Schopenhauer,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Satan,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Aspasia,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Vatchen,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Pythia,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Virginia Dürer,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Charlotte von Krüger,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Rahel,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Frau Doris,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Lisi,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Michel Angelo,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Moses,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Prasset,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Christi,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Jason,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Marleneken,2,DEU073_Schicksale_einer_Seele.txt.tsv
+Sibilla Dalmare,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Marlen,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Columbus,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Pharao,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Benjamin,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Fritzchen,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Prinzessin Vergißmeinnicht,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Prinz Rittersporn,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Prinzeßchen Vergißmeinnicht,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Wilhelm Tell,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Don Carlos,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Herzog Alba,1,DEU073_Schicksale_einer_Seele.txt.tsv
+Dubslav,241,DEU066_Der_Stechlin.txt.tsv
+Woldemar,240,DEU066_Der_Stechlin.txt.tsv
+Czako,163,DEU066_Der_Stechlin.txt.tsv
+Rex,157,DEU066_Der_Stechlin.txt.tsv
+Lorenz,145,DEU066_Der_Stechlin.txt.tsv
+Engelke,144,DEU066_Der_Stechlin.txt.tsv
+Melusine,139,DEU066_Der_Stechlin.txt.tsv
+Armgard,111,DEU066_Der_Stechlin.txt.tsv
+Stechlin,72,DEU066_Der_Stechlin.txt.tsv
+Herr von Stechlin,67,DEU066_Der_Stechlin.txt.tsv
+Wrschowitz,52,DEU066_Der_Stechlin.txt.tsv
+Gundermann,47,DEU066_Der_Stechlin.txt.tsv
+Adelheid,47,DEU066_Der_Stechlin.txt.tsv
+Katzler,46,DEU066_Der_Stechlin.txt.tsv
+Koseleger,43,DEU066_Der_Stechlin.txt.tsv
+Agnes,36,DEU066_Der_Stechlin.txt.tsv
+Uncke,35,DEU066_Der_Stechlin.txt.tsv
+Krippenstapel,26,DEU066_Der_Stechlin.txt.tsv
+Schmargendorf,25,DEU066_Der_Stechlin.txt.tsv
+Sponholz,25,DEU066_Der_Stechlin.txt.tsv
 Frau von Gundermann,24,DEU066_Der_Stechlin.txt.tsv
-Barbys,24,DEU066_Der_Stechlin.txt.tsv
 Ermyntrud,24,DEU066_Der_Stechlin.txt.tsv
-Sponholz,24,DEU066_Der_Stechlin.txt.tsv
 Frau Imme,23,DEU066_Der_Stechlin.txt.tsv
-andre,22,DEU066_Der_Stechlin.txt.tsv
-Wer,22,DEU066_Der_Stechlin.txt.tsv
-Tante Adelheid,22,DEU066_Der_Stechlin.txt.tsv
-Jeserich,22,DEU066_Der_Stechlin.txt.tsv
-er,21,DEU066_Der_Stechlin.txt.tsv
-Major,21,DEU066_Der_Stechlin.txt.tsv
-Mutter,21,DEU066_Der_Stechlin.txt.tsv
-Lehrer,21,DEU066_Der_Stechlin.txt.tsv
+Tante Adelheid,21,DEU066_Der_Stechlin.txt.tsv
+Jeserich,21,DEU066_Der_Stechlin.txt.tsv
 Cujacius,21,DEU066_Der_Stechlin.txt.tsv
-Kinder,20,DEU066_Der_Stechlin.txt.tsv
 Martin,20,DEU066_Der_Stechlin.txt.tsv
-uns,20,DEU066_Der_Stechlin.txt.tsv
-Bruder,19,DEU066_Der_Stechlin.txt.tsv
-Junge,19,DEU066_Der_Stechlin.txt.tsv
-jeder,19,DEU066_Der_Stechlin.txt.tsv
-einem,19,DEU066_Der_Stechlin.txt.tsv
 Molchow,19,DEU066_Der_Stechlin.txt.tsv
-Buschen,19,DEU066_Der_Stechlin.txt.tsv
-Familie,18,DEU066_Der_Stechlin.txt.tsv
-Fix,18,DEU066_Der_Stechlin.txt.tsv
-Dubslavs,17,DEU066_Der_Stechlin.txt.tsv
-Hauptmann,17,DEU066_Der_Stechlin.txt.tsv
-Paar,17,DEU066_Der_Stechlin.txt.tsv
-Prinzen,16,DEU066_Der_Stechlin.txt.tsv
-König,16,DEU066_Der_Stechlin.txt.tsv
-einen,16,DEU066_Der_Stechlin.txt.tsv
+Herr von Rex,16,DEU066_Der_Stechlin.txt.tsv
+Lizzi,16,DEU066_Der_Stechlin.txt.tsv
 Hedwig,16,DEU066_Der_Stechlin.txt.tsv
-Sohn,15,DEU066_Der_Stechlin.txt.tsv
-Woldemars,15,DEU066_Der_Stechlin.txt.tsv
-Herr von Rex,15,DEU066_Der_Stechlin.txt.tsv
+Barbys,15,DEU066_Der_Stechlin.txt.tsv
 Fritz,14,DEU066_Der_Stechlin.txt.tsv
-Freunde,14,DEU066_Der_Stechlin.txt.tsv
-Herrschaften,14,DEU066_Der_Stechlin.txt.tsv
-Mädchen,14,DEU066_Der_Stechlin.txt.tsv
-Lizzi,14,DEU066_Der_Stechlin.txt.tsv
-Karline,14,DEU066_Der_Stechlin.txt.tsv
-Pastor Lorenzen,13,DEU066_Der_Stechlin.txt.tsv
-Kortschädel,13,DEU066_Der_Stechlin.txt.tsv
-Freund,13,DEU066_Der_Stechlin.txt.tsv
-Kaiser,13,DEU066_Der_Stechlin.txt.tsv
+-,14,DEU066_Der_Stechlin.txt.tsv
+Barby,14,DEU066_Der_Stechlin.txt.tsv
+Herr von Czako,13,DEU066_Der_Stechlin.txt.tsv
 Robinson,13,DEU066_Der_Stechlin.txt.tsv
-Obrist,146,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Margarita,91,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Vater,65,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Leute,59,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Menschen,53,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Thomas,47,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Doktor,42,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mann,42,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mutter,34,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kranken,34,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-sie,24,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Frauen,23,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Obrists,23,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Knecht,20,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Weib,19,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Gott,19,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Wirt,19,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Vaters,18,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Leuten,18,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kind,16,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mädchen,16,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-andern,15,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Tochter,15,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mensch,14,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-er,14,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Gattin,14,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Schwestern,13,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kinder,12,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Buben,12,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Knechte,11,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Frau,10,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-die,10,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Männer,10,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Doktors,9,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Obristen,9,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Herr,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Knabe,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mütterlein,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-wir,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-der,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Erlebauer,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Margaritas,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Diener,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Wirte,8,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Großvater,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kindern,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mägde,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Sohn,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Freund,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-uns,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Arzt,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-man,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Hartwig,13,DEU066_Der_Stechlin.txt.tsv
+Doktor Wrschowitz,13,DEU066_Der_Stechlin.txt.tsv
+Rolf Krake,13,DEU066_Der_Stechlin.txt.tsv
+Baruch,12,DEU066_Der_Stechlin.txt.tsv
+Pastor Lorenz,11,DEU066_Der_Stechlin.txt.tsv
+Fix,11,DEU066_Der_Stechlin.txt.tsv
+Baron Beetz,11,DEU066_Der_Stechlin.txt.tsv
+Torgelow,11,DEU066_Der_Stechlin.txt.tsv
+Karline,11,DEU066_Der_Stechlin.txt.tsv
+Schwester Adelheid,10,DEU066_Der_Stechlin.txt.tsv
+Gräfin Melusine,10,DEU066_Der_Stechlin.txt.tsv
+Kortschädel,9,DEU066_Der_Stechlin.txt.tsv
+Freund Stechlin,9,DEU066_Der_Stechlin.txt.tsv
+Papa,9,DEU066_Der_Stechlin.txt.tsv
+Schickedanz,9,DEU066_Der_Stechlin.txt.tsv
+Pyterke,9,DEU066_Der_Stechlin.txt.tsv
+Kluckhuhn,9,DEU066_Der_Stechlin.txt.tsv
+Pusch,9,DEU066_Der_Stechlin.txt.tsv
+Freund Woldemar,8,DEU066_Der_Stechlin.txt.tsv
+Baruch Hirschfeld,8,DEU066_Der_Stechlin.txt.tsv
+Bismarck,7,DEU066_Der_Stechlin.txt.tsv
+Isidor,7,DEU066_Der_Stechlin.txt.tsv
+Rudolf,7,DEU066_Der_Stechlin.txt.tsv
+Rentmeister Fix,7,DEU066_Der_Stechlin.txt.tsv
+Schimonski,7,DEU066_Der_Stechlin.txt.tsv
+Ghiberti,7,DEU066_Der_Stechlin.txt.tsv
+Mister Robinson,7,DEU066_Der_Stechlin.txt.tsv
+Joao de Deus,7,DEU066_Der_Stechlin.txt.tsv
+Frommel,7,DEU066_Der_Stechlin.txt.tsv
+Greeley,7,DEU066_Der_Stechlin.txt.tsv
+Alexander,6,DEU066_Der_Stechlin.txt.tsv
+Triglaff,6,DEU066_Der_Stechlin.txt.tsv
+Thormeyer,6,DEU066_Der_Stechlin.txt.tsv
+Lilli,6,DEU066_Der_Stechlin.txt.tsv
+Susan,6,DEU066_Der_Stechlin.txt.tsv
+Doktor Pusch,6,DEU066_Der_Stechlin.txt.tsv
+Moscheles,6,DEU066_Der_Stechlin.txt.tsv
+Mamsell Pritzbur,6,DEU066_Der_Stechlin.txt.tsv
+Brose,5,DEU066_Der_Stechlin.txt.tsv
+Herr von Gundermann,5,DEU066_Der_Stechlin.txt.tsv
+Lorenzen,5,DEU066_Der_Stechlin.txt.tsv
+Freund Czako,5,DEU066_Der_Stechlin.txt.tsv
+Superintendent Koseleger,5,DEU066_Der_Stechlin.txt.tsv
+Herr Rittmeister,5,DEU066_Der_Stechlin.txt.tsv
+Comtesse,5,DEU066_Der_Stechlin.txt.tsv
+Imme,5,DEU066_Der_Stechlin.txt.tsv
+Schulze Kluckhuhn,5,DEU066_Der_Stechlin.txt.tsv
+Bebel,5,DEU066_Der_Stechlin.txt.tsv
+Elfriede,5,DEU066_Der_Stechlin.txt.tsv
+Herr Major,5,DEU066_Der_Stechlin.txt.tsv
+Baron Planta,5,DEU066_Der_Stechlin.txt.tsv
+Dubslav von Stechlin,4,DEU066_Der_Stechlin.txt.tsv
+Oberförster Katzler,4,DEU066_Der_Stechlin.txt.tsv
+Czakos,4,DEU066_Der_Stechlin.txt.tsv
+Wilhelm,4,DEU066_Der_Stechlin.txt.tsv
+Wrangel,4,DEU066_Der_Stechlin.txt.tsv
+Hauptmann Czako,4,DEU066_Der_Stechlin.txt.tsv
+Baronin Berchtesgaden,4,DEU066_Der_Stechlin.txt.tsv
+Comtesse Armgard,4,DEU066_Der_Stechlin.txt.tsv
+Riekchen,4,DEU066_Der_Stechlin.txt.tsv
+Niels,4,DEU066_Der_Stechlin.txt.tsv
+Frau Kulicke,4,DEU066_Der_Stechlin.txt.tsv
+Christus,4,DEU066_Der_Stechlin.txt.tsv
+Margarita,97,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Thomas,42,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Gott,9,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
 Maria,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kajetan,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kutscher,7,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kranke,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Bernsteiner,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Pfarrer,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Bube,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Meierbacher,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-ihnen,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-sich,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Wirtes,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Bube Thomas,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
 Gottlieb,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Jüngling,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Schützen,6,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Braut,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Freunde,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Mannes,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Kinde,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Angehörigen,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-einer,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Herr Doktor,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Herrn,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Verwandten,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-andere,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
 Katharina,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Eltern,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Nachbar,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Pfarrer von Sillerau,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Thoma,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Vetter Martin,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
 Vetter Rudolph,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Aschacher,5,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Greis,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Bewohnern,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Großmutter,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
 Margaretha,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-ihm,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Schwester,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Weibe,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Gottes,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Meilhauer,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Magd,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-König,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Töchterlein,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Krämer,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
 Lucia,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Boten,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Bube Thomas,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Josikrämer,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Vetter Martin,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
-Oswald,935,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Melitta,307,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Baron,273,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Baronin,267,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Mann,251,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Bruno,247,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Frau,217,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Felix,194,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Kind,158,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Helene,146,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Mädchen,125,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Oldenburg,125,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Menschen,115,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Knaben,93,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr,89,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Mutter,88,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herren,87,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Dame,79,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Vater,79,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Doctor,77,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Cloten,75,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Albert,74,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Gesellschaft,73,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Freund,68,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Baumann,68,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Knabe,65,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Harald,65,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Leute,64,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Damen,59,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr Timm,58,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Anna-Maria,56,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Tochter,56,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Pastor,56,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-sie,53,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-sich,53,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Tante,53,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Mensch,52,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Alte,52,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Czika,52,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-der,51,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Mannes,50,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Familie,49,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-die,49,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Andern,48,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Malte,45,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-er,44,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Grenwitz,42,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Kajetan,4,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Egesippus,3,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Meilhauer,3,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Knecht Thomas,3,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Rudolph,3,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Wirt Bernsteiner,3,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Augustinus,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Sara,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Casimir Uhldom,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Martin,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Keum Anna,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Bube Gottlieb,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Knabe Gottlieb,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Josikrämer,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Tochter Margarita,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Pirling,2,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Mechtild,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Bernsteiner,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Grafen Uhldom,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Waldstein,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+König Ludwig,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Herr Armand Pelton,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Graf Casimir Uhldom,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Hirtenbube Thomas,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Josepha,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Josi,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Schwester Katharina,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Haushälterin Maria,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Klum,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Kumberger Franz,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+-,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Christine,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Magd,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Maria Harten,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Mechthild,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Haidelis,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Susanna,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Hanna,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Holzschneider Pirger,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Bube Gott leiben,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Johann,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Tochter Josepha,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Margarite,1,DEU007_Die_Mappe_meines_Urgroßvaters.txt.tsv
+Oswald,956,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Melitta,315,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Bruno,258,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Felix,207,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Helene,158,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Oldenburg,119,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Albert,77,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Timm,68,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Harald,66,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Anna-Maria,57,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Bemperlein,49,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Czika,49,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Julius,43,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Cloten,43,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
 Fräulein Helene,42,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Julius,41,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Bemperlein,41,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr Doctor,40,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr Bemperlein,39,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Barons,38,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-wir,37,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Helenens,37,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Bruder,37,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Barnewitz,37,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herrn,36,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Jemand,34,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Gott,34,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Kinder,32,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Grenwitz,40,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr von Barnewitz,40,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Helenen,39,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Barnewitz,38,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Malte,35,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Stein,34,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Baumann,34,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
 Baron Oldenburg,31,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Weib,31,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Mutter Clausen,31,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Kutscher,30,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Freunde,30,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Manne,30,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Frau von Berkow,30,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Eltern,29,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Frauen,29,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Frau von Berkow,31,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Bemperlein,30,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Mutter Clausen,29,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
 Emilie,29,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Marguerite,29,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Männer,28,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-uns,28,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Marguerite,28,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
 Marie,28,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Andere,27,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Primula,27,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Cousine,27,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Hortense,27,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Vaters,26,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Reiter,25,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr von Barnewitz,25,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Fräulein,24,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Junge,24,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-man,24,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Diener,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr Baron,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Junker,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Oswalds,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Zigeunerin,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Professor Berger,22,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Gräfin,22,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Clote,27,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Primula,25,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Professor Berger,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr von Cloten,23,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
 Doctor Braun,22,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr von Cloten,21,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Gestalt,20,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Berger,20,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Anderen,20,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Herr Stein,20,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Leuten,20,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Bedienten,19,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
-Witiko,2792,DEU045_Witiko.txt.tsv
-Männer,1033,DEU045_Witiko.txt.tsv
-Herzog,719,DEU045_Witiko.txt.tsv
-Mann,639,DEU045_Witiko.txt.tsv
-Wladislaw,376,DEU045_Witiko.txt.tsv
-Herren,330,DEU045_Witiko.txt.tsv
-Bertha,315,DEU045_Witiko.txt.tsv
-Reiter,296,DEU045_Witiko.txt.tsv
-Menschen,290,DEU045_Witiko.txt.tsv
-Herzoge,289,DEU045_Witiko.txt.tsv
-Heinrich,213,DEU045_Witiko.txt.tsv
-Männern,212,DEU045_Witiko.txt.tsv
-Sohn,199,DEU045_Witiko.txt.tsv
-Leute,198,DEU045_Witiko.txt.tsv
-Herr,194,DEU045_Witiko.txt.tsv
-Feinde,194,DEU045_Witiko.txt.tsv
-sie,193,DEU045_Witiko.txt.tsv
-Kaiser,192,DEU045_Witiko.txt.tsv
-Krieger,190,DEU045_Witiko.txt.tsv
-Vater,184,DEU045_Witiko.txt.tsv
-Bischof,181,DEU045_Witiko.txt.tsv
-Mutter,177,DEU045_Witiko.txt.tsv
-Lubomir,177,DEU045_Witiko.txt.tsv
-Gott,175,DEU045_Witiko.txt.tsv
-Frauen,171,DEU045_Witiko.txt.tsv
-König,161,DEU045_Witiko.txt.tsv
-Rowno,161,DEU045_Witiko.txt.tsv
-Fürsten,145,DEU045_Witiko.txt.tsv
-Führer,141,DEU045_Witiko.txt.tsv
-Mädchen,131,DEU045_Witiko.txt.tsv
-Odolen,129,DEU045_Witiko.txt.tsv
-Huldrik,129,DEU045_Witiko.txt.tsv
-Raimund,126,DEU045_Witiko.txt.tsv
-Priester,125,DEU045_Witiko.txt.tsv
-Zdik,125,DEU045_Witiko.txt.tsv
-Diepold,123,DEU045_Witiko.txt.tsv
-Frau,115,DEU045_Witiko.txt.tsv
-Herzogin,114,DEU045_Witiko.txt.tsv
-Otto,106,DEU045_Witiko.txt.tsv
-Bolemil,105,DEU045_Witiko.txt.tsv
-Bruder,103,DEU045_Witiko.txt.tsv
-Wentila,103,DEU045_Witiko.txt.tsv
-Welislaw,99,DEU045_Witiko.txt.tsv
-andern,98,DEU045_Witiko.txt.tsv
-Ritter,98,DEU045_Witiko.txt.tsv
-die,94,DEU045_Witiko.txt.tsv
-Herzogs,91,DEU045_Witiko.txt.tsv
-Konrad,90,DEU045_Witiko.txt.tsv
-Witikos,90,DEU045_Witiko.txt.tsv
-Leuten,86,DEU045_Witiko.txt.tsv
-er,84,DEU045_Witiko.txt.tsv
-Herzoges,83,DEU045_Witiko.txt.tsv
-Wratislaw,81,DEU045_Witiko.txt.tsv
-Herzog Wladislaw,81,DEU045_Witiko.txt.tsv
-Kinder,80,DEU045_Witiko.txt.tsv
-Söhne,77,DEU045_Witiko.txt.tsv
-Freunde,76,DEU045_Witiko.txt.tsv
-Benno,74,DEU045_Witiko.txt.tsv
-Volk,71,DEU045_Witiko.txt.tsv
-Scharlachreiter,70,DEU045_Witiko.txt.tsv
-Soběslaw,69,DEU045_Witiko.txt.tsv
-Lechen,68,DEU045_Witiko.txt.tsv
-Schmied,67,DEU045_Witiko.txt.tsv
-Dimut,67,DEU045_Witiko.txt.tsv
-Načerat,65,DEU045_Witiko.txt.tsv
-Diet,65,DEU045_Witiko.txt.tsv
-Könige,64,DEU045_Witiko.txt.tsv
-Wolf,64,DEU045_Witiko.txt.tsv
-wir,64,DEU045_Witiko.txt.tsv
-Boreš,63,DEU045_Witiko.txt.tsv
-Pfarrer,63,DEU045_Witiko.txt.tsv
-Manne,61,DEU045_Witiko.txt.tsv
-Jungfrauen,61,DEU045_Witiko.txt.tsv
-Osel,61,DEU045_Witiko.txt.tsv
-Boten,60,DEU045_Witiko.txt.tsv
-Wiulfhilt,60,DEU045_Witiko.txt.tsv
-der,58,DEU045_Witiko.txt.tsv
+Hortense,22,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Doctor Stein,21,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Fräulein Marie,19,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Berger,18,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Baron Felix,17,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Tante Berkow,16,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Mademoiselle Marguerite,15,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr von Berkow,15,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Mutter Karsten,15,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Emilie von Breesen,14,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Pastor Jäger,13,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Doctor Stein,13,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr von lange,13,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Timm,13,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Baron Harald,11,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Karl,10,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Baron,9,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Stein,9,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Doctor Birkenhain,9,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Breesen,9,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Luise,9,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Berkow,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Gott,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Cziko,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Jochen,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Adalbert,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+von Cloten,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Fräulein von Breesen,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Fräulein Emilie,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+von Breesen,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Monsieur d'Estein,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Jean,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Xenobi,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+von Sylow,8,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Cousin Felix,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Gustava,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Adam,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Mary,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Felix von Grenwitz,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+von Clote,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Adolf von Breesen,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+-,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Almansor,7,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Frau Pastor Jäger,6,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Frau von Barnewitz,6,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Thusnelda,6,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Mary Burton,6,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Johann,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Doctor,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Inspector Wrampe,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Wrampe,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Goethe,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Oswald',5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Robin,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Graf Grieben,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Fräulein Klauß,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Arthur,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Marien,5,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Alexander,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Isabell,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Eva,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Holde,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Lisbeth,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Emilien,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Baron Harald von Grenwitz,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Herr Timm's,4,DEU039_Problematische_Naturen_Erste_Abtheilung.txt.tsv
+Witiko,2821,DEU045_Witiko.txt.tsv
+Wladislaw,414,DEU045_Witiko.txt.tsv
+Bertha,321,DEU045_Witiko.txt.tsv
+Heinrich,239,DEU045_Witiko.txt.tsv
+Lubomir,192,DEU045_Witiko.txt.tsv
+Rowno,173,DEU045_Witiko.txt.tsv
+Herzog Wladislaw,159,DEU045_Witiko.txt.tsv
+Raimund,139,DEU045_Witiko.txt.tsv
+Huldrik,131,DEU045_Witiko.txt.tsv
+Diepold,130,DEU045_Witiko.txt.tsv
+Zdik,123,DEU045_Witiko.txt.tsv
+Sob<unk>slaw,121,DEU045_Witiko.txt.tsv
+Bolemil,110,DEU045_Witiko.txt.tsv
+Odolen,109,DEU045_Witiko.txt.tsv
+Herzog Sob<unk>slaw,108,DEU045_Witiko.txt.tsv
+Otto,108,DEU045_Witiko.txt.tsv
+Konrad,105,DEU045_Witiko.txt.tsv
+Wentila,105,DEU045_Witiko.txt.tsv
+Welislaw,101,DEU045_Witiko.txt.tsv
+Wratislaw,87,DEU045_Witiko.txt.tsv
+Gott,86,DEU045_Witiko.txt.tsv
+Benno,75,DEU045_Witiko.txt.tsv
+Diet,66,DEU045_Witiko.txt.tsv
+Wolf,63,DEU045_Witiko.txt.tsv
+Bore<unk>,62,DEU045_Witiko.txt.tsv
+Wiulfhilt,61,DEU045_Witiko.txt.tsv
+König Konrad,59,DEU045_Witiko.txt.tsv
+Na<unk>erat,58,DEU045_Witiko.txt.tsv
 Tom Johannes,57,DEU045_Witiko.txt.tsv
-Reitern,56,DEU045_Witiko.txt.tsv
-Diwiš,56,DEU045_Witiko.txt.tsv
-Feinden,55,DEU045_Witiko.txt.tsv
-Scharen,54,DEU045_Witiko.txt.tsv
-Herrn,53,DEU045_Witiko.txt.tsv
-Soběslaws,53,DEU045_Witiko.txt.tsv
-Gast,52,DEU045_Witiko.txt.tsv
-Fiedler,51,DEU045_Witiko.txt.tsv
-Kaisers,50,DEU045_Witiko.txt.tsv
-Herzog Soběslaw,50,DEU045_Witiko.txt.tsv
-ihre,50,DEU045_Witiko.txt.tsv
-Urban,47,DEU045_Witiko.txt.tsv
-Ben,46,DEU045_Witiko.txt.tsv
-Wladislaws,46,DEU045_Witiko.txt.tsv
-Martin,46,DEU045_Witiko.txt.tsv
-Verwundeten,46,DEU045_Witiko.txt.tsv
-Diener,45,DEU045_Witiko.txt.tsv
-Richter,45,DEU045_Witiko.txt.tsv
-Vaters,44,DEU045_Witiko.txt.tsv
-Schar,44,DEU045_Witiko.txt.tsv
-Bischofe,44,DEU045_Witiko.txt.tsv
-Mailänder,44,DEU045_Witiko.txt.tsv
-Mirjam,77,DEU096_Der_Golem.txt.tsv
-Charousek,69,DEU096_Der_Golem.txt.tsv
-Menschen,68,DEU096_Der_Golem.txt.tsv
-Zwakh,63,DEU096_Der_Golem.txt.tsv
-Hillel,63,DEU096_Der_Golem.txt.tsv
-Wassertrum,61,DEU096_Der_Golem.txt.tsv
-Mann,47,DEU096_Der_Golem.txt.tsv
-Vater,34,DEU096_Der_Golem.txt.tsv
-Mensch,34,DEU096_Der_Golem.txt.tsv
+Diwi<unk>,56,DEU045_Witiko.txt.tsv
+P<unk>emysl,55,DEU045_Witiko.txt.tsv
+Bischof Zdik,55,DEU045_Witiko.txt.tsv
+Osel,54,DEU045_Witiko.txt.tsv
+Dimut,52,DEU045_Witiko.txt.tsv
+Martin,50,DEU045_Witiko.txt.tsv
+Jakob,48,DEU045_Witiko.txt.tsv
+Urban,48,DEU045_Witiko.txt.tsv
+Ben,44,DEU045_Witiko.txt.tsv
+W<unk>ebor,43,DEU045_Witiko.txt.tsv
+David,42,DEU045_Witiko.txt.tsv
+Bo<unk>ebor,41,DEU045_Witiko.txt.tsv
+Silvester,40,DEU045_Witiko.txt.tsv
+Friedrich,38,DEU045_Witiko.txt.tsv
+Bo<unk>iwoy,37,DEU045_Witiko.txt.tsv
+<ood>,36,DEU045_Witiko.txt.tsv
+Daniel,36,DEU045_Witiko.txt.tsv
+Jurik,36,DEU045_Witiko.txt.tsv
+Mathias,35,DEU045_Witiko.txt.tsv
+Florian,33,DEU045_Witiko.txt.tsv
+Gertrud,32,DEU045_Witiko.txt.tsv
+Leopold,31,DEU045_Witiko.txt.tsv
+Adalbert,31,DEU045_Witiko.txt.tsv
+Smil,29,DEU045_Witiko.txt.tsv
+Bischof Silvester,29,DEU045_Witiko.txt.tsv
+Witikos,29,DEU045_Witiko.txt.tsv
+Adelheid,28,DEU045_Witiko.txt.tsv
+Chotimir,27,DEU045_Witiko.txt.tsv
+Sifrid,27,DEU045_Witiko.txt.tsv
+Swatopluk,26,DEU045_Witiko.txt.tsv
+Agnes,26,DEU045_Witiko.txt.tsv
+Preda,25,DEU045_Witiko.txt.tsv
+Lucia,25,DEU045_Witiko.txt.tsv
+Augustin,25,DEU045_Witiko.txt.tsv
+Wenhart,25,DEU045_Witiko.txt.tsv
+-,24,DEU045_Witiko.txt.tsv
+Mikul,24,DEU045_Witiko.txt.tsv
+Guido,24,DEU045_Witiko.txt.tsv
+Casta,23,DEU045_Witiko.txt.tsv
+Bogdan,23,DEU045_Witiko.txt.tsv
+Sebastian,23,DEU045_Witiko.txt.tsv
+Wenzel,21,DEU045_Witiko.txt.tsv
+Veit,21,DEU045_Witiko.txt.tsv
+Regina,21,DEU045_Witiko.txt.tsv
+Wyhon,21,DEU045_Witiko.txt.tsv
+Vater Benno,21,DEU045_Witiko.txt.tsv
+Domaslaw,20,DEU045_Witiko.txt.tsv
+B<unk>etislaw,20,DEU045_Witiko.txt.tsv
+Sohn Wladislaw,20,DEU045_Witiko.txt.tsv
+Regimbert,20,DEU045_Witiko.txt.tsv
+P<unk>edbor,20,DEU045_Witiko.txt.tsv
+Heinrich von Jugelbach,20,DEU045_Witiko.txt.tsv
+Nemoy,19,DEU045_Witiko.txt.tsv
+Peter Laurenz,19,DEU045_Witiko.txt.tsv
+Boleslawa,19,DEU045_Witiko.txt.tsv
+Heinrich von Oftering,19,DEU045_Witiko.txt.tsv
+Ritter,19,DEU045_Witiko.txt.tsv
+König Wladislaw,19,DEU045_Witiko.txt.tsv
+Diet von Wett,18,DEU045_Witiko.txt.tsv
+Bruder Diepold,18,DEU045_Witiko.txt.tsv
+Herzog Konrad,18,DEU045_Witiko.txt.tsv
+Gebhart,18,DEU045_Witiko.txt.tsv
+König Wratislaw,17,DEU045_Witiko.txt.tsv
+Ctibor,17,DEU045_Witiko.txt.tsv
+Zacharias,17,DEU045_Witiko.txt.tsv
+Andreas,17,DEU045_Witiko.txt.tsv
+Thiemo von der Aue,17,DEU045_Witiko.txt.tsv
+Heinrich von Schauenberg,17,DEU045_Witiko.txt.tsv
+Bischof Daniel,17,DEU045_Witiko.txt.tsv
+Apostel Thomas,16,DEU045_Witiko.txt.tsv
+Milhost,16,DEU045_Witiko.txt.tsv
+Mirjam,87,DEU096_Der_Golem.txt.tsv
+Charousek,85,DEU096_Der_Golem.txt.tsv
+Hillel,78,DEU096_Der_Golem.txt.tsv
+Zwakh,67,DEU096_Der_Golem.txt.tsv
+Wassertrum,54,DEU096_Der_Golem.txt.tsv
+Angelina,40,DEU096_Der_Golem.txt.tsv
 Rosina,32,DEU096_Der_Golem.txt.tsv
-Vrieslander,30,DEU096_Der_Golem.txt.tsv
-Prokop,30,DEU096_Der_Golem.txt.tsv
-Meister Pernath,28,DEU096_Der_Golem.txt.tsv
+Vrieslander,32,DEU096_Der_Golem.txt.tsv
+Meister Pernath,29,DEU096_Der_Golem.txt.tsv
 Pernath,28,DEU096_Der_Golem.txt.tsv
+Prokop,28,DEU096_Der_Golem.txt.tsv
 Herr Pernath,27,DEU096_Der_Golem.txt.tsv
 Dr. Savioli,27,DEU096_Der_Golem.txt.tsv
-Angelina,27,DEU096_Der_Golem.txt.tsv
-der,25,DEU096_Der_Golem.txt.tsv
-sie,25,DEU096_Der_Golem.txt.tsv
-Herr,24,DEU096_Der_Golem.txt.tsv
-Golem,23,DEU096_Der_Golem.txt.tsv
+Laponder,23,DEU096_Der_Golem.txt.tsv
 Jaromir,21,DEU096_Der_Golem.txt.tsv
-jemand,20,DEU096_Der_Golem.txt.tsv
-Kind,20,DEU096_Der_Golem.txt.tsv
-Laponder,20,DEU096_Der_Golem.txt.tsv
-Hillels,19,DEU096_Der_Golem.txt.tsv
 Wenzel,19,DEU096_Der_Golem.txt.tsv
-die,18,DEU096_Der_Golem.txt.tsv
-Mutter,18,DEU096_Der_Golem.txt.tsv
-Trödler,16,DEU096_Der_Golem.txt.tsv
-Tochter,16,DEU096_Der_Golem.txt.tsv
+Loisa,16,DEU096_Der_Golem.txt.tsv
 Dr. Wassory,16,DEU096_Der_Golem.txt.tsv
-Charouseks,16,DEU096_Der_Golem.txt.tsv
-Aaron Wassertrum,15,DEU096_Der_Golem.txt.tsv
-Wesen,15,DEU096_Der_Golem.txt.tsv
-sich,15,DEU096_Der_Golem.txt.tsv
-Loisa,14,DEU096_Der_Golem.txt.tsv
-Freund,14,DEU096_Der_Golem.txt.tsv
+Aaron Wassertrum,14,DEU096_Der_Golem.txt.tsv
 Babinski,14,DEU096_Der_Golem.txt.tsv
-Gefangenwärter,14,DEU096_Der_Golem.txt.tsv
-Dame,13,DEU096_Der_Golem.txt.tsv
-Frau,13,DEU096_Der_Golem.txt.tsv
-Angelinas,13,DEU096_Der_Golem.txt.tsv
-Leute,12,DEU096_Der_Golem.txt.tsv
 Savioli,12,DEU096_Der_Golem.txt.tsv
-Kerl,12,DEU096_Der_Golem.txt.tsv
-Sohn,11,DEU096_Der_Golem.txt.tsv
-Weib,11,DEU096_Der_Golem.txt.tsv
-Mädchen,11,DEU096_Der_Golem.txt.tsv
-Athanasius Pernath,10,DEU096_Der_Golem.txt.tsv
-Kellnerin,10,DEU096_Der_Golem.txt.tsv
-Mirjams,10,DEU096_Der_Golem.txt.tsv
-Alte,9,DEU096_Der_Golem.txt.tsv
-andern,8,DEU096_Der_Golem.txt.tsv
-Gestalten,8,DEU096_Der_Golem.txt.tsv
-Opfer,8,DEU096_Der_Golem.txt.tsv
-ihnen,8,DEU096_Der_Golem.txt.tsv
-Arzt,8,DEU096_Der_Golem.txt.tsv
-Gott,8,DEU096_Der_Golem.txt.tsv
-Dr. Hulbert,8,DEU096_Der_Golem.txt.tsv
+Dr. Hulbert,12,DEU096_Der_Golem.txt.tsv
+Athanasius Pernath,11,DEU096_Der_Golem.txt.tsv
+-,11,DEU096_Der_Golem.txt.tsv
 Zottmann,8,DEU096_Der_Golem.txt.tsv
-Polizeirat,8,DEU096_Der_Golem.txt.tsv
-Untersuchungsrichter,8,DEU096_Der_Golem.txt.tsv
-Laponders,8,DEU096_Der_Golem.txt.tsv
-Rabbiner,7,DEU096_Der_Golem.txt.tsv
-einer,7,DEU096_Der_Golem.txt.tsv
-Gottes,7,DEU096_Der_Golem.txt.tsv
+Herr Wassertrum,8,DEU096_Der_Golem.txt.tsv
+Trödler Aaron Wassertrum,7,DEU096_Der_Golem.txt.tsv
 Josua Prokop,7,DEU096_Der_Golem.txt.tsv
-Marionettenspieler,7,DEU096_Der_Golem.txt.tsv
-Vorfahren,7,DEU096_Der_Golem.txt.tsv
-Ibbur,7,DEU096_Der_Golem.txt.tsv
-Gemmenschneider,7,DEU096_Der_Golem.txt.tsv
-Mörder,7,DEU096_Der_Golem.txt.tsv
+Gott,7,DEU096_Der_Golem.txt.tsv
+Schemajah Hillel,7,DEU096_Der_Golem.txt.tsv
+Herr Charousek,7,DEU096_Der_Golem.txt.tsv
 Herr Laponder,7,DEU096_Der_Golem.txt.tsv
-Schreiber,7,DEU096_Der_Golem.txt.tsv
-er,6,DEU096_Der_Golem.txt.tsv
-Millionär,6,DEU096_Der_Golem.txt.tsv
-Student,6,DEU096_Der_Golem.txt.tsv
-Wassertrums,6,DEU096_Der_Golem.txt.tsv
-Mannes,6,DEU096_Der_Golem.txt.tsv
-Toten,6,DEU096_Der_Golem.txt.tsv
-Unbekannte,6,DEU096_Der_Golem.txt.tsv
-Kellner,6,DEU096_Der_Golem.txt.tsv
-Bettler,6,DEU096_Der_Golem.txt.tsv
-Fräulein,6,DEU096_Der_Golem.txt.tsv
-Menge,6,DEU096_Der_Golem.txt.tsv
-Herr Wassertrum,6,DEU096_Der_Golem.txt.tsv
-uns,6,DEU096_Der_Golem.txt.tsv
-Markör,6,DEU096_Der_Golem.txt.tsv
-Fährmann,6,DEU096_Der_Golem.txt.tsv
-Alten,5,DEU096_Der_Golem.txt.tsv
-Trödlers,5,DEU096_Der_Golem.txt.tsv
-Familie,5,DEU096_Der_Golem.txt.tsv
-Hermaphrodit,5,DEU096_Der_Golem.txt.tsv
-Herren,5,DEU096_Der_Golem.txt.tsv
-einen,5,DEU096_Der_Golem.txt.tsv
-seine,5,DEU096_Der_Golem.txt.tsv
-Frauen,5,DEU096_Der_Golem.txt.tsv
-Rabbi,5,DEU096_Der_Golem.txt.tsv
-Zwakhs,5,DEU096_Der_Golem.txt.tsv
-Anton,1828,DEU011_Soll_und_Haben.txt.tsv
-Fink,760,DEU011_Soll_und_Haben.txt.tsv
-Lenore,476,DEU011_Soll_und_Haben.txt.tsv
-Mann,443,DEU011_Soll_und_Haben.txt.tsv
-Vater,307,DEU011_Soll_und_Haben.txt.tsv
-Freiherr,289,DEU011_Soll_und_Haben.txt.tsv
-Karl,288,DEU011_Soll_und_Haben.txt.tsv
-Kaufmann,265,DEU011_Soll_und_Haben.txt.tsv
-Freiherrn,232,DEU011_Soll_und_Haben.txt.tsv
-Ehrenthal,230,DEU011_Soll_und_Haben.txt.tsv
-Sabine,220,DEU011_Soll_und_Haben.txt.tsv
-Veitel,218,DEU011_Soll_und_Haben.txt.tsv
+Golem,5,DEU096_Der_Golem.txt.tsv
+Schemajah,5,DEU096_Der_Golem.txt.tsv
+Saviolis,5,DEU096_Der_Golem.txt.tsv
+Herr Zwakh,5,DEU096_Der_Golem.txt.tsv
+Archivar Schemajah Hillel,4,DEU096_Der_Golem.txt.tsv
+Herr von Pernath,4,DEU096_Der_Golem.txt.tsv
+Student Charousek,3,DEU096_Der_Golem.txt.tsv
+Wassory,3,DEU096_Der_Golem.txt.tsv
+Maler Vrieslander,3,DEU096_Der_Golem.txt.tsv
+Archivar Hillel,3,DEU096_Der_Golem.txt.tsv
+Vriesland,3,DEU096_Der_Golem.txt.tsv
+Herr Hillel,3,DEU096_Der_Golem.txt.tsv
+Vóssatka,3,DEU096_Der_Golem.txt.tsv
+Karl Zottmann,3,DEU096_Der_Golem.txt.tsv
+Tschamrda,3,DEU096_Der_Golem.txt.tsv
+Herr Tschamrda,3,DEU096_Der_Golem.txt.tsv
+Trödler Wassertrum,2,DEU096_Der_Golem.txt.tsv
+Marionettenspieler Zwakh,2,DEU096_Der_Golem.txt.tsv
+Dr. Wassorys,2,DEU096_Der_Golem.txt.tsv
+Aaron wassertrum,2,DEU096_Der_Golem.txt.tsv
+Nephtali Schaffranek,2,DEU096_Der_Golem.txt.tsv
+Kaiser Rudolf,2,DEU096_Der_Golem.txt.tsv
+Schaffranek,2,DEU096_Der_Golem.txt.tsv
+Fürst Ferri Athenstädt,2,DEU096_Der_Golem.txt.tsv
+Loisitschek,2,DEU096_Der_Golem.txt.tsv
+Schemajah Hillels,2,DEU096_Der_Golem.txt.tsv
+Herkules,2,DEU096_Der_Golem.txt.tsv
+Luitgard,2,DEU096_Der_Golem.txt.tsv
+Freund Zwakh,2,DEU096_Der_Golem.txt.tsv
+Gott Osiri,2,DEU096_Der_Golem.txt.tsv
+Frau Pick,2,DEU096_Der_Golem.txt.tsv
+Armilos,2,DEU096_Der_Golem.txt.tsv
+Eulalia,2,DEU096_Der_Golem.txt.tsv
+Herr Aaron Wassertrum,2,DEU096_Der_Golem.txt.tsv
+Athanasius,2,DEU096_Der_Golem.txt.tsv
+Bruder Loisa,2,DEU096_Der_Golem.txt.tsv
+Amadeus Laponder,2,DEU096_Der_Golem.txt.tsv
+Henoch,2,DEU096_Der_Golem.txt.tsv
+Jaromir Kwáßnitschka,2,DEU096_Der_Golem.txt.tsv
+Herr Dr. Charousek,2,DEU096_Der_Golem.txt.tsv
+Ferri,2,DEU096_Der_Golem.txt.tsv
+Ferri Athenstädt,2,DEU096_Der_Golem.txt.tsv
+Markör,2,DEU096_Der_Golem.txt.tsv
+Buddha Gotama,1,DEU096_Der_Golem.txt.tsv
+Zwillingsbruder Jaromir,1,DEU096_Der_Golem.txt.tsv
+Gott Christi,1,DEU096_Der_Golem.txt.tsv
+Pierrot,1,DEU096_Der_Golem.txt.tsv
+Athanasius Pernath .,1,DEU096_Der_Golem.txt.tsv
+Aaron Wassertrums,1,DEU096_Der_Golem.txt.tsv
+Virginia,1,DEU096_Der_Golem.txt.tsv
+Josua,1,DEU096_Der_Golem.txt.tsv
+Zwakhs,1,DEU096_Der_Golem.txt.tsv
+Maler Vriesland,1,DEU096_Der_Golem.txt.tsv
+Rotbart,1,DEU096_Der_Golem.txt.tsv
+Grünbart,1,DEU096_Der_Golem.txt.tsv
+rechtsgelehrte Dr. Hulbert,1,DEU096_Der_Golem.txt.tsv
+Riese Atlas,1,DEU096_Der_Golem.txt.tsv
+Johann von Nepomuk,1,DEU096_Der_Golem.txt.tsv
+Christi,1,DEU096_Der_Golem.txt.tsv
+Dichter Oskar Wiener,1,DEU096_Der_Golem.txt.tsv
+Lebensversicherungsdirektor Zottmann,1,DEU096_Der_Golem.txt.tsv
+Karl der sechste,1,DEU096_Der_Golem.txt.tsv
+Rabbi ben Akiba,1,DEU096_Der_Golem.txt.tsv
+Goethe,1,DEU096_Der_Golem.txt.tsv
+Dr. Saviolis,1,DEU096_Der_Golem.txt.tsv
+Augenarzt Wassory,1,DEU096_Der_Golem.txt.tsv
+Musikant Nephtali Schaffranek,1,DEU096_Der_Golem.txt.tsv
+Hock,1,DEU096_Der_Golem.txt.tsv
+Anton,2007,DEU011_Soll_und_Haben.txt.tsv
+Fink,818,DEU011_Soll_und_Haben.txt.tsv
+Lenore,359,DEU011_Soll_und_Haben.txt.tsv
+Karl,304,DEU011_Soll_und_Haben.txt.tsv
+Ehrenthal,231,DEU011_Soll_und_Haben.txt.tsv
+Veitel,226,DEU011_Soll_und_Haben.txt.tsv
+Sabine,215,DEU011_Soll_und_Haben.txt.tsv
 Bernhard,203,DEU011_Soll_und_Haben.txt.tsv
-Herren,201,DEU011_Soll_und_Haben.txt.tsv
-Menschen,194,DEU011_Soll_und_Haben.txt.tsv
-Leute,193,DEU011_Soll_und_Haben.txt.tsv
-Herr,181,DEU011_Soll_und_Haben.txt.tsv
-Antons,181,DEU011_Soll_und_Haben.txt.tsv
-Mutter,157,DEU011_Soll_und_Haben.txt.tsv
-Wohlfart,156,DEU011_Soll_und_Haben.txt.tsv
-Frau,151,DEU011_Soll_und_Haben.txt.tsv
-Förster,151,DEU011_Soll_und_Haben.txt.tsv
-Herrn,141,DEU011_Soll_und_Haben.txt.tsv
-Männer,139,DEU011_Soll_und_Haben.txt.tsv
-Sohn,138,DEU011_Soll_und_Haben.txt.tsv
-Freund,136,DEU011_Soll_und_Haben.txt.tsv
-Fräulein,134,DEU011_Soll_und_Haben.txt.tsv
-Baronin,133,DEU011_Soll_und_Haben.txt.tsv
-Itzig,126,DEU011_Soll_und_Haben.txt.tsv
-Familie,121,DEU011_Soll_und_Haben.txt.tsv
-Prinzipal,117,DEU011_Soll_und_Haben.txt.tsv
-Tante,107,DEU011_Soll_und_Haben.txt.tsv
-Frauen,94,DEU011_Soll_und_Haben.txt.tsv
-Alte,94,DEU011_Soll_und_Haben.txt.tsv
-Wirt,89,DEU011_Soll_und_Haben.txt.tsv
-Herr Wohlfart,89,DEU011_Soll_und_Haben.txt.tsv
-der,82,DEU011_Soll_und_Haben.txt.tsv
-Dame,80,DEU011_Soll_und_Haben.txt.tsv
-er,79,DEU011_Soll_und_Haben.txt.tsv
-Tochter,79,DEU011_Soll_und_Haben.txt.tsv
-Mensch,78,DEU011_Soll_und_Haben.txt.tsv
-Kollegen,77,DEU011_Soll_und_Haben.txt.tsv
-Kind,76,DEU011_Soll_und_Haben.txt.tsv
-Mädchen,75,DEU011_Soll_und_Haben.txt.tsv
-Eugen,75,DEU011_Soll_und_Haben.txt.tsv
-sie,72,DEU011_Soll_und_Haben.txt.tsv
-Freunde,71,DEU011_Soll_und_Haben.txt.tsv
-Specht,70,DEU011_Soll_und_Haben.txt.tsv
-andern,67,DEU011_Soll_und_Haben.txt.tsv
-Finks,64,DEU011_Soll_und_Haben.txt.tsv
-Kinder,63,DEU011_Soll_und_Haben.txt.tsv
-Fremden,63,DEU011_Soll_und_Haben.txt.tsv
-Baron,63,DEU011_Soll_und_Haben.txt.tsv
-Mannes,63,DEU011_Soll_und_Haben.txt.tsv
-Herr Ehrenthal,63,DEU011_Soll_und_Haben.txt.tsv
-Pinkus,63,DEU011_Soll_und_Haben.txt.tsv
-Leuten,61,DEU011_Soll_und_Haben.txt.tsv
-Händler,61,DEU011_Soll_und_Haben.txt.tsv
-Damen,60,DEU011_Soll_und_Haben.txt.tsv
-Tinkeles,59,DEU011_Soll_und_Haben.txt.tsv
-Sturm,57,DEU011_Soll_und_Haben.txt.tsv
-Bruder,56,DEU011_Soll_und_Haben.txt.tsv
-Reiter,56,DEU011_Soll_und_Haben.txt.tsv
-Pix,56,DEU011_Soll_und_Haben.txt.tsv
-Vaters,55,DEU011_Soll_und_Haben.txt.tsv
-Schwester,51,DEU011_Soll_und_Haben.txt.tsv
-Herr Baron,50,DEU011_Soll_und_Haben.txt.tsv
-Herr von Fink,50,DEU011_Soll_und_Haben.txt.tsv
-Herr Pix,50,DEU011_Soll_und_Haben.txt.tsv
-sich,48,DEU011_Soll_und_Haben.txt.tsv
-Rosalie,48,DEU011_Soll_und_Haben.txt.tsv
-Reisenden,47,DEU011_Soll_und_Haben.txt.tsv
-Leutnant,47,DEU011_Soll_und_Haben.txt.tsv
-Lenorens,44,DEU011_Soll_und_Haben.txt.tsv
-Junge,43,DEU011_Soll_und_Haben.txt.tsv
-Gestalt,43,DEU011_Soll_und_Haben.txt.tsv
-Herr Schröter,43,DEU011_Soll_und_Haben.txt.tsv
-Wer,42,DEU011_Soll_und_Haben.txt.tsv
-andere,41,DEU011_Soll_und_Haben.txt.tsv
-Freundes,40,DEU011_Soll_und_Haben.txt.tsv
-Herr Specht,40,DEU011_Soll_und_Haben.txt.tsv
-Diener,38,DEU011_Soll_und_Haben.txt.tsv
-Herr Jordan,38,DEU011_Soll_und_Haben.txt.tsv
-Hippus,38,DEU011_Soll_und_Haben.txt.tsv
-Vogt,38,DEU011_Soll_und_Haben.txt.tsv
-Geschäftsmann,37,DEU011_Soll_und_Haben.txt.tsv
-Gesellschaft,37,DEU011_Soll_und_Haben.txt.tsv
-Arbeiter,37,DEU011_Soll_und_Haben.txt.tsv
-Volk,36,DEU011_Soll_und_Haben.txt.tsv
-Feinde,35,DEU011_Soll_und_Haben.txt.tsv
-Schäfer,35,DEU011_Soll_und_Haben.txt.tsv
-welche,34,DEU011_Soll_und_Haben.txt.tsv
-Ehrenthals,34,DEU011_Soll_und_Haben.txt.tsv
-Bekannten,33,DEU011_Soll_und_Haben.txt.tsv
-Knecht,33,DEU011_Soll_und_Haben.txt.tsv
-Eltern,32,DEU011_Soll_und_Haben.txt.tsv
-Gast,32,DEU011_Soll_und_Haben.txt.tsv
-Amtmann,31,DEU011_Soll_und_Haben.txt.tsv
-Auflader,31,DEU011_Soll_und_Haben.txt.tsv
-Prinzipals,31,DEU011_Soll_und_Haben.txt.tsv
-Friedrich,349,DEU005_Der_Sonnenwirt.txt.tsv
-Vater,314,DEU005_Der_Sonnenwirt.txt.tsv
-Christine,216,DEU005_Der_Sonnenwirt.txt.tsv
-Amtmann,209,DEU005_Der_Sonnenwirt.txt.tsv
-Sonnenwirt,156,DEU005_Der_Sonnenwirt.txt.tsv
-Mann,149,DEU005_Der_Sonnenwirt.txt.tsv
-Sohn,136,DEU005_Der_Sonnenwirt.txt.tsv
-Menschen,128,DEU005_Der_Sonnenwirt.txt.tsv
-Pfarrer,119,DEU005_Der_Sonnenwirt.txt.tsv
-Frau,116,DEU005_Der_Sonnenwirt.txt.tsv
-Mutter,111,DEU005_Der_Sonnenwirt.txt.tsv
-sie,109,DEU005_Der_Sonnenwirt.txt.tsv
-Weib,104,DEU005_Der_Sonnenwirt.txt.tsv
-Leute,103,DEU005_Der_Sonnenwirt.txt.tsv
-er,101,DEU005_Der_Sonnenwirt.txt.tsv
-Müller,87,DEU005_Der_Sonnenwirt.txt.tsv
-Sonnenwirtin,82,DEU005_Der_Sonnenwirt.txt.tsv
-Kind,81,DEU005_Der_Sonnenwirt.txt.tsv
-Mensch,74,DEU005_Der_Sonnenwirt.txt.tsv
-Zigeuner,73,DEU005_Der_Sonnenwirt.txt.tsv
-Alte,73,DEU005_Der_Sonnenwirt.txt.tsv
-Knecht,71,DEU005_Der_Sonnenwirt.txt.tsv
-Fischer,69,DEU005_Der_Sonnenwirt.txt.tsv
-Frieder,65,DEU005_Der_Sonnenwirt.txt.tsv
-der,63,DEU005_Der_Sonnenwirt.txt.tsv
-sich,59,DEU005_Der_Sonnenwirt.txt.tsv
-Mädchen,57,DEU005_Der_Sonnenwirt.txt.tsv
-Kinder,57,DEU005_Der_Sonnenwirt.txt.tsv
-Gott,56,DEU005_Der_Sonnenwirt.txt.tsv
-Leut,56,DEU005_Der_Sonnenwirt.txt.tsv
-Herr Amtmann,55,DEU005_Der_Sonnenwirt.txt.tsv
-Schütz,54,DEU005_Der_Sonnenwirt.txt.tsv
-Christinen,52,DEU005_Der_Sonnenwirt.txt.tsv
-Gesellschaft,51,DEU005_Der_Sonnenwirt.txt.tsv
-Invalide,50,DEU005_Der_Sonnenwirt.txt.tsv
-Bettelmelcher,49,DEU005_Der_Sonnenwirt.txt.tsv
-Herren,47,DEU005_Der_Sonnenwirt.txt.tsv
-Leuten,47,DEU005_Der_Sonnenwirt.txt.tsv
-Männer,47,DEU005_Der_Sonnenwirt.txt.tsv
-andern,46,DEU005_Der_Sonnenwirt.txt.tsv
-die,45,DEU005_Der_Sonnenwirt.txt.tsv
-Schwester,45,DEU005_Der_Sonnenwirt.txt.tsv
-ihm,44,DEU005_Der_Sonnenwirt.txt.tsv
-einer,44,DEU005_Der_Sonnenwirt.txt.tsv
-Gottes,43,DEU005_Der_Sonnenwirt.txt.tsv
-Vetter,43,DEU005_Der_Sonnenwirt.txt.tsv
-Bruder,43,DEU005_Der_Sonnenwirt.txt.tsv
-Tochter,42,DEU005_Der_Sonnenwirt.txt.tsv
-Familie,41,DEU005_Der_Sonnenwirt.txt.tsv
-Teufel,40,DEU005_Der_Sonnenwirt.txt.tsv
-Vaters,40,DEU005_Der_Sonnenwirt.txt.tsv
-Räuber,40,DEU005_Der_Sonnenwirt.txt.tsv
-Jerg,39,DEU005_Der_Sonnenwirt.txt.tsv
-Freund,38,DEU005_Der_Sonnenwirt.txt.tsv
-Bub,38,DEU005_Der_Sonnenwirt.txt.tsv
-Herzog,38,DEU005_Der_Sonnenwirt.txt.tsv
-Obrigkeit,38,DEU005_Der_Sonnenwirt.txt.tsv
-Amtmännin,37,DEU005_Der_Sonnenwirt.txt.tsv
-Gast,36,DEU005_Der_Sonnenwirt.txt.tsv
-Mädle,35,DEU005_Der_Sonnenwirt.txt.tsv
-Magdalene,34,DEU005_Der_Sonnenwirt.txt.tsv
-Hirschbauer,33,DEU005_Der_Sonnenwirt.txt.tsv
-Buben,32,DEU005_Der_Sonnenwirt.txt.tsv
-Schatz,32,DEU005_Der_Sonnenwirt.txt.tsv
-ihnen,31,DEU005_Der_Sonnenwirt.txt.tsv
-Eltern,31,DEU005_Der_Sonnenwirt.txt.tsv
-Kerl,31,DEU005_Der_Sonnenwirt.txt.tsv
-Chirurg,31,DEU005_Der_Sonnenwirt.txt.tsv
-Weiber,30,DEU005_Der_Sonnenwirt.txt.tsv
-Chirurgus,30,DEU005_Der_Sonnenwirt.txt.tsv
-Sonnenwirtle,29,DEU005_Der_Sonnenwirt.txt.tsv
-Manne,29,DEU005_Der_Sonnenwirt.txt.tsv
-Stiefmutter,28,DEU005_Der_Sonnenwirt.txt.tsv
-Braut,28,DEU005_Der_Sonnenwirt.txt.tsv
-Gefangenen,28,DEU005_Der_Sonnenwirt.txt.tsv
-Herr,27,DEU005_Der_Sonnenwirt.txt.tsv
-ihn,27,DEU005_Der_Sonnenwirt.txt.tsv
-Richter,27,DEU005_Der_Sonnenwirt.txt.tsv
-Bäcker,27,DEU005_Der_Sonnenwirt.txt.tsv
-Schwager,27,DEU005_Der_Sonnenwirt.txt.tsv
-Wirt,26,DEU005_Der_Sonnenwirt.txt.tsv
-Oberamtmann,26,DEU005_Der_Sonnenwirt.txt.tsv
-Fischerhanne,25,DEU005_Der_Sonnenwirt.txt.tsv
-Christinens,25,DEU005_Der_Sonnenwirt.txt.tsv
-Kindern,24,DEU005_Der_Sonnenwirt.txt.tsv
-Friedrichs,24,DEU005_Der_Sonnenwirt.txt.tsv
-sein,23,DEU005_Der_Sonnenwirt.txt.tsv
-Sohne,23,DEU005_Der_Sonnenwirt.txt.tsv
-Burschen,22,DEU005_Der_Sonnenwirt.txt.tsv
-Gäste,22,DEU005_Der_Sonnenwirt.txt.tsv
-Schwan,22,DEU005_Der_Sonnenwirt.txt.tsv
-seine,21,DEU005_Der_Sonnenwirt.txt.tsv
-einem,21,DEU005_Der_Sonnenwirt.txt.tsv
-Müllerknecht,21,DEU005_Der_Sonnenwirt.txt.tsv
-Schützen,21,DEU005_Der_Sonnenwirt.txt.tsv
-Vogt,21,DEU005_Der_Sonnenwirt.txt.tsv
-Bräutigam,21,DEU005_Der_Sonnenwirt.txt.tsv
-Zigeunerin,20,DEU005_Der_Sonnenwirt.txt.tsv
-Kübler,20,DEU005_Der_Sonnenwirt.txt.tsv
-Genossen,20,DEU005_Der_Sonnenwirt.txt.tsv
-Botho,222,DEU059_Irrungen_Wirrungen.txt.tsv
-Lene,216,DEU059_Irrungen_Wirrungen.txt.tsv
+Wohlfart,157,DEU011_Soll_und_Haben.txt.tsv
+Itzig,133,DEU011_Soll_und_Haben.txt.tsv
+Lenor,125,DEU011_Soll_und_Haben.txt.tsv
+Herr Wohlfart,113,DEU011_Soll_und_Haben.txt.tsv
+Herr Ehrenthal,79,DEU011_Soll_und_Haben.txt.tsv
+Eugen,74,DEU011_Soll_und_Haben.txt.tsv
+Herr von Fink,72,DEU011_Soll_und_Haben.txt.tsv
+Herr Pix,65,DEU011_Soll_und_Haben.txt.tsv
+Specht,65,DEU011_Soll_und_Haben.txt.tsv
+Pinkus,62,DEU011_Soll_und_Haben.txt.tsv
+Sturm,58,DEU011_Soll_und_Haben.txt.tsv
+Herr Jordan,57,DEU011_Soll_und_Haben.txt.tsv
+Herr Specht,56,DEU011_Soll_und_Haben.txt.tsv
+Herr Schröter,55,DEU011_Soll_und_Haben.txt.tsv
+Pix,45,DEU011_Soll_und_Haben.txt.tsv
+Rosalie,44,DEU011_Soll_und_Haben.txt.tsv
+Lenoren,41,DEU011_Soll_und_Haben.txt.tsv
+Herr Baron,38,DEU011_Soll_und_Haben.txt.tsv
+Tinkeles,38,DEU011_Soll_und_Haben.txt.tsv
+Hippus,33,DEU011_Soll_und_Haben.txt.tsv
+Herr Baumann,31,DEU011_Soll_und_Haben.txt.tsv
+Herr Liebold,29,DEU011_Soll_und_Haben.txt.tsv
+Jordan,27,DEU011_Soll_und_Haben.txt.tsv
+Frau von Baldereck,27,DEU011_Soll_und_Haben.txt.tsv
+Baumann,23,DEU011_Soll_und_Haben.txt.tsv
+Bernhards,20,DEU011_Soll_und_Haben.txt.tsv
+Sabinen,18,DEU011_Soll_und_Haben.txt.tsv
+Veitel Itzig,16,DEU011_Soll_und_Haben.txt.tsv
+-,16,DEU011_Soll_und_Haben.txt.tsv
+Zernitz,15,DEU011_Soll_und_Haben.txt.tsv
+Herr Sturm,15,DEU011_Soll_und_Haben.txt.tsv
+Fräulein Sabine,14,DEU011_Soll_und_Haben.txt.tsv
+Herr Hippus,14,DEU011_Soll_und_Haben.txt.tsv
+Hildegard,14,DEU011_Soll_und_Haben.txt.tsv
+T. O. Schröter,13,DEU011_Soll_und_Haben.txt.tsv
+Theone,13,DEU011_Soll_und_Haben.txt.tsv
+Rothsattel,12,DEU011_Soll_und_Haben.txt.tsv
+Herr Braun,12,DEU011_Soll_und_Haben.txt.tsv
+Vater Sturm,12,DEU011_Soll_und_Haben.txt.tsv
+Rosmin,12,DEU011_Soll_und_Haben.txt.tsv
+Fritz,11,DEU011_Soll_und_Haben.txt.tsv
+Rebekka,11,DEU011_Soll_und_Haben.txt.tsv
+Fräulein Lenore,10,DEU011_Soll_und_Haben.txt.tsv
+Franz,9,DEU011_Soll_und_Haben.txt.tsv
+Hirsch Ehrenthal,9,DEU011_Soll_und_Haben.txt.tsv
+Benno Tönnchen,9,DEU011_Soll_und_Haben.txt.tsv
+Justizrat Horn,9,DEU011_Soll_und_Haben.txt.tsv
+Herr Anton,9,DEU011_Soll_und_Haben.txt.tsv
+Herr Itzig,9,DEU011_Soll_und_Haben.txt.tsv
+Schulz,9,DEU011_Soll_und_Haben.txt.tsv
+Madame Ehrenthal,8,DEU011_Soll_und_Haben.txt.tsv
+Löbel Pinkus,8,DEU011_Soll_und_Haben.txt.tsv
+Herr Purzel,8,DEU011_Soll_und_Haben.txt.tsv
+Feroni,8,DEU011_Soll_und_Haben.txt.tsv
+Wilhelm,8,DEU011_Soll_und_Haben.txt.tsv
+Tönnchen,8,DEU011_Soll_und_Haben.txt.tsv
+Sohn Bernhard,8,DEU011_Soll_und_Haben.txt.tsv
+tinkele,8,DEU011_Soll_und_Haben.txt.tsv
+Frau Baronin,8,DEU011_Soll_und_Haben.txt.tsv
+Herr von Rothsattel,8,DEU011_Soll_und_Haben.txt.tsv
+Bolling,8,DEU011_Soll_und_Haben.txt.tsv
+Bratzky,8,DEU011_Soll_und_Haben.txt.tsv
+Ehrenthals,7,DEU011_Soll_und_Haben.txt.tsv
+Herr von Zernitz,7,DEU011_Soll_und_Haben.txt.tsv
+Fräulein Eugenie,7,DEU011_Soll_und_Haben.txt.tsv
+Schlosser,7,DEU011_Soll_und_Haben.txt.tsv
+Löwenberg,7,DEU011_Soll_und_Haben.txt.tsv
+Herr Pinkus,6,DEU011_Soll_und_Haben.txt.tsv
+Herr Stephan,6,DEU011_Soll_und_Haben.txt.tsv
+Master Wohlfart,6,DEU011_Soll_und_Haben.txt.tsv
+Liebold,6,DEU011_Soll_und_Haben.txt.tsv
+Freund Fink,6,DEU011_Soll_und_Haben.txt.tsv
+Herr von Tönnchen,6,DEU011_Soll_und_Haben.txt.tsv
+Hildegard Salt,6,DEU011_Soll_und_Haben.txt.tsv
+Tony,6,DEU011_Soll_und_Haben.txt.tsv
+Justizkommissarius Walther,6,DEU011_Soll_und_Haben.txt.tsv
+Schmeie,6,DEU011_Soll_und_Haben.txt.tsv
+Oscar,5,DEU011_Soll_und_Haben.txt.tsv
+Schmeie Tinkeles,5,DEU011_Soll_und_Haben.txt.tsv
+Theone Lara,5,DEU011_Soll_und_Haben.txt.tsv
+Baron Rothsattel,5,DEU011_Soll_und_Haben.txt.tsv
+Goliath,5,DEU011_Soll_und_Haben.txt.tsv
+Rosalien,5,DEU011_Soll_und_Haben.txt.tsv
+Balbus,5,DEU011_Soll_und_Haben.txt.tsv
+Johann,5,DEU011_Soll_und_Haben.txt.tsv
+Herr Bratzky,5,DEU011_Soll_und_Haben.txt.tsv
+Schulze,5,DEU011_Soll_und_Haben.txt.tsv
+Frau Pinkus,4,DEU011_Soll_und_Haben.txt.tsv
+Betty,4,DEU011_Soll_und_Haben.txt.tsv
+Komteß Lara,4,DEU011_Soll_und_Haben.txt.tsv
+Eugenie,4,DEU011_Soll_und_Haben.txt.tsv
+Hulda Werner,4,DEU011_Soll_und_Haben.txt.tsv
+Friedrich,373,DEU005_Der_Sonnenwirt.txt.tsv
+Christine,211,DEU005_Der_Sonnenwirt.txt.tsv
+Christin,53,DEU005_Der_Sonnenwirt.txt.tsv
+Bettelmelcher,42,DEU005_Der_Sonnenwirt.txt.tsv
+Frieder,35,DEU005_Der_Sonnenwirt.txt.tsv
+Gott,34,DEU005_Der_Sonnenwirt.txt.tsv
+Jerg,34,DEU005_Der_Sonnenwirt.txt.tsv
+Magdalene,25,DEU005_Der_Sonnenwirt.txt.tsv
+Christinen,25,DEU005_Der_Sonnenwirt.txt.tsv
+Müller,24,DEU005_Der_Sonnenwirt.txt.tsv
+Schwan,19,DEU005_Der_Sonnenwirt.txt.tsv
+Christle,14,DEU005_Der_Sonnenwirt.txt.tsv
+Schwamenjackel,13,DEU005_Der_Sonnenwirt.txt.tsv
+Christianus,12,DEU005_Der_Sonnenwirt.txt.tsv
+Peter,11,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Sonnenwirt,9,DEU005_Der_Sonnenwirt.txt.tsv
+Beckin,8,DEU005_Der_Sonnenwirt.txt.tsv
+Beck,7,DEU005_Der_Sonnenwirt.txt.tsv
+Kathrine,7,DEU005_Der_Sonnenwirt.txt.tsv
+Müllerknecht,7,DEU005_Der_Sonnenwirt.txt.tsv
+Christina,7,DEU005_Der_Sonnenwirt.txt.tsv
+Friederle,7,DEU005_Der_Sonnenwirt.txt.tsv
+Fischerhanne,6,DEU005_Der_Sonnenwirt.txt.tsv
+Georg,6,DEU005_Der_Sonnenwirt.txt.tsv
+-,6,DEU005_Der_Sonnenwirt.txt.tsv
+Bas,6,DEU005_Der_Sonnenwirt.txt.tsv
+Hirschbauer,6,DEU005_Der_Sonnenwirt.txt.tsv
+Friedrich Schwan,5,DEU005_Der_Sonnenwirt.txt.tsv
+Sonnenwirtle,5,DEU005_Der_Sonnenwirt.txt.tsv
+magdalener,5,DEU005_Der_Sonnenwirt.txt.tsv
+Christinele,5,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Vetter,5,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Vogt,5,DEU005_Der_Sonnenwirt.txt.tsv
+Hannes,5,DEU005_Der_Sonnenwirt.txt.tsv
+Schultheiß,5,DEU005_Der_Sonnenwirt.txt.tsv
+Sonnenwirt Frieder,4,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Schwager,4,DEU005_Der_Sonnenwirt.txt.tsv
+Christina Müllerin,4,DEU005_Der_Sonnenwirt.txt.tsv
+Katharina,4,DEU005_Der_Sonnenwirt.txt.tsv
+Anna Maria,4,DEU005_Der_Sonnenwirt.txt.tsv
+Leutnant Löw,4,DEU005_Der_Sonnenwirt.txt.tsv
+Margarete,4,DEU005_Der_Sonnenwirt.txt.tsv
+Lisa,4,DEU005_Der_Sonnenwirt.txt.tsv
+Magdalen,3,DEU005_Der_Sonnenwirt.txt.tsv
+Jesus Sirach,3,DEU005_Der_Sonnenwirt.txt.tsv
+christinele,3,DEU005_Der_Sonnenwirt.txt.tsv
+Küblerfritz,3,DEU005_Der_Sonnenwirt.txt.tsv
+Kübler,3,DEU005_Der_Sonnenwirt.txt.tsv
+Lisabeth,3,DEU005_Der_Sonnenwirt.txt.tsv
+Hans Jerg Müller,3,DEU005_Der_Sonnenwirt.txt.tsv
+Sonnenwirt,3,DEU005_Der_Sonnenwirt.txt.tsv
+Johann,3,DEU005_Der_Sonnenwirt.txt.tsv
+Nabal,3,DEU005_Der_Sonnenwirt.txt.tsv
+Freund Bettelmelcher,3,DEU005_Der_Sonnenwirt.txt.tsv
+Müllerin,3,DEU005_Der_Sonnenwirt.txt.tsv
+Meister Schwan,2,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Waisenpfarrer,2,DEU005_Der_Sonnenwirt.txt.tsv
+Vetter,2,DEU005_Der_Sonnenwirt.txt.tsv
+Georg.,2,DEU005_Der_Sonnenwirt.txt.tsv
+Karl Herzog,2,DEU005_Der_Sonnenwirt.txt.tsv
+Saul,2,DEU005_Der_Sonnenwirt.txt.tsv
+David,2,DEU005_Der_Sonnenwirt.txt.tsv
+Arndt,2,DEU005_Der_Sonnenwirt.txt.tsv
+Jesum,2,DEU005_Der_Sonnenwirt.txt.tsv
+Gott der Allmächtige,2,DEU005_Der_Sonnenwirt.txt.tsv
+Sohn von Boll,2,DEU005_Der_Sonnenwirt.txt.tsv
+Frau Sonnenwirtin,2,DEU005_Der_Sonnenwirt.txt.tsv
+Crispinus,2,DEU005_Der_Sonnenwirt.txt.tsv
+Jakob,2,DEU005_Der_Sonnenwirt.txt.tsv
+Vogt,2,DEU005_Der_Sonnenwirt.txt.tsv
+Jesu,2,DEU005_Der_Sonnenwirt.txt.tsv
+Freund Schwamenjackel,2,DEU005_Der_Sonnenwirt.txt.tsv
+Schwester Margareta,2,DEU005_Der_Sonnenwirt.txt.tsv
+Freund Schwan,2,DEU005_Der_Sonnenwirt.txt.tsv
+Bruder Schwan,2,DEU005_Der_Sonnenwirt.txt.tsv
+Schneidermichel,2,DEU005_Der_Sonnenwirt.txt.tsv
+Brutus,2,DEU005_Der_Sonnenwirt.txt.tsv
+Mockel,2,DEU005_Der_Sonnenwirt.txt.tsv
+Amtmann von Stein,2,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Schultheißen,2,DEU005_Der_Sonnenwirt.txt.tsv
+Christine Schettinger,2,DEU005_Der_Sonnenwirt.txt.tsv
+Herr Gott von Dinkelsbühl,1,DEU005_Der_Sonnenwirt.txt.tsv
+Pharaonis,1,DEU005_Der_Sonnenwirt.txt.tsv
+Fischerhann,1,DEU005_Der_Sonnenwirt.txt.tsv
+Mathes,1,DEU005_Der_Sonnenwirt.txt.tsv
+Zeiger Frank,1,DEU005_Der_Sonnenwirt.txt.tsv
+Spanner Eberhard,1,DEU005_Der_Sonnenwirt.txt.tsv
+Kanaille,1,DEU005_Der_Sonnenwirt.txt.tsv
+Esau,1,DEU005_Der_Sonnenwirt.txt.tsv
+Giftmichel,1,DEU005_Der_Sonnenwirt.txt.tsv
+Schwester Magdalene,1,DEU005_Der_Sonnenwirt.txt.tsv
+magdalen,1,DEU005_Der_Sonnenwirt.txt.tsv
+Mosje Friedrich,1,DEU005_Der_Sonnenwirt.txt.tsv
+Dotel,1,DEU005_Der_Sonnenwirt.txt.tsv
+Maria Theresia,1,DEU005_Der_Sonnenwirt.txt.tsv
+Boas,1,DEU005_Der_Sonnenwirt.txt.tsv
+Ruth,1,DEU005_Der_Sonnenwirt.txt.tsv
+Hansele,1,DEU005_Der_Sonnenwirt.txt.tsv
+Jud Süß,1,DEU005_Der_Sonnenwirt.txt.tsv
+Lise,1,DEU005_Der_Sonnenwirt.txt.tsv
+Botho,228,DEU059_Irrungen_Wirrungen.txt.tsv
+Lene,189,DEU059_Irrungen_Wirrungen.txt.tsv
 Frau Dörr,126,DEU059_Irrungen_Wirrungen.txt.tsv
-Frau,67,DEU059_Irrungen_Wirrungen.txt.tsv
-Käthe,57,DEU059_Irrungen_Wirrungen.txt.tsv
-Dörr,54,DEU059_Irrungen_Wirrungen.txt.tsv
-Frau Nimptsch,49,DEU059_Irrungen_Wirrungen.txt.tsv
-Rienäcker,37,DEU059_Irrungen_Wirrungen.txt.tsv
-Mutter,34,DEU059_Irrungen_Wirrungen.txt.tsv
-Alte,28,DEU059_Irrungen_Wirrungen.txt.tsv
-Herr Baron,27,DEU059_Irrungen_Wirrungen.txt.tsv
-Wedell,27,DEU059_Irrungen_Wirrungen.txt.tsv
-Wirt,25,DEU059_Irrungen_Wirrungen.txt.tsv
-Mann,24,DEU059_Irrungen_Wirrungen.txt.tsv
-Kind,22,DEU059_Irrungen_Wirrungen.txt.tsv
-man,21,DEU059_Irrungen_Wirrungen.txt.tsv
-Damen,21,DEU059_Irrungen_Wirrungen.txt.tsv
-Herren,20,DEU059_Irrungen_Wirrungen.txt.tsv
+Käthe,50,DEU059_Irrungen_Wirrungen.txt.tsv
+Frau Nimptsch,48,DEU059_Irrungen_Wirrungen.txt.tsv
+Dörr,40,DEU059_Irrungen_Wirrungen.txt.tsv
+Rienäcker,39,DEU059_Irrungen_Wirrungen.txt.tsv
+Wedell,28,DEU059_Irrungen_Wirrungen.txt.tsv
 Balafré,19,DEU059_Irrungen_Wirrungen.txt.tsv
-Baron,17,DEU059_Irrungen_Wirrungen.txt.tsv
-Paar,16,DEU059_Irrungen_Wirrungen.txt.tsv
-Serge,16,DEU059_Irrungen_Wirrungen.txt.tsv
 Pitt,15,DEU059_Irrungen_Wirrungen.txt.tsv
-Bothos,13,DEU059_Irrungen_Wirrungen.txt.tsv
-sie,13,DEU059_Irrungen_Wirrungen.txt.tsv
-Isabeau,13,DEU059_Irrungen_Wirrungen.txt.tsv
-Leute,12,DEU059_Irrungen_Wirrungen.txt.tsv
-sich,12,DEU059_Irrungen_Wirrungen.txt.tsv
-Alten,11,DEU059_Irrungen_Wirrungen.txt.tsv
-die,11,DEU059_Irrungen_Wirrungen.txt.tsv
-Menschen,11,DEU059_Irrungen_Wirrungen.txt.tsv
+lene,12,DEU059_Irrungen_Wirrungen.txt.tsv
+Herr Baron,12,DEU059_Irrungen_Wirrungen.txt.tsv
+Isabeau,12,DEU059_Irrungen_Wirrungen.txt.tsv
+Serge,11,DEU059_Irrungen_Wirrungen.txt.tsv
 Franke,11,DEU059_Irrungen_Wirrungen.txt.tsv
-Nimptsch,10,DEU059_Irrungen_Wirrungen.txt.tsv
-Sultan,10,DEU059_Irrungen_Wirrungen.txt.tsv
-einer,10,DEU059_Irrungen_Wirrungen.txt.tsv
-er,10,DEU059_Irrungen_Wirrungen.txt.tsv
-Mama,10,DEU059_Irrungen_Wirrungen.txt.tsv
+Rexin,11,DEU059_Irrungen_Wirrungen.txt.tsv
 Johanna,10,DEU059_Irrungen_Wirrungen.txt.tsv
-Rexin,10,DEU059_Irrungen_Wirrungen.txt.tsv
+Sultan,9,DEU059_Irrungen_Wirrungen.txt.tsv
 Mutter Nimptsch,9,DEU059_Irrungen_Wirrungen.txt.tsv
-Mutterchen,9,DEU059_Irrungen_Wirrungen.txt.tsv
-Hankels,9,DEU059_Irrungen_Wirrungen.txt.tsv
-Mädchen,9,DEU059_Irrungen_Wirrungen.txt.tsv
+Hankel,9,DEU059_Irrungen_Wirrungen.txt.tsv
 Minette,9,DEU059_Irrungen_Wirrungen.txt.tsv
-wer,8,DEU059_Irrungen_Wirrungen.txt.tsv
-Gott,8,DEU059_Irrungen_Wirrungen.txt.tsv
-der,8,DEU059_Irrungen_Wirrungen.txt.tsv
-Frauen,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Familie,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Berliner,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Person,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Mensch,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Freund,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Herr,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Lenens,7,DEU059_Irrungen_Wirrungen.txt.tsv
+Nimptsch,8,DEU059_Irrungen_Wirrungen.txt.tsv
+Frau Salinger,8,DEU059_Irrungen_Wirrungen.txt.tsv
 Herr von Wedell,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Kleine,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Frau Salinger,7,DEU059_Irrungen_Wirrungen.txt.tsv
-Freundin,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Junge,6,DEU059_Irrungen_Wirrungen.txt.tsv
-einen,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Onkel,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Osten,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Dame,6,DEU059_Irrungen_Wirrungen.txt.tsv
+Onkel Kurt Anton,6,DEU059_Irrungen_Wirrungen.txt.tsv
 Gaston,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Königin,6,DEU059_Irrungen_Wirrungen.txt.tsv
 Anna Grävenitz,6,DEU059_Irrungen_Wirrungen.txt.tsv
 Herr Franke,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Kutscher,6,DEU059_Irrungen_Wirrungen.txt.tsv
-Dörrs,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Leneken,5,DEU059_Irrungen_Wirrungen.txt.tsv
+Onkel Osten,5,DEU059_Irrungen_Wirrungen.txt.tsv
 Lenen,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Vater,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Kinder,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Diener,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Onkel Kurt Anton,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Hiller,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Ulanen,5,DEU059_Irrungen_Wirrungen.txt.tsv
-jeder,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Margot,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Gnädigste,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Bursche,5,DEU059_Irrungen_Wirrungen.txt.tsv
+Serg,5,DEU059_Irrungen_Wirrungen.txt.tsv
+Bothos,5,DEU059_Irrungen_Wirrungen.txt.tsv
 Gideon Franke,5,DEU059_Irrungen_Wirrungen.txt.tsv
 Mister Armstrong,5,DEU059_Irrungen_Wirrungen.txt.tsv
-Dörrschen,4,DEU059_Irrungen_Wirrungen.txt.tsv
 Rudolf,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Bruder,4,DEU059_Irrungen_Wirrungen.txt.tsv
 Lina,4,DEU059_Irrungen_Wirrungen.txt.tsv
-eine,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Paare,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Männer,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Herrn,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Reine,4,DEU059_Irrungen_Wirrungen.txt.tsv
-andere,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Wirtin,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Kellner,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Herrschaften,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Personen,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Köchin,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Kameraden,4,DEU059_Irrungen_Wirrungen.txt.tsv
-Leute,54,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-sie,52,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-die,48,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Vater,42,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Maman,41,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Abelone,40,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-man,39,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Menschen,35,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Gott,27,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Frau,25,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mädchen,25,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mann,24,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Frauen,23,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-sich,20,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Malte,20,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-König,19,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-der,19,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Kinder,18,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-einem,17,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mutter,17,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-jemand,17,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-ihnen,16,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-er,15,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Arzt,15,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-andern,14,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Dichter,14,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Kind,13,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Großvater,13,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Sieversen,13,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Männer,11,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-anderen,11,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Nachbar,11,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Hiller,4,DEU059_Irrungen_Wirrungen.txt.tsv
+Margot,4,DEU059_Irrungen_Wirrungen.txt.tsv
+Leneke,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Baron Botho,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Vater Dörr,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Renz,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Kroll,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Bismarck,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Schönemann,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Zülow,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Frau Dörrs,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Königin Isabeau,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Herr von Rienäcker,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Armstrong,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Gideon,3,DEU059_Irrungen_Wirrungen.txt.tsv
+Bollmann,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Susel,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Leneken,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Hahnke,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Familie Dörr,2,DEU059_Irrungen_Wirrungen.txt.tsv
+dörr,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Frau Baronin Dörr,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Hans,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Baron Rienäcker,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Leutnant von Wedell,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Osten,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Kluckhuhn,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Ella,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Afzelius,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Moltke,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Paula,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Käthe Sellenthin,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Goldstein,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Schwester Ine,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Gott,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Elly Winterfeld,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Ine,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Madame Salinger,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Goltz,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Sarah,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Kath,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Bozel,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Henriette,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Kornatzki,2,DEU059_Irrungen_Wirrungen.txt.tsv
+Pflegetochter Lene,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Borré,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Suselchen,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Frau nimptsch,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Len,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Lina Gansauge,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Rudolfe,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Herr Dörr,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Freund Dörr,1,DEU059_Irrungen_Wirrungen.txt.tsv
+len,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Frau Mama,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Komtesse Lene,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Vicky,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Victoria,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Lenechen,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Mutter nimptschen,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Baron Botho von Rienäcker,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Baron bothosch,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Borchardt,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Lenes,1,DEU059_Irrungen_Wirrungen.txt.tsv
+Abelone,38,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Maman,34,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gott,17,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Sieversen,12,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Nikolaj Kusmitsch,11,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Herr,10,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Erik,10,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Graf,10,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mamans,10,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Liebende,10,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Familie,9,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mensch,9,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Diener,9,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Dame,9,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Herrn,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Leuten,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Mathilde Brahe,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Christine Brahe,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-einen,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Ingeborg,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Sten,8,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Vaters,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Person,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Knabe,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Engel,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Malte,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Sophie,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Wesen,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Liebenden,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Nachbaren,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Herzog,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Geliebten,7,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Ärzte,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Kammerherr,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Knaben,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Graf Brahe,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mademoiselle,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Gräfin,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Bettine,6,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Gottes,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Erwachsenen,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-denen,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Sohn,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Grafen,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Freundinnen,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-ihn,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Heilige,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-einer,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-ihm,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Ingeborgs,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-jemanden,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-wir,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Dienerin,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Herzogs,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Kammerherrn,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Kindes,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Toten,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Narr,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Dritten,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Einen,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Major,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Mannes,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Alte,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Fortgeworfenen,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Herren,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Menge,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Könige,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Ingeborg,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Schwester,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Jägermeister,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Bruder,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Maler,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-Abelonens,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
-andere,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Malt,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Bettine,5,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Christoph Detlev,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+maman,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Abelonen,4,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+malte,3,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Wjera Schulin,3,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Zoë,3,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Wjera,3,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Louis-Onze,3,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Lupi,3,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Kammerherr Brigge,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Christoph Detlev Tod,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Brigge,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Fräulein Mathilde Brahe,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Fräulein Brahe,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+-,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Fräulein Mathilde,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Georg,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Dr. Jespersen,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Christian der vierte,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Erik Brahe,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Frau Margarete Brigge,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Sophie Oxe,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gaspara Stampa,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Graf Schulin,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Julie Reventlow,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Schuiskij,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Sappho,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Louise Labbé,2,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Madame Legrand,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+König Chlodwig,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Kammerherr Christoph Detlev Brigge,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Christoph Detlev Brigge,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Baron Nolde,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gräfin Sibyll,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Anna Sophie,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Großkanzler Conrad Reventlow Tochter,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Friedrich der vierter,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Christin,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Baudelaire,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Flaubert,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+ingeborgs,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gräfin Öllegaard Skeel,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Cavalier,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Mademoiselle,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Admiral Juel,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Jeanne -,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Sieverse,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Prediger Dr. Jespersen,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Rebekka,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Lavater,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Grafen Christian Brahe,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Grafen Christian,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Kirstine Munk,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Frau Ellen Marsvin,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+König Christian,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Eleonor,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gyldenlöve,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Hans Ulrik,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Ulrik Christian,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Ulfeld,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Henrik Holck,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Jungfrau Hilleborg Krafse,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Herzog Ulrich,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Otte Brahe,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Claus Daa,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Sten Rosensparre,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Bille,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Rosenkrantz,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gräfin Brahe,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Felix Lichnowski,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Fräulein Oxe,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Ulsgaard,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Dame - - -,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Delle Viste,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Pierre d'Aubusson,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Schulin sich,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Schulin,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+abelone,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Familie stens,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Saint-Germain,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Marquis von Belmare,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Belmare,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Belmar,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Komtesse Abel,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
+Gräfin Reventlow,1,DEU079_Die_Aufzeichnungen_des_Malte_Laurids_Brigge.txt.tsv
 Ilse,948,DEU030_Die_verlorene_Handschrift.txt.tsv
-Professor,680,DEU030_Die_verlorene_Handschrift.txt.tsv
-Doctor,448,DEU030_Die_verlorene_Handschrift.txt.tsv
-Laura,374,DEU030_Die_verlorene_Handschrift.txt.tsv
-Fürst,353,DEU030_Die_verlorene_Handschrift.txt.tsv
-Mann,331,DEU030_Die_verlorene_Handschrift.txt.tsv
-Vater,330,DEU030_Die_verlorene_Handschrift.txt.tsv
+Laura,378,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Hummel,283,DEU030_Die_verlorene_Handschrift.txt.tsv
 Gabriel,273,DEU030_Die_verlorene_Handschrift.txt.tsv
-Frau,262,DEU030_Die_verlorene_Handschrift.txt.tsv
-Prinz,254,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herr Hummel,224,DEU030_Die_verlorene_Handschrift.txt.tsv
-Menschen,220,DEU030_Die_verlorene_Handschrift.txt.tsv
-Prinzessin,182,DEU030_Die_verlorene_Handschrift.txt.tsv
-Ew. Hoheit,181,DEU030_Die_verlorene_Handschrift.txt.tsv
-Fürsten,176,DEU030_Die_verlorene_Handschrift.txt.tsv
-Fritz,169,DEU030_Die_verlorene_Handschrift.txt.tsv
-Hummel,164,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herr,144,DEU030_Die_verlorene_Handschrift.txt.tsv
-Mutter,139,DEU030_Die_verlorene_Handschrift.txt.tsv
-Kammerherr,134,DEU030_Die_verlorene_Handschrift.txt.tsv
-Tochter,133,DEU030_Die_verlorene_Handschrift.txt.tsv
-Landwirth,129,DEU030_Die_verlorene_Handschrift.txt.tsv
-Kinder,128,DEU030_Die_verlorene_Handschrift.txt.tsv
-Felix,123,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herren,120,DEU030_Die_verlorene_Handschrift.txt.tsv
-Leute,115,DEU030_Die_verlorene_Handschrift.txt.tsv
-Frauen,115,DEU030_Die_verlorene_Handschrift.txt.tsv
-Prinzen,113,DEU030_Die_verlorene_Handschrift.txt.tsv
-Kind,112,DEU030_Die_verlorene_Handschrift.txt.tsv
-Freunde,110,DEU030_Die_verlorene_Handschrift.txt.tsv
-Gatten,106,DEU030_Die_verlorene_Handschrift.txt.tsv
-sie,105,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herrn,105,DEU030_Die_verlorene_Handschrift.txt.tsv
-Raschke,102,DEU030_Die_verlorene_Handschrift.txt.tsv
-Andern,100,DEU030_Die_verlorene_Handschrift.txt.tsv
-Fremden,94,DEU030_Die_verlorene_Handschrift.txt.tsv
-Obersthofmeister,94,DEU030_Die_verlorene_Handschrift.txt.tsv
-Mädchen,93,DEU030_Die_verlorene_Handschrift.txt.tsv
-der,92,DEU030_Die_verlorene_Handschrift.txt.tsv
-Gelehrten,89,DEU030_Die_verlorene_Handschrift.txt.tsv
-Erbprinz,89,DEU030_Die_verlorene_Handschrift.txt.tsv
-Freund,86,DEU030_Die_verlorene_Handschrift.txt.tsv
-Struvelius,83,DEU030_Die_verlorene_Handschrift.txt.tsv
-Mannes,82,DEU030_Die_verlorene_Handschrift.txt.tsv
-Weib,80,DEU030_Die_verlorene_Handschrift.txt.tsv
-Gelehrte,77,DEU030_Die_verlorene_Handschrift.txt.tsv
-Vaters,76,DEU030_Die_verlorene_Handschrift.txt.tsv
-er,71,DEU030_Die_verlorene_Handschrift.txt.tsv
-Dame,70,DEU030_Die_verlorene_Handschrift.txt.tsv
-Männer,68,DEU030_Die_verlorene_Handschrift.txt.tsv
-Andere,67,DEU030_Die_verlorene_Handschrift.txt.tsv
-Knips,64,DEU030_Die_verlorene_Handschrift.txt.tsv
-sich,63,DEU030_Die_verlorene_Handschrift.txt.tsv
-Diener,62,DEU030_Die_verlorene_Handschrift.txt.tsv
-Magister,59,DEU030_Die_verlorene_Handschrift.txt.tsv
-Frau Professorin,58,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herrn Hummel,56,DEU030_Die_verlorene_Handschrift.txt.tsv
-Studenten,54,DEU030_Die_verlorene_Handschrift.txt.tsv
-Professors,53,DEU030_Die_verlorene_Handschrift.txt.tsv
-Victor,53,DEU030_Die_verlorene_Handschrift.txt.tsv
-Erbprinzen,53,DEU030_Die_verlorene_Handschrift.txt.tsv
-Fräulein,51,DEU030_Die_verlorene_Handschrift.txt.tsv
-Mensch,50,DEU030_Die_verlorene_Handschrift.txt.tsv
-Frau Oberamtmann,50,DEU030_Die_verlorene_Handschrift.txt.tsv
-Volk,49,DEU030_Die_verlorene_Handschrift.txt.tsv
-Sohn,49,DEU030_Die_verlorene_Handschrift.txt.tsv
-Hoheit,49,DEU030_Die_verlorene_Handschrift.txt.tsv
-Gatte,48,DEU030_Die_verlorene_Handschrift.txt.tsv
-Kammerherrn,48,DEU030_Die_verlorene_Handschrift.txt.tsv
-Schwester,46,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herr Professor,45,DEU030_Die_verlorene_Handschrift.txt.tsv
-Tacitus,45,DEU030_Die_verlorene_Handschrift.txt.tsv
-Hofmarschall,45,DEU030_Die_verlorene_Handschrift.txt.tsv
-Manne,42,DEU030_Die_verlorene_Handschrift.txt.tsv
-Gesellschaft,42,DEU030_Die_verlorene_Handschrift.txt.tsv
-ihm,41,DEU030_Die_verlorene_Handschrift.txt.tsv
-uns,40,DEU030_Die_verlorene_Handschrift.txt.tsv
-welche,40,DEU030_Die_verlorene_Handschrift.txt.tsv
+Fritz,168,DEU030_Die_verlorene_Handschrift.txt.tsv
+Hummel,165,DEU030_Die_verlorene_Handschrift.txt.tsv
+Felix,122,DEU030_Die_verlorene_Handschrift.txt.tsv
+Raschke,97,DEU030_Die_verlorene_Handschrift.txt.tsv
+Struvelius,80,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Hahn,59,DEU030_Die_verlorene_Handschrift.txt.tsv
+Victor,54,DEU030_Die_verlorene_Handschrift.txt.tsv
+Werner,52,DEU030_Die_verlorene_Handschrift.txt.tsv
 Frau Hummel,39,DEU030_Die_verlorene_Handschrift.txt.tsv
 Benno,39,DEU030_Die_verlorene_Handschrift.txt.tsv
-Doctors,38,DEU030_Die_verlorene_Handschrift.txt.tsv
-Rollmaus,38,DEU030_Die_verlorene_Handschrift.txt.tsv
-Werner,38,DEU030_Die_verlorene_Handschrift.txt.tsv
-wer,37,DEU030_Die_verlorene_Handschrift.txt.tsv
-Bruder,37,DEU030_Die_verlorene_Handschrift.txt.tsv
-Herr Hahn,36,DEU030_Die_verlorene_Handschrift.txt.tsv
-Siddy,36,DEU030_Die_verlorene_Handschrift.txt.tsv
-die,35,DEU030_Die_verlorene_Handschrift.txt.tsv
-Wirth,35,DEU030_Die_verlorene_Handschrift.txt.tsv
-Fremde,35,DEU030_Die_verlorene_Handschrift.txt.tsv
-Damen,35,DEU030_Die_verlorene_Handschrift.txt.tsv
-Bekannten,35,DEU030_Die_verlorene_Handschrift.txt.tsv
-wir,34,DEU030_Die_verlorene_Handschrift.txt.tsv
-Leuten,34,DEU030_Die_verlorene_Handschrift.txt.tsv
-Freundes,33,DEU030_Die_verlorene_Handschrift.txt.tsv
-Wer,33,DEU030_Die_verlorene_Handschrift.txt.tsv
-Student,33,DEU030_Die_verlorene_Handschrift.txt.tsv
-Nachbarn,33,DEU030_Die_verlorene_Handschrift.txt.tsv
-seine,32,DEU030_Die_verlorene_Handschrift.txt.tsv
-Familie,32,DEU030_Die_verlorene_Handschrift.txt.tsv
-Georg,992,DEU094_Der_Weg_ins_Freie.txt.tsv
-Anna,399,DEU094_Der_Weg_ins_Freie.txt.tsv
-Heinrich,333,DEU094_Der_Weg_ins_Freie.txt.tsv
-Georg.,138,DEU094_Der_Weg_ins_Freie.txt.tsv
+Knips,36,DEU030_Die_verlorene_Handschrift.txt.tsv
+Siddy,33,DEU030_Die_verlorene_Handschrift.txt.tsv
+Hans,29,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Ilse,29,DEU030_Die_verlorene_Handschrift.txt.tsv
+Tacitus,28,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Hahn,27,DEU030_Die_verlorene_Handschrift.txt.tsv
+Fritz Hahn,26,DEU030_Die_verlorene_Handschrift.txt.tsv
+Magister Knips,24,DEU030_Die_verlorene_Handschrift.txt.tsv
+Prinz Victor,24,DEU030_Die_verlorene_Handschrift.txt.tsv
+Knip,23,DEU030_Die_verlorene_Handschrift.txt.tsv
+Ew. Hoheit,22,DEU030_Die_verlorene_Handschrift.txt.tsv
+Franz,19,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Werner,19,DEU030_Die_verlorene_Handschrift.txt.tsv
+Hahn,17,DEU030_Die_verlorene_Handschrift.txt.tsv
+Clara,16,DEU030_Die_verlorene_Handschrift.txt.tsv
+Speihahn,15,DEU030_Die_verlorene_Handschrift.txt.tsv
+Krüger,15,DEU030_Die_verlorene_Handschrift.txt.tsv
+Dorche,13,DEU030_Die_verlorene_Handschrift.txt.tsv
+Fräulein Laura,13,DEU030_Die_verlorene_Handschrift.txt.tsv
+Rollmaus,12,DEU030_Die_verlorene_Handschrift.txt.tsv
+Gabriels,11,DEU030_Die_verlorene_Handschrift.txt.tsv
+Professor Werner,11,DEU030_Die_verlorene_Handschrift.txt.tsv
+Heinrich,10,DEU030_Die_verlorene_Handschrift.txt.tsv
+-,10,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Oberamtmann,9,DEU030_Die_verlorene_Handschrift.txt.tsv
+Dorchen,9,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Pathe,9,DEU030_Die_verlorene_Handschrift.txt.tsv
+Professor Raschke,9,DEU030_Die_verlorene_Handschrift.txt.tsv
+Tochter Laura,9,DEU030_Die_verlorene_Handschrift.txt.tsv
+Familie Hahn,8,DEU030_Die_verlorene_Handschrift.txt.tsv
+Benz,8,DEU030_Die_verlorene_Handschrift.txt.tsv
+Thor,8,DEU030_Die_verlorene_Handschrift.txt.tsv
+Susanne,7,DEU030_Die_verlorene_Handschrift.txt.tsv
+Bachhuber,7,DEU030_Die_verlorene_Handschrift.txt.tsv
+Billy,7,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Knips,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Bauer,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Professor Struvelius,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Madame Hummel,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Venus,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Armine,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Aurelie,6,DEU030_Die_verlorene_Handschrift.txt.tsv
+Ilsen,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+dorchen,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Professor Struvelius,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Struvelius,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Günther,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Humboldt,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Xerxes,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Weidegg,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Julia,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Dorothee,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Tiberius,5,DEU030_Die_verlorene_Handschrift.txt.tsv
+Familie Hummel,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Felix Werner,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Magister Knip,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Luise,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Karl,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Schwester Clara,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Rothe,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Raschke,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Professor Raschke,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Professor Werner,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Dero,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+H. Hummel,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Aurelie,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Bertha,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Armin,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+ewen Hoheit,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Tanhaus,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Kastellan,4,DEU030_Die_verlorene_Handschrift.txt.tsv
+Luther,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Augustus,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frater Tobias Bachhuber,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Bruder Tobias Bachhuber,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frater Tobias,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Schiller,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Nero,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Oberamtmann Rollmaus,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Oberamtmann Rollmaus,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Frau Rollmaus,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Herr Doctor,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Philippine,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Markthelfer Rothe,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Andreas,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Elisabeth,3,DEU030_Die_verlorene_Handschrift.txt.tsv
+Georg,1039,DEU094_Der_Weg_ins_Freie.txt.tsv
+Anna,439,DEU094_Der_Weg_ins_Freie.txt.tsv
+Heinrich,362,DEU094_Der_Weg_ins_Freie.txt.tsv
+Georg.,137,DEU094_Der_Weg_ins_Freie.txt.tsv
 Therese,125,DEU094_Der_Weg_ins_Freie.txt.tsv
 Else,115,DEU094_Der_Weg_ins_Freie.txt.tsv
-Menschen,108,DEU094_Der_Weg_ins_Freie.txt.tsv
-Nürnberger,108,DEU094_Der_Weg_ins_Freie.txt.tsv
-Kind,97,DEU094_Der_Weg_ins_Freie.txt.tsv
-Mutter,96,DEU094_Der_Weg_ins_Freie.txt.tsv
-Felician,93,DEU094_Der_Weg_ins_Freie.txt.tsv
-Leo,90,DEU094_Der_Weg_ins_Freie.txt.tsv
-Vater,87,DEU094_Der_Weg_ins_Freie.txt.tsv
-Frau Ehrenberg,71,DEU094_Der_Weg_ins_Freie.txt.tsv
-Frau,66,DEU094_Der_Weg_ins_Freie.txt.tsv
-Demeter,62,DEU094_Der_Weg_ins_Freie.txt.tsv
-Leute,57,DEU094_Der_Weg_ins_Freie.txt.tsv
-Berthold,57,DEU094_Der_Weg_ins_Freie.txt.tsv
-Doktor Stauber,54,DEU094_Der_Weg_ins_Freie.txt.tsv
-die,54,DEU094_Der_Weg_ins_Freie.txt.tsv
-Mann,52,DEU094_Der_Weg_ins_Freie.txt.tsv
-Georgs,49,DEU094_Der_Weg_ins_Freie.txt.tsv
-Annas,49,DEU094_Der_Weg_ins_Freie.txt.tsv
-Bruder,48,DEU094_Der_Weg_ins_Freie.txt.tsv
-andern,47,DEU094_Der_Weg_ins_Freie.txt.tsv
-sie,46,DEU094_Der_Weg_ins_Freie.txt.tsv
-man,43,DEU094_Der_Weg_ins_Freie.txt.tsv
-Oskar,41,DEU094_Der_Weg_ins_Freie.txt.tsv
-Mensch,40,DEU094_Der_Weg_ins_Freie.txt.tsv
-Willy,37,DEU094_Der_Weg_ins_Freie.txt.tsv
-Dame,37,DEU094_Der_Weg_ins_Freie.txt.tsv
-Juden,36,DEU094_Der_Weg_ins_Freie.txt.tsv
-Baron,35,DEU094_Der_Weg_ins_Freie.txt.tsv
-Wesen,35,DEU094_Der_Weg_ins_Freie.txt.tsv
-Frau Golowski,35,DEU094_Der_Weg_ins_Freie.txt.tsv
-Herr Baron,34,DEU094_Der_Weg_ins_Freie.txt.tsv
-Sissy,34,DEU094_Der_Weg_ins_Freie.txt.tsv
-Frau Rosner,33,DEU094_Der_Weg_ins_Freie.txt.tsv
-sich,33,DEU094_Der_Weg_ins_Freie.txt.tsv
-Geliebte,32,DEU094_Der_Weg_ins_Freie.txt.tsv
-Leuten,30,DEU094_Der_Weg_ins_Freie.txt.tsv
-Heinrichs,29,DEU094_Der_Weg_ins_Freie.txt.tsv
-Sohn,28,DEU094_Der_Weg_ins_Freie.txt.tsv
-Josef,28,DEU094_Der_Weg_ins_Freie.txt.tsv
-der,27,DEU094_Der_Weg_ins_Freie.txt.tsv
-Mädchen,26,DEU094_Der_Weg_ins_Freie.txt.tsv
-Bermann,26,DEU094_Der_Weg_ins_Freie.txt.tsv
-Eißler,25,DEU094_Der_Weg_ins_Freie.txt.tsv
-Ehrenberg,25,DEU094_Der_Weg_ins_Freie.txt.tsv
-Arzt,25,DEU094_Der_Weg_ins_Freie.txt.tsv
-Kindes,25,DEU094_Der_Weg_ins_Freie.txt.tsv
-Ägidius,25,DEU094_Der_Weg_ins_Freie.txt.tsv
-Herren,24,DEU094_Der_Weg_ins_Freie.txt.tsv
-Schwester,24,DEU094_Der_Weg_ins_Freie.txt.tsv
-Herr Rosner,24,DEU094_Der_Weg_ins_Freie.txt.tsv
-Ehrenbergs,23,DEU094_Der_Weg_ins_Freie.txt.tsv
-Vaters,21,DEU094_Der_Weg_ins_Freie.txt.tsv
-Leo Golowski,21,DEU094_Der_Weg_ins_Freie.txt.tsv
-Freund,21,DEU094_Der_Weg_ins_Freie.txt.tsv
-einer,21,DEU094_Der_Weg_ins_Freie.txt.tsv
-Stanzides,21,DEU094_Der_Weg_ins_Freie.txt.tsv
-Gesellschaft,20,DEU094_Der_Weg_ins_Freie.txt.tsv
+Nürnberger,103,DEU094_Der_Weg_ins_Freie.txt.tsv
+Felician,101,DEU094_Der_Weg_ins_Freie.txt.tsv
+Leo,96,DEU094_Der_Weg_ins_Freie.txt.tsv
+Frau Ehrenberg,72,DEU094_Der_Weg_ins_Freie.txt.tsv
+Demeter,63,DEU094_Der_Weg_ins_Freie.txt.tsv
+Berthold,60,DEU094_Der_Weg_ins_Freie.txt.tsv
+Doktor Stauber,51,DEU094_Der_Weg_ins_Freie.txt.tsv
+Ehrenberg,45,DEU094_Der_Weg_ins_Freie.txt.tsv
+Oskar,43,DEU094_Der_Weg_ins_Freie.txt.tsv
+Willy,40,DEU094_Der_Weg_ins_Freie.txt.tsv
+Sissy,36,DEU094_Der_Weg_ins_Freie.txt.tsv
+Frau Golowski,36,DEU094_Der_Weg_ins_Freie.txt.tsv
+Frau Rosner,34,DEU094_Der_Weg_ins_Freie.txt.tsv
+Josef,29,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herr Rosner,29,DEU094_Der_Weg_ins_Freie.txt.tsv
+Bermann,24,DEU094_Der_Weg_ins_Freie.txt.tsv
+Leo Golowski,24,DEU094_Der_Weg_ins_Freie.txt.tsv
+Ägidius,24,DEU094_Der_Weg_ins_Freie.txt.tsv
 Frau Oberberger,20,DEU094_Der_Weg_ins_Freie.txt.tsv
-Frauen,20,DEU094_Der_Weg_ins_Freie.txt.tsv
 Grace,19,DEU094_Der_Weg_ins_Freie.txt.tsv
 Fräulein Else,19,DEU094_Der_Weg_ins_Freie.txt.tsv
-Geliebten,18,DEU094_Der_Weg_ins_Freie.txt.tsv
-Herr,18,DEU094_Der_Weg_ins_Freie.txt.tsv
+Heinrich Bermann,19,DEU094_Der_Weg_ins_Freie.txt.tsv
 Willy Eißler,18,DEU094_Der_Weg_ins_Freie.txt.tsv
-Alte,18,DEU094_Der_Weg_ins_Freie.txt.tsv
-Schauspielerin,18,DEU094_Der_Weg_ins_Freie.txt.tsv
-Professor,18,DEU094_Der_Weg_ins_Freie.txt.tsv
-Kinder,17,DEU094_Der_Weg_ins_Freie.txt.tsv
-Herr Doktor,17,DEU094_Der_Weg_ins_Freie.txt.tsv
-einem,17,DEU094_Der_Weg_ins_Freie.txt.tsv
-Heinrich Bermann,16,DEU094_Der_Weg_ins_Freie.txt.tsv
-uns,16,DEU094_Der_Weg_ins_Freie.txt.tsv
-ihnen,16,DEU094_Der_Weg_ins_Freie.txt.tsv
-Demeter Stanzides,15,DEU094_Der_Weg_ins_Freie.txt.tsv
-seine,15,DEU094_Der_Weg_ins_Freie.txt.tsv
-James,15,DEU094_Der_Weg_ins_Freie.txt.tsv
-Damen,14,DEU094_Der_Weg_ins_Freie.txt.tsv
-er,14,DEU094_Der_Weg_ins_Freie.txt.tsv
-denen,14,DEU094_Der_Weg_ins_Freie.txt.tsv
+Labinski,17,DEU094_Der_Weg_ins_Freie.txt.tsv
+James,16,DEU094_Der_Weg_ins_Freie.txt.tsv
+Eißler,15,DEU094_Der_Weg_ins_Freie.txt.tsv
+Rosner,14,DEU094_Der_Weg_ins_Freie.txt.tsv
 Skelton,14,DEU094_Der_Weg_ins_Freie.txt.tsv
-Prinzessin,14,DEU094_Der_Weg_ins_Freie.txt.tsv
-Nürnbergers,14,DEU094_Der_Weg_ins_Freie.txt.tsv
-Eltern,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-Tochter,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-Kapellmeister,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-Jude,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-wir,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-Leos,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-Oberleutnant,13,DEU094_Der_Weg_ins_Freie.txt.tsv
-Oskar Ehrenberg,12,DEU094_Der_Weg_ins_Freie.txt.tsv
-Labinski,12,DEU094_Der_Weg_ins_Freie.txt.tsv
-Bekannten,12,DEU094_Der_Weg_ins_Freie.txt.tsv
-Doktor,12,DEU094_Der_Weg_ins_Freie.txt.tsv
-Mama,11,DEU094_Der_Weg_ins_Freie.txt.tsv
-Künstler,11,DEU094_Der_Weg_ins_Freie.txt.tsv
-Amrei,350,DEU013_Barfüßele.txt.tsv
-Barfüßele,274,DEU013_Barfüßele.txt.tsv
-Dami,211,DEU013_Barfüßele.txt.tsv
-Johannes,181,DEU013_Barfüßele.txt.tsv
-Marann',149,DEU013_Barfüßele.txt.tsv
-Mutter,124,DEU013_Barfüßele.txt.tsv
-Kinder,94,DEU013_Barfüßele.txt.tsv
-Menschen,71,DEU013_Barfüßele.txt.tsv
-Vater,69,DEU013_Barfüßele.txt.tsv
-Frau,64,DEU013_Barfüßele.txt.tsv
-Kind,64,DEU013_Barfüßele.txt.tsv
-Rosel,61,DEU013_Barfüßele.txt.tsv
-Bruder,60,DEU013_Barfüßele.txt.tsv
-Rodelbauer,51,DEU013_Barfüßele.txt.tsv
-Bäuerin,49,DEU013_Barfüßele.txt.tsv
-Eltern,42,DEU013_Barfüßele.txt.tsv
-Schwester,40,DEU013_Barfüßele.txt.tsv
-Mädchen,39,DEU013_Barfüßele.txt.tsv
-Bauer,38,DEU013_Barfüßele.txt.tsv
-Alte,34,DEU013_Barfüßele.txt.tsv
-Ohm,34,DEU013_Barfüßele.txt.tsv
-Mann,33,DEU013_Barfüßele.txt.tsv
-Mensch,33,DEU013_Barfüßele.txt.tsv
-Krappenzacher,30,DEU013_Barfüßele.txt.tsv
-sie,29,DEU013_Barfüßele.txt.tsv
-Landfriedbäuerin,28,DEU013_Barfüßele.txt.tsv
-wer,26,DEU013_Barfüßele.txt.tsv
-Leute,25,DEU013_Barfüßele.txt.tsv
-Kohlenmathes,24,DEU013_Barfüßele.txt.tsv
-Gott,24,DEU013_Barfüßele.txt.tsv
-Sohn,24,DEU013_Barfüßele.txt.tsv
-Vaters,22,DEU013_Barfüßele.txt.tsv
-Bursche,22,DEU013_Barfüßele.txt.tsv
-Rodelbauern,20,DEU013_Barfüßele.txt.tsv
-er,20,DEU013_Barfüßele.txt.tsv
-Magd,18,DEU013_Barfüßele.txt.tsv
-man,17,DEU013_Barfüßele.txt.tsv
-die,16,DEU013_Barfüßele.txt.tsv
-sich,16,DEU013_Barfüßele.txt.tsv
-Kindern,15,DEU013_Barfüßele.txt.tsv
-Einem,15,DEU013_Barfüßele.txt.tsv
-ihm,13,DEU013_Barfüßele.txt.tsv
-Knabe,12,DEU013_Barfüßele.txt.tsv
-Andern,12,DEU013_Barfüßele.txt.tsv
-der,12,DEU013_Barfüßele.txt.tsv
-Landfriedbauer,12,DEU013_Barfüßele.txt.tsv
-Tochter,12,DEU013_Barfüßele.txt.tsv
-Josenhans,11,DEU013_Barfüßele.txt.tsv
-Familie,11,DEU013_Barfüßele.txt.tsv
-Eine,11,DEU013_Barfüßele.txt.tsv
-Alten,11,DEU013_Barfüßele.txt.tsv
-Kindes,10,DEU013_Barfüßele.txt.tsv
-Leuten,10,DEU013_Barfüßele.txt.tsv
-Fremden,10,DEU013_Barfüßele.txt.tsv
-Landjäger,10,DEU013_Barfüßele.txt.tsv
-Fremde,10,DEU013_Barfüßele.txt.tsv
-Pfleger,9,DEU013_Barfüßele.txt.tsv
-Jemand,9,DEU013_Barfüßele.txt.tsv
-Einen,9,DEU013_Barfüßele.txt.tsv
-König,9,DEU013_Barfüßele.txt.tsv
-Mädle,8,DEU013_Barfüßele.txt.tsv
-Kinde,8,DEU013_Barfüßele.txt.tsv
-Rodelbäuerin,8,DEU013_Barfüßele.txt.tsv
-Armen,8,DEU013_Barfüßele.txt.tsv
-Amrei's,8,DEU013_Barfüßele.txt.tsv
-Burschen,8,DEU013_Barfüßele.txt.tsv
-Tänzer,8,DEU013_Barfüßele.txt.tsv
-Scheckennarren,8,DEU013_Barfüßele.txt.tsv
-Meisterin,8,DEU013_Barfüßele.txt.tsv
-Pfarrer,8,DEU013_Barfüßele.txt.tsv
-Schultheiß,7,DEU013_Barfüßele.txt.tsv
-Bursch,7,DEU013_Barfüßele.txt.tsv
+Oskar Ehrenberg,13,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herr Baron,12,DEU094_Der_Weg_ins_Freie.txt.tsv
+Stanzides,12,DEU094_Der_Weg_ins_Freie.txt.tsv
+Demeter Stanzides,11,DEU094_Der_Weg_ins_Freie.txt.tsv
+Breitner,11,DEU094_Der_Weg_ins_Freie.txt.tsv
+Winternitz,11,DEU094_Der_Weg_ins_Freie.txt.tsv
+Fräulein Anna,10,DEU094_Der_Weg_ins_Freie.txt.tsv
+Golowski,10,DEU094_Der_Weg_ins_Freie.txt.tsv
+Amy,10,DEU094_Der_Weg_ins_Freie.txt.tsv
+Anna Rosner,9,DEU094_Der_Weg_ins_Freie.txt.tsv
+Hofrat Wilt,9,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herr Ehrenberg,9,DEU094_Der_Weg_ins_Freie.txt.tsv
+Baron Wergenthin,8,DEU094_Der_Weg_ins_Freie.txt.tsv
+Guido,8,DEU094_Der_Weg_ins_Freie.txt.tsv
+Annas,8,DEU094_Der_Weg_ins_Freie.txt.tsv
+-,7,DEU094_Der_Weg_ins_Freie.txt.tsv
+Jalaudek,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Doktor Berthold,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Therese Golowski,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herr Bermann,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Leos,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Rapp,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Gleißner,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Stauber,6,DEU094_Der_Weg_ins_Freie.txt.tsv
+Ralph Skelton,5,DEU094_Der_Weg_ins_Freie.txt.tsv
+Else Ehrenberg,5,DEU094_Der_Weg_ins_Freie.txt.tsv
+Marianne,5,DEU094_Der_Weg_ins_Freie.txt.tsv
+Wilt,5,DEU094_Der_Weg_ins_Freie.txt.tsv
+Heliodor,5,DEU094_Der_Weg_ins_Freie.txt.tsv
+Georg von Wergenthin,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Baron,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Annerl,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Demeter Stanzide,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Doktor von Breitner,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Frau Wyner,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Theresen,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Guido Schönstein,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Marie,4,DEU094_Der_Weg_ins_Freie.txt.tsv
+Salomon,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Bellini,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Fräulein Bellini,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Stanzide,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Georg Wergenthin,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Fräulein Therese,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herzog Heliodor,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Nietzsche,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herr Eißler,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Rosners,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Grafen Malnitz,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Freund Heinrich,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Tristan,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Oberleutnant Sefranek,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+James Wyner,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Micaela,3,DEU094_Der_Weg_ins_Freie.txt.tsv
+Grafen Schönstein,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Rittmeister Ladisc,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+S.,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Sohn Oskar,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Familie Golowski,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Sissy Wyner,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Edmund Nürnberger,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Schubert,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Wyners,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Baron Georg,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Fräulein Therese Golowski,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Herr Golowski,2,DEU094_Der_Weg_ins_Freie.txt.tsv
+Amrei,327,DEU013_Barfüßele.txt.tsv
+Johannes,164,DEU013_Barfüßele.txt.tsv
+Barfüßele,158,DEU013_Barfüßele.txt.tsv
+Dami,135,DEU013_Barfüßele.txt.tsv
+Marann,118,DEU013_Barfüßele.txt.tsv
+dami,64,DEU013_Barfüßele.txt.tsv
+Rosel,41,DEU013_Barfüßele.txt.tsv
+Barfüßel,29,DEU013_Barfüßele.txt.tsv
+Ohm,23,DEU013_Barfüßele.txt.tsv
+Johann,14,DEU013_Barfüßele.txt.tsv
+Josenhans,9,DEU013_Barfüßele.txt.tsv
+Gott,8,DEU013_Barfüßele.txt.tsv
+Kohlenmathes,7,DEU013_Barfüßele.txt.tsv
 Severin,7,DEU013_Barfüßele.txt.tsv
-Bauern,7,DEU013_Barfüßele.txt.tsv
-Frauen,7,DEU013_Barfüßele.txt.tsv
-das,7,DEU013_Barfüßele.txt.tsv
-Wer,7,DEU013_Barfüßele.txt.tsv
-Einer,7,DEU013_Barfüßele.txt.tsv
-Roßbub,7,DEU013_Barfüßele.txt.tsv
-ihnen,7,DEU013_Barfüßele.txt.tsv
-Salzgräfin,7,DEU013_Barfüßele.txt.tsv
-Gemeinderath,6,DEU013_Barfüßele.txt.tsv
-Knecht,6,DEU013_Barfüßele.txt.tsv
-Annehmer,6,DEU013_Barfüßele.txt.tsv
-Andere,6,DEU013_Barfüßele.txt.tsv
-du,6,DEU013_Barfüßele.txt.tsv
-Söhnerin,6,DEU013_Barfüßele.txt.tsv
+Josenhan,6,DEU013_Barfüßele.txt.tsv
+-,6,DEU013_Barfüßele.txt.tsv
 Dominik,6,DEU013_Barfüßele.txt.tsv
-Reiter,6,DEU013_Barfüßele.txt.tsv
-Freier,6,DEU013_Barfüßele.txt.tsv
-Lehrer,5,DEU013_Barfüßele.txt.tsv
-Josenhansen,5,DEU013_Barfüßele.txt.tsv
 Lisbeth,5,DEU013_Barfüßele.txt.tsv
-Mannes,5,DEU013_Barfüßele.txt.tsv
-Meister,5,DEU013_Barfüßele.txt.tsv
-Ohms,5,DEU013_Barfüßele.txt.tsv
-den,5,DEU013_Barfüßele.txt.tsv
-denen,5,DEU013_Barfüßele.txt.tsv
-Schmalzgräfin,5,DEU013_Barfüßele.txt.tsv
-Oberknecht,5,DEU013_Barfüßele.txt.tsv
-Leonhart,342,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Krastinik,232,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Rother,224,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Mann,214,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Menschen,156,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Mensch,143,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-sich,125,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Dichter,124,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Brosi,4,DEU013_Barfüßele.txt.tsv
+barfüßele,4,DEU013_Barfüßele.txt.tsv
+Lux,4,DEU013_Barfüßele.txt.tsv
+Schultheiß,3,DEU013_Barfüßele.txt.tsv
+Amrei's,3,DEU013_Barfüßele.txt.tsv
+Johanne,3,DEU013_Barfüßele.txt.tsv
+Oberbaurath Severin,2,DEU013_Barfüßele.txt.tsv
+Rodelbauer Rosel,2,DEU013_Barfüßele.txt.tsv
+Agy,2,DEU013_Barfüßele.txt.tsv
+Barfüßeler,2,DEU013_Barfüßele.txt.tsv
+Jörg,2,DEU013_Barfüßele.txt.tsv
+Landfriedbauer Johannes von Zusmarshofen,2,DEU013_Barfüßele.txt.tsv
+Kohlenbrenner Mathes,1,DEU013_Barfüßele.txt.tsv
+Anna Marie,1,DEU013_Barfüßele.txt.tsv
+Damian,1,DEU013_Barfüßele.txt.tsv
+Sohn Severin,1,DEU013_Barfüßele.txt.tsv
+Zacharias,1,DEU013_Barfüßele.txt.tsv
+Moni,1,DEU013_Barfüßele.txt.tsv
+Aeltester,1,DEU013_Barfüßele.txt.tsv
+Caspar,1,DEU013_Barfüßele.txt.tsv
+Melchior,1,DEU013_Barfüßele.txt.tsv
+Balthes,1,DEU013_Barfüßele.txt.tsv
+Fridolin,1,DEU013_Barfüßele.txt.tsv
+Johann Michael Winkler,1,DEU013_Barfüßele.txt.tsv
+Johannes Winkler von Haldenbrunn,1,DEU013_Barfüßele.txt.tsv
+Humpel,1,DEU013_Barfüßele.txt.tsv
+Maurer Martin,1,DEU013_Barfüßele.txt.tsv
+Kohlenmath,1,DEU013_Barfüßele.txt.tsv
+Columbus,1,DEU013_Barfüßele.txt.tsv
+Ameil,1,DEU013_Barfüßele.txt.tsv
+Furchenbäuerin Ameile,1,DEU013_Barfüßele.txt.tsv
+Amrei von Siebenhof,1,DEU013_Barfüßele.txt.tsv
+Ameile,1,DEU013_Barfüßele.txt.tsv
+Landjäger Amrei,1,DEU013_Barfüßele.txt.tsv
+Gypsmüllerin Monika,1,DEU013_Barfüßele.txt.tsv
+Schneiderjörg,1,DEU013_Barfüßele.txt.tsv
+Auerhahnwirth,1,DEU013_Barfüßele.txt.tsv
+Enzian-Valentin,1,DEU013_Barfüßele.txt.tsv
+amrei,1,DEU013_Barfüßele.txt.tsv
+Bafüßele,1,DEU013_Barfüßele.txt.tsv
+Mathes,1,DEU013_Barfüßele.txt.tsv
+Johannes Allerlei,1,DEU013_Barfüßele.txt.tsv
+barfüßeln,1,DEU013_Barfüßele.txt.tsv
+Barfüßle,1,DEU013_Barfüßele.txt.tsv
+Kukuk,1,DEU013_Barfüßele.txt.tsv
+Schimmelreiter,1,DEU013_Barfüßele.txt.tsv
+Josenhansen,1,DEU013_Barfüßele.txt.tsv
+Euer Johannes,1,DEU013_Barfüßele.txt.tsv
+Cordula Katharina,1,DEU013_Barfüßele.txt.tsv
+Amrei Josenhan von Haldenbrunn,1,DEU013_Barfüßele.txt.tsv
+Annehmer Amrei's,1,DEU013_Barfüßele.txt.tsv
+dann,1,DEU013_Barfüßele.txt.tsv
+Josenhans von Haldenbrunn,1,DEU013_Barfüßele.txt.tsv
+Damian von Geierhorst,1,DEU013_Barfüßele.txt.tsv
+der Josenhansen von Geierhorst,1,DEU013_Barfüßele.txt.tsv
+Landfriedbauer Johannes,1,DEU013_Barfüßele.txt.tsv
+Barbara,1,DEU013_Barfüßele.txt.tsv
+Leonhart,390,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Rother,248,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Krastinik,243,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
 Schmoller,110,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-sie,103,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Freund,94,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Kathi,85,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-der,78,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Wer,78,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Gott,74,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-er,73,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Frau,68,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Weib,68,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Herrn,67,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Leute,65,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Herr,65,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-die,60,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Andern,59,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Graf,57,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Wirthin,55,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-man,50,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Leonharts,50,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Freunde,45,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Kind,44,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Dichters,44,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Genie,42,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Männer,41,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-seine,40,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Damen,39,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-wer,38,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-uns,36,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Sohn,35,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Grafen,35,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Dame,35,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-wir,35,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Kerl,32,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Eduard,32,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Künstler,32,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Jüngling,32,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-seiner,32,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-ihm,31,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Napoleon,30,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Herr Graf,29,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Mädchen,29,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Xaver,28,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Mannes,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Wirth,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-sein,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Rothers,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Einer,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Jeder,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Eugen,27,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-seinen,26,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Annesley,26,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Todten,26,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Holbach,26,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Wesen,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Andre,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Weiber,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Cäsar,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Volk,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-ihr,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Genies,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Chef,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-ihre,24,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Deutschen,23,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Menschheit,23,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Goethe,23,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Franzosen,22,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Feinde,22,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-ihnen,22,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Meister,22,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-ihrer,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Vater,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Frau Lämmers,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Shakespeare,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Feind,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Kathi,98,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Napoleon,37,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Eduard,33,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Holbach,30,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Xaver,29,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Annesley,29,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Cäsar,28,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Eugen,26,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Shakespeare,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Catilina,25,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+-,24,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Goethe,24,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Bismarck,23,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Lady Dorrington,22,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Dorrington,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
 Wolffert,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Juden,21,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Lady Dorrington,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Andere,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Kinder,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Mutter,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Verleger,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Catilina,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Gesellschaft,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Kathis,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Bammer,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Eine,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Ritter,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Frauen,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Naturen,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Autor,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Dondershausen,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Offizier,18,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
-Mama,113,DEU072_Im_alten_Eisen.txt.tsv
-Peter,86,DEU072_Im_alten_Eisen.txt.tsv
-Mutter Cruse,74,DEU072_Im_alten_Eisen.txt.tsv
-Frau,72,DEU072_Im_alten_Eisen.txt.tsv
-Mann,70,DEU072_Im_alten_Eisen.txt.tsv
-Schmied,65,DEU072_Im_alten_Eisen.txt.tsv
-Peter Uhusen,62,DEU072_Im_alten_Eisen.txt.tsv
-Mutter,59,DEU072_Im_alten_Eisen.txt.tsv
-Rotkäppchen,59,DEU072_Im_alten_Eisen.txt.tsv
-Uhusen,56,DEU072_Im_alten_Eisen.txt.tsv
-Kinder,55,DEU072_Im_alten_Eisen.txt.tsv
-Junge,51,DEU072_Im_alten_Eisen.txt.tsv
+Bammer,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Dondershausen,20,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Cromwell,19,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Schiller,17,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Feichseler,17,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Wursteler,16,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Gott,16,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Byron,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Frau Lämmers,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Mary,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Paulus,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Wurmb,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Edelmann,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Cicero,14,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Egremont,13,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Rafael,13,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Lämmerschreyer,13,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Luckner,12,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Fulvia,12,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Clodius,12,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+CÄSAR,12,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Herr Rother,11,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Mowbray,11,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Herr Graf,11,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Haubitz,11,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Crassus,11,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Miß Maud,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Miß Alice,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Alice,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Graf Krastinik,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Zola,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Luther,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Caesar,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Schnapphahnitzkoy,10,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Graf Xaver Krastinik,9,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Eberhart,9,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Christus,9,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Bonaparte,9,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Ella,9,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Lord Dorrington,8,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Lord Byron,8,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Eduard Rother,8,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Henry Francis Annesley,8,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Herr Leonhart,8,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Pompeia,8,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Mr. Egremont,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Mrs. O'Donnogan,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Herr Bammer,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Frau Lämmer,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Venus,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Andre,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Eugen Wolffert,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Josefa,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Heinrich,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Gambetta,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Richard Wagner,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Friedrich,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Sulla,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Knaller,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Wanda,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Lutsch,7,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Graf Xaver,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Maud,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+O'Donnogan,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Merlin,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Herr Kohlrausch,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Kneifer-Mary,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Carlyle,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Goodenough,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Freund Leonhart,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Darwin,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Friedrich Leonhart,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Herr von Lämmerschreyer,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Voltaire,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Gutmann,6,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Fräulein Kreutzner,5,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Emmy,5,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Kohlrausch,5,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Mac Mahon,5,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Mozart,5,DEU061_Größenwahn_ELTeC_ausgabe.txt.tsv
+Peter,88,DEU072_Im_alten_Eisen.txt.tsv
+Peter Uhusen,67,DEU072_Im_alten_Eisen.txt.tsv
+Mutter Cruse,67,DEU072_Im_alten_Eisen.txt.tsv
 Frau Wendeline,48,DEU072_Im_alten_Eisen.txt.tsv
-Kind,47,DEU072_Im_alten_Eisen.txt.tsv
-Menschen,43,DEU072_Im_alten_Eisen.txt.tsv
-Dame,43,DEU072_Im_alten_Eisen.txt.tsv
-Albin,41,DEU072_Im_alten_Eisen.txt.tsv
-Hofrat,38,DEU072_Im_alten_Eisen.txt.tsv
-Herr,37,DEU072_Im_alten_Eisen.txt.tsv
-Leutnants Hegewisch,36,DEU072_Im_alten_Eisen.txt.tsv
-Leute,32,DEU072_Im_alten_Eisen.txt.tsv
-Mädchen,31,DEU072_Im_alten_Eisen.txt.tsv
-Fräulein,28,DEU072_Im_alten_Eisen.txt.tsv
-Freund,28,DEU072_Im_alten_Eisen.txt.tsv
-Rupfer,28,DEU072_Im_alten_Eisen.txt.tsv
-Mensch,26,DEU072_Im_alten_Eisen.txt.tsv
-Herr Hofrat,25,DEU072_Im_alten_Eisen.txt.tsv
-Herr Schmied,25,DEU072_Im_alten_Eisen.txt.tsv
-Kindern,24,DEU072_Im_alten_Eisen.txt.tsv
-Großpapa,24,DEU072_Im_alten_Eisen.txt.tsv
-Sohn,23,DEU072_Im_alten_Eisen.txt.tsv
-Herrn,23,DEU072_Im_alten_Eisen.txt.tsv
-Herrschaften,23,DEU072_Im_alten_Eisen.txt.tsv
+Albin,42,DEU072_Im_alten_Eisen.txt.tsv
+Leutnant Hegewisch,41,DEU072_Im_alten_Eisen.txt.tsv
+Uhusen,36,DEU072_Im_alten_Eisen.txt.tsv
+Rotkäppchen,34,DEU072_Im_alten_Eisen.txt.tsv
 Witwe Wermuth,23,DEU072_Im_alten_Eisen.txt.tsv
-Schwester,20,DEU072_Im_alten_Eisen.txt.tsv
-der,20,DEU072_Im_alten_Eisen.txt.tsv
-sich,20,DEU072_Im_alten_Eisen.txt.tsv
-Toten,18,DEU072_Im_alten_Eisen.txt.tsv
+Herr Schmied,19,DEU072_Im_alten_Eisen.txt.tsv
+Rupfer,18,DEU072_Im_alten_Eisen.txt.tsv
 Frau Wendeline Cruse,18,DEU072_Im_alten_Eisen.txt.tsv
-Herren,17,DEU072_Im_alten_Eisen.txt.tsv
-Jungen,16,DEU072_Im_alten_Eisen.txt.tsv
-Damen,16,DEU072_Im_alten_Eisen.txt.tsv
-Freunde,16,DEU072_Im_alten_Eisen.txt.tsv
-seiner,15,DEU072_Im_alten_Eisen.txt.tsv
-Gesellschaft,15,DEU072_Im_alten_Eisen.txt.tsv
-Leuten,15,DEU072_Im_alten_Eisen.txt.tsv
-Hofrat Dr. Brokenkorb,15,DEU072_Im_alten_Eisen.txt.tsv
-Papa,15,DEU072_Im_alten_Eisen.txt.tsv
-sie,14,DEU072_Im_alten_Eisen.txt.tsv
-andern,14,DEU072_Im_alten_Eisen.txt.tsv
-Paulchen,13,DEU072_Im_alten_Eisen.txt.tsv
-Hofrätchen,13,DEU072_Im_alten_Eisen.txt.tsv
-Herrn Hofrat,13,DEU072_Im_alten_Eisen.txt.tsv
-Vater,13,DEU072_Im_alten_Eisen.txt.tsv
-Knaben,12,DEU072_Im_alten_Eisen.txt.tsv
-Knabe,12,DEU072_Im_alten_Eisen.txt.tsv
-Tochter,12,DEU072_Im_alten_Eisen.txt.tsv
-Erdwine Hegewisch,12,DEU072_Im_alten_Eisen.txt.tsv
-Kutscher,12,DEU072_Im_alten_Eisen.txt.tsv
-Erdwine,11,DEU072_Im_alten_Eisen.txt.tsv
-Mama Cruse,11,DEU072_Im_alten_Eisen.txt.tsv
-er,10,DEU072_Im_alten_Eisen.txt.tsv
-die,10,DEU072_Im_alten_Eisen.txt.tsv
-Schwesterchen,10,DEU072_Im_alten_Eisen.txt.tsv
-Paule,10,DEU072_Im_alten_Eisen.txt.tsv
-Volk,10,DEU072_Im_alten_Eisen.txt.tsv
+Hofrat Dr. Brokenkorb,16,DEU072_Im_alten_Eisen.txt.tsv
+Herr Hofrat,16,DEU072_Im_alten_Eisen.txt.tsv
+Paulchen,12,DEU072_Im_alten_Eisen.txt.tsv
+Hofrat Dr. Albin Brokenkorb,11,DEU072_Im_alten_Eisen.txt.tsv
 Hofrat Brokenkorb,10,DEU072_Im_alten_Eisen.txt.tsv
-Kinde,10,DEU072_Im_alten_Eisen.txt.tsv
-Freundin,10,DEU072_Im_alten_Eisen.txt.tsv
-Teufel,10,DEU072_Im_alten_Eisen.txt.tsv
-Gott,10,DEU072_Im_alten_Eisen.txt.tsv
-Bekannten,10,DEU072_Im_alten_Eisen.txt.tsv
-Kerl,10,DEU072_Im_alten_Eisen.txt.tsv
-Weib,10,DEU072_Im_alten_Eisen.txt.tsv
-Großvaters,10,DEU072_Im_alten_Eisen.txt.tsv
-Madam,10,DEU072_Im_alten_Eisen.txt.tsv
-Wolf,10,DEU072_Im_alten_Eisen.txt.tsv
-Männer,9,DEU072_Im_alten_Eisen.txt.tsv
-Hofrat Dr. Albin Brokenkorb,9,DEU072_Im_alten_Eisen.txt.tsv
-Publikum,9,DEU072_Im_alten_Eisen.txt.tsv
+Mama Cruse,10,DEU072_Im_alten_Eisen.txt.tsv
+Lochner,10,DEU072_Im_alten_Eisen.txt.tsv
+Paule,9,DEU072_Im_alten_Eisen.txt.tsv
 Albin Brokenkorb,9,DEU072_Im_alten_Eisen.txt.tsv
-Vaters,9,DEU072_Im_alten_Eisen.txt.tsv
-Brokenkorb,9,DEU072_Im_alten_Eisen.txt.tsv
-Lochner,9,DEU072_Im_alten_Eisen.txt.tsv
-Doktor,8,DEU072_Im_alten_Eisen.txt.tsv
-Kleine,8,DEU072_Im_alten_Eisen.txt.tsv
-man,8,DEU072_Im_alten_Eisen.txt.tsv
-Gast,8,DEU072_Im_alten_Eisen.txt.tsv
-Schmied von Jüterbog,8,DEU072_Im_alten_Eisen.txt.tsv
-Großmama,8,DEU072_Im_alten_Eisen.txt.tsv
+Herr Hofrat Brokenkorb,9,DEU072_Im_alten_Eisen.txt.tsv
+Erdwine Hegewisch,9,DEU072_Im_alten_Eisen.txt.tsv
 Doktor Berg,7,DEU072_Im_alten_Eisen.txt.tsv
-Tropf,7,DEU072_Im_alten_Eisen.txt.tsv
-Großpapas,7,DEU072_Im_alten_Eisen.txt.tsv
-Götter,7,DEU072_Im_alten_Eisen.txt.tsv
-Narren,7,DEU072_Im_alten_Eisen.txt.tsv
-Tante Gottliebe,7,DEU072_Im_alten_Eisen.txt.tsv
-Erdwinens,7,DEU072_Im_alten_Eisen.txt.tsv
-Jugendfreund,7,DEU072_Im_alten_Eisen.txt.tsv
+Erdwinen,7,DEU072_Im_alten_Eisen.txt.tsv
+Mutter -,7,DEU072_Im_alten_Eisen.txt.tsv
 Fräulein Rotkäppchen,7,DEU072_Im_alten_Eisen.txt.tsv
-Tante,6,DEU072_Im_alten_Eisen.txt.tsv
-Doralice,434,DEU097_Wellen.txt.tsv
+Wolf,7,DEU072_Im_alten_Eisen.txt.tsv
+Tante Gottliebe,6,DEU072_Im_alten_Eisen.txt.tsv
+Paula,6,DEU072_Im_alten_Eisen.txt.tsv
+Brokenkorb,5,DEU072_Im_alten_Eisen.txt.tsv
+Wendeline Cruse,5,DEU072_Im_alten_Eisen.txt.tsv
+Mama,4,DEU072_Im_alten_Eisen.txt.tsv
+Runne,4,DEU072_Im_alten_Eisen.txt.tsv
+Adele,4,DEU072_Im_alten_Eisen.txt.tsv
+Herr Hofrat Dr. Brokenkorb,4,DEU072_Im_alten_Eisen.txt.tsv
+Freund Albin,4,DEU072_Im_alten_Eisen.txt.tsv
+Freund Brokenkorb,4,DEU072_Im_alten_Eisen.txt.tsv
+Emerenz,4,DEU072_Im_alten_Eisen.txt.tsv
+Erdwine,4,DEU072_Im_alten_Eisen.txt.tsv
+Gott,4,DEU072_Im_alten_Eisen.txt.tsv
+Virgil,4,DEU072_Im_alten_Eisen.txt.tsv
+Wolf Wermuth,3,DEU072_Im_alten_Eisen.txt.tsv
+Plate,3,DEU072_Im_alten_Eisen.txt.tsv
+Papa Uhusen,3,DEU072_Im_alten_Eisen.txt.tsv
+Frau Direktorin Cruse,3,DEU072_Im_alten_Eisen.txt.tsv
+Mrs. Crusoe,3,DEU072_Im_alten_Eisen.txt.tsv
+Leutnant Wolf Hegewisch,3,DEU072_Im_alten_Eisen.txt.tsv
+Peterle,3,DEU072_Im_alten_Eisen.txt.tsv
+Bengel,3,DEU072_Im_alten_Eisen.txt.tsv
+Leutnant Wolfram Hegewisch,2,DEU072_Im_alten_Eisen.txt.tsv
+Aglae,2,DEU072_Im_alten_Eisen.txt.tsv
+Josepha,2,DEU072_Im_alten_Eisen.txt.tsv
+Hofrat Albin Brokenkorb,2,DEU072_Im_alten_Eisen.txt.tsv
+Freund Uhusen,2,DEU072_Im_alten_Eisen.txt.tsv
+Frau Senatorin Brokenkorb,2,DEU072_Im_alten_Eisen.txt.tsv
+Buchhalter Uhusen,2,DEU072_Im_alten_Eisen.txt.tsv
+Frau Leutnant,2,DEU072_Im_alten_Eisen.txt.tsv
+Freund Peter,2,DEU072_Im_alten_Eisen.txt.tsv
+Schmied,2,DEU072_Im_alten_Eisen.txt.tsv
+Isis,2,DEU072_Im_alten_Eisen.txt.tsv
+Goethe,2,DEU072_Im_alten_Eisen.txt.tsv
+Hausrucker,2,DEU072_Im_alten_Eisen.txt.tsv
+Herr Doktor Brokenkorb,2,DEU072_Im_alten_Eisen.txt.tsv
+Satan,2,DEU072_Im_alten_Eisen.txt.tsv
+Mohammed,2,DEU072_Im_alten_Eisen.txt.tsv
+Cruse,2,DEU072_Im_alten_Eisen.txt.tsv
+Witwe Erdwine Wermuth,2,DEU072_Im_alten_Eisen.txt.tsv
+Frau Wermuth,2,DEU072_Im_alten_Eisen.txt.tsv
+Freund Peter Uhusen,2,DEU072_Im_alten_Eisen.txt.tsv
+Frau Erdwine,2,DEU072_Im_alten_Eisen.txt.tsv
+Madam Cruse,2,DEU072_Im_alten_Eisen.txt.tsv
+Erdwine Wermuth,2,DEU072_Im_alten_Eisen.txt.tsv
+Frau Erdwine Wermuth,2,DEU072_Im_alten_Eisen.txt.tsv
+Wolfram Wermuth,2,DEU072_Im_alten_Eisen.txt.tsv
+Mutter Flebbe,2,DEU072_Im_alten_Eisen.txt.tsv
+Königin Kleopatra,1,DEU072_Im_alten_Eisen.txt.tsv
+Don Abbondio,1,DEU072_Im_alten_Eisen.txt.tsv
+Don Rodrigo,1,DEU072_Im_alten_Eisen.txt.tsv
+Rahel,1,DEU072_Im_alten_Eisen.txt.tsv
+Undine,1,DEU072_Im_alten_Eisen.txt.tsv
+Kühleborn,1,DEU072_Im_alten_Eisen.txt.tsv
+Prinzessin Ilse,1,DEU072_Im_alten_Eisen.txt.tsv
+Amphitrite,1,DEU072_Im_alten_Eisen.txt.tsv
+Theti,1,DEU072_Im_alten_Eisen.txt.tsv
+Nereu,1,DEU072_Im_alten_Eisen.txt.tsv
+Achilleus,1,DEU072_Im_alten_Eisen.txt.tsv
+Ilion,1,DEU072_Im_alten_Eisen.txt.tsv
+Peleussohn,1,DEU072_Im_alten_Eisen.txt.tsv
+Albinus,1,DEU072_Im_alten_Eisen.txt.tsv
+Familie Uhusen,1,DEU072_Im_alten_Eisen.txt.tsv
+Philosophie Brokenkorb,1,DEU072_Im_alten_Eisen.txt.tsv
+Schulgenosse Peter Uhusen,1,DEU072_Im_alten_Eisen.txt.tsv
+Albino,1,DEU072_Im_alten_Eisen.txt.tsv
+Hanse,1,DEU072_Im_alten_Eisen.txt.tsv
+Landsmann Emanuel Geibel,1,DEU072_Im_alten_Eisen.txt.tsv
+Doktor Albin Brokenkorb,1,DEU072_Im_alten_Eisen.txt.tsv
+Kommerzienrat Fallensleben,1,DEU072_Im_alten_Eisen.txt.tsv
+Major von Grützbeutel,1,DEU072_Im_alten_Eisen.txt.tsv
+Amalie,1,DEU072_Im_alten_Eisen.txt.tsv
+Doralice,435,DEU097_Wellen.txt.tsv
 Hans,246,DEU097_Wellen.txt.tsv
-Hilmar,116,DEU097_Wellen.txt.tsv
-Lolo,94,DEU097_Wellen.txt.tsv
-Generalin,82,DEU097_Wellen.txt.tsv
-Frau,67,DEU097_Wellen.txt.tsv
-Knospelius,52,DEU097_Wellen.txt.tsv
-Agnes,50,DEU097_Wellen.txt.tsv
-Frau von Buttlär,48,DEU097_Wellen.txt.tsv
-Geheimrat,47,DEU097_Wellen.txt.tsv
-Fräulein Bork,38,DEU097_Wellen.txt.tsv
-Menschen,34,DEU097_Wellen.txt.tsv
-Wedig,33,DEU097_Wellen.txt.tsv
-Mädchen,29,DEU097_Wellen.txt.tsv
-man,29,DEU097_Wellen.txt.tsv
-wir,26,DEU097_Wellen.txt.tsv
-Mann,24,DEU097_Wellen.txt.tsv
-Nini,23,DEU097_Wellen.txt.tsv
-die,23,DEU097_Wellen.txt.tsv
+Hilmar,119,DEU097_Wellen.txt.tsv
+Lolo,93,DEU097_Wellen.txt.tsv
+Knospelius,54,DEU097_Wellen.txt.tsv
+Agnes,51,DEU097_Wellen.txt.tsv
+Frau von Buttlär,49,DEU097_Wellen.txt.tsv
+Fräulein Bork,40,DEU097_Wellen.txt.tsv
+Wedig,29,DEU097_Wellen.txt.tsv
+Nini,24,DEU097_Wellen.txt.tsv
 Hans Grill,23,DEU097_Wellen.txt.tsv
-Kind,23,DEU097_Wellen.txt.tsv
-Frauen,19,DEU097_Wellen.txt.tsv
-Männer,19,DEU097_Wellen.txt.tsv
 Baron Buttlär,18,DEU097_Wellen.txt.tsv
-Kinder,17,DEU097_Wellen.txt.tsv
-sich,16,DEU097_Wellen.txt.tsv
-Leute,16,DEU097_Wellen.txt.tsv
-uns,16,DEU097_Wellen.txt.tsv
-anderen,16,DEU097_Wellen.txt.tsv
-sie,15,DEU097_Wellen.txt.tsv
-Stibbe,15,DEU097_Wellen.txt.tsv
-Mutter,14,DEU097_Wellen.txt.tsv
-einem,14,DEU097_Wellen.txt.tsv
-Wardein,14,DEU097_Wellen.txt.tsv
-Ernestine,13,DEU097_Wellen.txt.tsv
-Exzellenz,13,DEU097_Wellen.txt.tsv
-Baron,13,DEU097_Wellen.txt.tsv
-Bella,12,DEU097_Wellen.txt.tsv
-Hansens,12,DEU097_Wellen.txt.tsv
-Doralicens,12,DEU097_Wellen.txt.tsv
-Mutter Wardein,12,DEU097_Wellen.txt.tsv
-Herrn,11,DEU097_Wellen.txt.tsv
-Tochter,10,DEU097_Wellen.txt.tsv
-Mensch,10,DEU097_Wellen.txt.tsv
+Ernestine,14,DEU097_Wellen.txt.tsv
+Stibbe,14,DEU097_Wellen.txt.tsv
+Hansen,12,DEU097_Wellen.txt.tsv
+Bella,11,DEU097_Wellen.txt.tsv
+Doralicen,11,DEU097_Wellen.txt.tsv
 Baronin Buttlär,10,DEU097_Wellen.txt.tsv
-der,10,DEU097_Wellen.txt.tsv
+Wardein,10,DEU097_Wellen.txt.tsv
 Malwine,9,DEU097_Wellen.txt.tsv
-Leutnant,9,DEU097_Wellen.txt.tsv
-Maler,9,DEU097_Wellen.txt.tsv
-Gräfin,9,DEU097_Wellen.txt.tsv
-Fischer,9,DEU097_Wellen.txt.tsv
-Herr,9,DEU097_Wellen.txt.tsv
-Herren,9,DEU097_Wellen.txt.tsv
-Liebe,9,DEU097_Wellen.txt.tsv
-Steege,9,DEU097_Wellen.txt.tsv
-Steegin,9,DEU097_Wellen.txt.tsv
-Familie,8,DEU097_Wellen.txt.tsv
-er,8,DEU097_Wellen.txt.tsv
-Wardeins,8,DEU097_Wellen.txt.tsv
-Buttlär,8,DEU097_Wellen.txt.tsv
-Damen,7,DEU097_Wellen.txt.tsv
-Graf,7,DEU097_Wellen.txt.tsv
-seine,7,DEU097_Wellen.txt.tsv
-Gestalt,7,DEU097_Wellen.txt.tsv
-Gemahl,7,DEU097_Wellen.txt.tsv
-Doralices,7,DEU097_Wellen.txt.tsv
-Gnädige,7,DEU097_Wellen.txt.tsv
-Klaus,7,DEU097_Wellen.txt.tsv
-Herr von Buttlär,7,DEU097_Wellen.txt.tsv
-Gäste,7,DEU097_Wellen.txt.tsv
-Kindern,6,DEU097_Wellen.txt.tsv
-ihn,6,DEU097_Wellen.txt.tsv
+Klaus,9,DEU097_Wellen.txt.tsv
+Herr von Buttlär,8,DEU097_Wellen.txt.tsv
+Buttlär,7,DEU097_Wellen.txt.tsv
 Geheimrat Knospelius,6,DEU097_Wellen.txt.tsv
 Madame Grill,6,DEU097_Wellen.txt.tsv
-Person,6,DEU097_Wellen.txt.tsv
-einen,6,DEU097_Wellen.txt.tsv
-Dame,6,DEU097_Wellen.txt.tsv
-Mathies,6,DEU097_Wellen.txt.tsv
-Herrschaften,6,DEU097_Wellen.txt.tsv
+Mutter Wardein,6,DEU097_Wellen.txt.tsv
 Lolos,5,DEU097_Wellen.txt.tsv
-Junge,5,DEU097_Wellen.txt.tsv
-Sohn,5,DEU097_Wellen.txt.tsv
-Mama,5,DEU097_Wellen.txt.tsv
-Grafen,5,DEU097_Wellen.txt.tsv
-Köhne,5,DEU097_Wellen.txt.tsv
-man sich,5,DEU097_Wellen.txt.tsv
-Weib,5,DEU097_Wellen.txt.tsv
-Knabe,5,DEU097_Wellen.txt.tsv
-Miß Plummers,5,DEU097_Wellen.txt.tsv
-Wir,5,DEU097_Wellen.txt.tsv
 Andree,5,DEU097_Wellen.txt.tsv
-Brautpaar,5,DEU097_Wellen.txt.tsv
-Baronin,5,DEU097_Wellen.txt.tsv
-Strandwächter,5,DEU097_Wellen.txt.tsv
-Töchter,4,DEU097_Wellen.txt.tsv
-Gesellschaft,4,DEU097_Wellen.txt.tsv
-Manne,4,DEU097_Wellen.txt.tsv
-Frau Grill,4,DEU097_Wellen.txt.tsv
-Paar,4,DEU097_Wellen.txt.tsv
-sein,4,DEU097_Wellen.txt.tsv
-Hans,569,DEU038_Der_Hungerpastor.txt.tsv
-Hans Unwirrsch,277,DEU038_Der_Hungerpastor.txt.tsv
-Fränzchen,189,DEU038_Der_Hungerpastor.txt.tsv
-Mann,159,DEU038_Der_Hungerpastor.txt.tsv
-Mutter,148,DEU038_Der_Hungerpastor.txt.tsv
-Frau,119,DEU038_Der_Hungerpastor.txt.tsv
-Moses,114,DEU038_Der_Hungerpastor.txt.tsv
+Frau Klinke,3,DEU097_Wellen.txt.tsv
+Frau Grill,3,DEU097_Wellen.txt.tsv
+Agne,3,DEU097_Wellen.txt.tsv
+Herr Grill,3,DEU097_Wellen.txt.tsv
+Karo,3,DEU097_Wellen.txt.tsv
+-,3,DEU097_Wellen.txt.tsv
+wedig,3,DEU097_Wellen.txt.tsv
+Mathie,3,DEU097_Wellen.txt.tsv
+Thomas,3,DEU097_Wellen.txt.tsv
+Mathies,3,DEU097_Wellen.txt.tsv
+Baron Hamm,3,DEU097_Wellen.txt.tsv
+Fischer Stibbe,3,DEU097_Wellen.txt.tsv
+Gräfin Doralice,2,DEU097_Wellen.txt.tsv
+Rolf,2,DEU097_Wellen.txt.tsv
+Geheimrat von Knospelius,2,DEU097_Wellen.txt.tsv
+Herr Maler,2,DEU097_Wellen.txt.tsv
+Karoline,2,DEU097_Wellen.txt.tsv
+Andree Stibbe,2,DEU097_Wellen.txt.tsv
+Ehepaar Grill,2,DEU097_Wellen.txt.tsv
+Müller,2,DEU097_Wellen.txt.tsv
+Graf Kohn,2,DEU097_Wellen.txt.tsv
+Fischer Steege,2,DEU097_Wellen.txt.tsv
+Steeges,2,DEU097_Wellen.txt.tsv
+Doralices,2,DEU097_Wellen.txt.tsv
+Steege,2,DEU097_Wellen.txt.tsv
+Generalin von Palikow,1,DEU097_Wellen.txt.tsv
+Fräulein Malwine Bork,1,DEU097_Wellen.txt.tsv
+Baronin von Buttlär,1,DEU097_Wellen.txt.tsv
+Mädchen Lolo,1,DEU097_Wellen.txt.tsv
+Bräutigam Hilmar von der Hamm,1,DEU097_Wellen.txt.tsv
+Fischer Wardein,1,DEU097_Wellen.txt.tsv
+Doralice Köhne-Jasky,1,DEU097_Wellen.txt.tsv
+doralic Kohn,1,DEU097_Wellen.txt.tsv
+Kohn,1,DEU097_Wellen.txt.tsv
+Freifrau von Buttlär,1,DEU097_Wellen.txt.tsv
+Palikow,1,DEU097_Wellen.txt.tsv
+Grafen Köhne-Jasky,1,DEU097_Wellen.txt.tsv
+Doralicens,1,DEU097_Wellen.txt.tsv
+Gräfin Jasky,1,DEU097_Wellen.txt.tsv
+Graf Köhne,1,DEU097_Wellen.txt.tsv
+Köhne-Jasky,1,DEU097_Wellen.txt.tsv
+Generalin Palikow,1,DEU097_Wellen.txt.tsv
+Grill,1,DEU097_Wellen.txt.tsv
+Miß Plummer,1,DEU097_Wellen.txt.tsv
+Hans grillsche,1,DEU097_Wellen.txt.tsv
+Geheimrat Hans,1,DEU097_Wellen.txt.tsv
+Frau von Lossow,1,DEU097_Wellen.txt.tsv
+Doktor Krapp,1,DEU097_Wellen.txt.tsv
+wir Lossow,1,DEU097_Wellen.txt.tsv
+Hans Doralice,1,DEU097_Wellen.txt.tsv
+Leutnant Hilmar,1,DEU097_Wellen.txt.tsv
+Onkel General,1,DEU097_Wellen.txt.tsv
+Hamm,1,DEU097_Wellen.txt.tsv
+Asra,1,DEU097_Wellen.txt.tsv
+Gräfin Köhne,1,DEU097_Wellen.txt.tsv
+Gräfin Benedikte,1,DEU097_Wellen.txt.tsv
+Exzellenz Knospelius,1,DEU097_Wellen.txt.tsv
+Leutnant von Hamm,1,DEU097_Wellen.txt.tsv
+Ninis,1,DEU097_Wellen.txt.tsv
+Raffael,1,DEU097_Wellen.txt.tsv
+Agnese,1,DEU097_Wellen.txt.tsv
+Baronin Marowitz,1,DEU097_Wellen.txt.tsv
+Gräfin Patky,1,DEU097_Wellen.txt.tsv
+doralice,1,DEU097_Wellen.txt.tsv
+Bork,1,DEU097_Wellen.txt.tsv
+<ood>,1,DEU097_Wellen.txt.tsv
+Ernestinen,1,DEU097_Wellen.txt.tsv
+Großmutter Wardein,1,DEU097_Wellen.txt.tsv
+Matthies,1,DEU097_Wellen.txt.tsv
+Gräfin Kohn,1,DEU097_Wellen.txt.tsv
+Hilmar Doralice,1,DEU097_Wellen.txt.tsv
+Mamsell,1,DEU097_Wellen.txt.tsv
+Hans,555,DEU038_Der_Hungerpastor.txt.tsv
+Hans Unwirrsch,289,DEU038_Der_Hungerpastor.txt.tsv
 Kleophea,113,DEU038_Der_Hungerpastor.txt.tsv
-Leutnant,104,DEU038_Der_Hungerpastor.txt.tsv
-Base Schlotterbeck,100,DEU038_Der_Hungerpastor.txt.tsv
-Moses Freudenstein,96,DEU038_Der_Hungerpastor.txt.tsv
-Kind,94,DEU038_Der_Hungerpastor.txt.tsv
-Vater,92,DEU038_Der_Hungerpastor.txt.tsv
-Base,92,DEU038_Der_Hungerpastor.txt.tsv
-Menschen,91,DEU038_Der_Hungerpastor.txt.tsv
-Herr,90,DEU038_Der_Hungerpastor.txt.tsv
-Kandidaten,88,DEU038_Der_Hungerpastor.txt.tsv
-Leute,75,DEU038_Der_Hungerpastor.txt.tsv
-Oheim Grünebaum,75,DEU038_Der_Hungerpastor.txt.tsv
-Franziska,68,DEU038_Der_Hungerpastor.txt.tsv
-Oheim,64,DEU038_Der_Hungerpastor.txt.tsv
-Sohn,59,DEU038_Der_Hungerpastor.txt.tsv
-Mensch,53,DEU038_Der_Hungerpastor.txt.tsv
-Fräulein,53,DEU038_Der_Hungerpastor.txt.tsv
-Oberst,53,DEU038_Der_Hungerpastor.txt.tsv
-Mädchen,48,DEU038_Der_Hungerpastor.txt.tsv
-Herrn,46,DEU038_Der_Hungerpastor.txt.tsv
-Oberst von Bullau,44,DEU038_Der_Hungerpastor.txt.tsv
-Kandidat Unwirrsch,43,DEU038_Der_Hungerpastor.txt.tsv
-Herren,42,DEU038_Der_Hungerpastor.txt.tsv
-Vaters,41,DEU038_Der_Hungerpastor.txt.tsv
-Gott,40,DEU038_Der_Hungerpastor.txt.tsv
-Kandidaten Unwirrsch,39,DEU038_Der_Hungerpastor.txt.tsv
-Geheimen,39,DEU038_Der_Hungerpastor.txt.tsv
-Grips,39,DEU038_Der_Hungerpastor.txt.tsv
-Freund,38,DEU038_Der_Hungerpastor.txt.tsv
-Doktor,38,DEU038_Der_Hungerpastor.txt.tsv
-Junge,37,DEU038_Der_Hungerpastor.txt.tsv
-Dame,37,DEU038_Der_Hungerpastor.txt.tsv
-Hauslehrer,37,DEU038_Der_Hungerpastor.txt.tsv
-er,35,DEU038_Der_Hungerpastor.txt.tsv
-Kandidat,35,DEU038_Der_Hungerpastor.txt.tsv
-Leutnant Götz,35,DEU038_Der_Hungerpastor.txt.tsv
-der,34,DEU038_Der_Hungerpastor.txt.tsv
-Kinder,34,DEU038_Der_Hungerpastor.txt.tsv
-Theophile,34,DEU038_Der_Hungerpastor.txt.tsv
-Jean,34,DEU038_Der_Hungerpastor.txt.tsv
-Knaben,32,DEU038_Der_Hungerpastor.txt.tsv
-sich,31,DEU038_Der_Hungerpastor.txt.tsv
-Mannes,30,DEU038_Der_Hungerpastor.txt.tsv
-Tochter,30,DEU038_Der_Hungerpastor.txt.tsv
-Doktor Theophile Stein,30,DEU038_Der_Hungerpastor.txt.tsv
-Volk,28,DEU038_Der_Hungerpastor.txt.tsv
-Nichte,28,DEU038_Der_Hungerpastor.txt.tsv
-Freunde,27,DEU038_Der_Hungerpastor.txt.tsv
-Alte,27,DEU038_Der_Hungerpastor.txt.tsv
-die,26,DEU038_Der_Hungerpastor.txt.tsv
-Leutnant Rudolf Götz,26,DEU038_Der_Hungerpastor.txt.tsv
-Schuster,25,DEU038_Der_Hungerpastor.txt.tsv
-Alten,25,DEU038_Der_Hungerpastor.txt.tsv
-Weib,25,DEU038_Der_Hungerpastor.txt.tsv
-Pastor,25,DEU038_Der_Hungerpastor.txt.tsv
-Frauen,25,DEU038_Der_Hungerpastor.txt.tsv
-Doktor Stein,25,DEU038_Der_Hungerpastor.txt.tsv
-Fränzchens,25,DEU038_Der_Hungerpastor.txt.tsv
+Moses Freudenstein,89,DEU038_Der_Hungerpastor.txt.tsv
+Franziska,77,DEU038_Der_Hungerpastor.txt.tsv
+Moses,73,DEU038_Der_Hungerpastor.txt.tsv
+Oheim Grünebaum,70,DEU038_Der_Hungerpastor.txt.tsv
+Fränzchen,39,DEU038_Der_Hungerpastor.txt.tsv
+Mose,38,DEU038_Der_Hungerpastor.txt.tsv
+Leutnant Götz,38,DEU038_Der_Hungerpastor.txt.tsv
+Jean,36,DEU038_Der_Hungerpastor.txt.tsv
+Doktor Theophile Stein,32,DEU038_Der_Hungerpastor.txt.tsv
+Leutnant Rudolf Götz,29,DEU038_Der_Hungerpastor.txt.tsv
+Theophile,27,DEU038_Der_Hungerpastor.txt.tsv
+Doktor Stein,27,DEU038_Der_Hungerpastor.txt.tsv
+Onkel Rudolf,26,DEU038_Der_Hungerpastor.txt.tsv
+Base Schlotterbeck,24,DEU038_Der_Hungerpastor.txt.tsv
 Frau Christine,24,DEU038_Der_Hungerpastor.txt.tsv
-Neuntöter,24,DEU038_Der_Hungerpastor.txt.tsv
 Johannes,23,DEU038_Der_Hungerpastor.txt.tsv
-Onkel Rudolf,23,DEU038_Der_Hungerpastor.txt.tsv
-Jungen,22,DEU038_Der_Hungerpastor.txt.tsv
-Kindes,22,DEU038_Der_Hungerpastor.txt.tsv
+Grips,23,DEU038_Der_Hungerpastor.txt.tsv
 Franziska Götz,22,DEU038_Der_Hungerpastor.txt.tsv
-Gottes,21,DEU038_Der_Hungerpastor.txt.tsv
-Familie,21,DEU038_Der_Hungerpastor.txt.tsv
-Herr Unwirrsch,21,DEU038_Der_Hungerpastor.txt.tsv
-Wirt,21,DEU038_Der_Hungerpastor.txt.tsv
+Aimé,22,DEU038_Der_Hungerpastor.txt.tsv
+Samuel Freudenstein,21,DEU038_Der_Hungerpastor.txt.tsv
 Theodor,21,DEU038_Der_Hungerpastor.txt.tsv
-Rates Götz,21,DEU038_Der_Hungerpastor.txt.tsv
-Sohnes,20,DEU038_Der_Hungerpastor.txt.tsv
-andern,20,DEU038_Der_Hungerpastor.txt.tsv
-Lehrer,20,DEU038_Der_Hungerpastor.txt.tsv
-Samuel Freudenstein,20,DEU038_Der_Hungerpastor.txt.tsv
-Toten,20,DEU038_Der_Hungerpastor.txt.tsv
-Herr Kandidate,20,DEU038_Der_Hungerpastor.txt.tsv
 Felix,20,DEU038_Der_Hungerpastor.txt.tsv
-Kleopheas,20,DEU038_Der_Hungerpastor.txt.tsv
-Aimé,20,DEU038_Der_Hungerpastor.txt.tsv
 Henriette Trublet,20,DEU038_Der_Hungerpastor.txt.tsv
-Eltern,19,DEU038_Der_Hungerpastor.txt.tsv
-Herr Kandidat,19,DEU038_Der_Hungerpastor.txt.tsv
-Präzeptor,19,DEU038_Der_Hungerpastor.txt.tsv
+Kandidat Unwirrsch,19,DEU038_Der_Hungerpastor.txt.tsv
+Rat Götz,19,DEU038_Der_Hungerpastor.txt.tsv
+Leutnant Rudolf,19,DEU038_Der_Hungerpastor.txt.tsv
 Meister Grünebaum,18,DEU038_Der_Hungerpastor.txt.tsv
-Damen,18,DEU038_Der_Hungerpastor.txt.tsv
-Kranken,18,DEU038_Der_Hungerpastor.txt.tsv
-Professor,18,DEU038_Der_Hungerpastor.txt.tsv
-Männer,18,DEU038_Der_Hungerpastor.txt.tsv
-Theologen,18,DEU038_Der_Hungerpastor.txt.tsv
-Herr Leutnant,18,DEU038_Der_Hungerpastor.txt.tsv
 Anton,17,DEU038_Der_Hungerpastor.txt.tsv
-Witwe,17,DEU038_Der_Hungerpastor.txt.tsv
-Jenatsch,180,DEU032_Jürg_Jenatsch.txt.tsv
-Herzog,165,DEU032_Jürg_Jenatsch.txt.tsv
+Johannes Unwirrsch,17,DEU038_Der_Hungerpastor.txt.tsv
+Doktor Theophile,17,DEU038_Der_Hungerpastor.txt.tsv
+Pastor Tillenius,16,DEU038_Der_Hungerpastor.txt.tsv
+Meister Anton,15,DEU038_Der_Hungerpastor.txt.tsv
+Sophie,15,DEU038_Der_Hungerpastor.txt.tsv
+Herr Unwirrsch,15,DEU038_Der_Hungerpastor.txt.tsv
+Henriette,15,DEU038_Der_Hungerpastor.txt.tsv
+<ood>,14,DEU038_Der_Hungerpastor.txt.tsv
+-,13,DEU038_Der_Hungerpastor.txt.tsv
+Gott,13,DEU038_Der_Hungerpastor.txt.tsv
+Esther,13,DEU038_Der_Hungerpastor.txt.tsv
+Professor Fackler,13,DEU038_Der_Hungerpastor.txt.tsv
+Mose Freudenstein,12,DEU038_Der_Hungerpastor.txt.tsv
+Han,11,DEU038_Der_Hungerpastor.txt.tsv
+Rudolf,11,DEU038_Der_Hungerpastor.txt.tsv
+Kleophea Götz,11,DEU038_Der_Hungerpastor.txt.tsv
+Anton Unwirrsch,10,DEU038_Der_Hungerpastor.txt.tsv
+Hansen,10,DEU038_Der_Hungerpastor.txt.tsv
+Samuel,10,DEU038_Der_Hungerpastor.txt.tsv
+Fränzchen Götz,10,DEU038_Der_Hungerpastor.txt.tsv
+Josias Tillenius,10,DEU038_Der_Hungerpastor.txt.tsv
+Frau Brandauer,10,DEU038_Der_Hungerpastor.txt.tsv
+Meister Anton Unwirrsch,8,DEU038_Der_Hungerpastor.txt.tsv
+Oheim Nikolaus Grünebaum,8,DEU038_Der_Hungerpastor.txt.tsv
+Theophile Stein,8,DEU038_Der_Hungerpastor.txt.tsv
+Kandidat Hans Unwirrsch,8,DEU038_Der_Hungerpastor.txt.tsv
+Professor Blüthemüller,8,DEU038_Der_Hungerpastor.txt.tsv
+Onkel Theodor,8,DEU038_Der_Hungerpastor.txt.tsv
+Grip,8,DEU038_Der_Hungerpastor.txt.tsv
+Ehrn Josias Tillenius,8,DEU038_Der_Hungerpastor.txt.tsv
+Grünebaum,7,DEU038_Der_Hungerpastor.txt.tsv
+Vater Samuel,7,DEU038_Der_Hungerpastor.txt.tsv
+Götz,7,DEU038_Der_Hungerpastor.txt.tsv
+Herr Leutnant Götz,7,DEU038_Der_Hungerpastor.txt.tsv
+geheim Rätin Götz,7,DEU038_Der_Hungerpastor.txt.tsv
+Fräulein Franziska,7,DEU038_Der_Hungerpastor.txt.tsv
+Mos,6,DEU038_Der_Hungerpastor.txt.tsv
+Base,6,DEU038_Der_Hungerpastor.txt.tsv
+von Lichtenhahn,6,DEU038_Der_Hungerpastor.txt.tsv
+Theophil,6,DEU038_Der_Hungerpastor.txt.tsv
+Grunzenow,6,DEU038_Der_Hungerpastor.txt.tsv
+Frau Tiebus,5,DEU038_Der_Hungerpastor.txt.tsv
+Niklas,5,DEU038_Der_Hungerpastor.txt.tsv
+Lehrer Silberlöffel,5,DEU038_Der_Hungerpastor.txt.tsv
+Trödler Samuel Freudenstein,5,DEU038_Der_Hungerpastor.txt.tsv
+Jungfer Schlotterbeck,5,DEU038_Der_Hungerpastor.txt.tsv
+Christine,5,DEU038_Der_Hungerpastor.txt.tsv
+Christine Unwirrsch,5,DEU038_Der_Hungerpastor.txt.tsv
+Professor Vogelsang,5,DEU038_Der_Hungerpastor.txt.tsv
+Oberst von Bullau,5,DEU038_Der_Hungerpastor.txt.tsv
+Fräulein Kleophea,5,DEU038_Der_Hungerpastor.txt.tsv
+Lämmert,5,DEU038_Der_Hungerpastor.txt.tsv
+Pastor Josias Tillenius,5,DEU038_Der_Hungerpastor.txt.tsv
+Schwager Grünebaum,4,DEU038_Der_Hungerpastor.txt.tsv
+Frau Christine Unwirrsch,4,DEU038_Der_Hungerpastor.txt.tsv
+Niklas Grünebaum,4,DEU038_Der_Hungerpastor.txt.tsv
+Karl,4,DEU038_Der_Hungerpastor.txt.tsv
+Nichte Franziska,4,DEU038_Der_Hungerpastor.txt.tsv
+Herr von Holoch,4,DEU038_Der_Hungerpastor.txt.tsv
+Herr Johannes Unwirrsch,4,DEU038_Der_Hungerpastor.txt.tsv
+Rudolf Götz,4,DEU038_Der_Hungerpastor.txt.tsv
+Felix Götz,4,DEU038_Der_Hungerpastor.txt.tsv
+Bullau,4,DEU038_Der_Hungerpastor.txt.tsv
+Kamerad Götz,4,DEU038_Der_Hungerpastor.txt.tsv
+Tillenius,4,DEU038_Der_Hungerpastor.txt.tsv
+Armand,4,DEU038_Der_Hungerpastor.txt.tsv
+Meister Unwirrsch,3,DEU038_Der_Hungerpastor.txt.tsv
+Meister Nikolaus Grünebaum,3,DEU038_Der_Hungerpastor.txt.tsv
+Hans Jakob Nikolaus Unwirrsch,3,DEU038_Der_Hungerpastor.txt.tsv
+Jenatsch,146,DEU032_Jürg_Jenatsch.txt.tsv
+Lucretia,122,DEU032_Jürg_Jenatsch.txt.tsv
 Waser,121,DEU032_Jürg_Jenatsch.txt.tsv
-Lucretia,104,DEU032_Jürg_Jenatsch.txt.tsv
-Herzogs,68,DEU032_Jürg_Jenatsch.txt.tsv
-Jürg,59,DEU032_Jürg_Jenatsch.txt.tsv
-Wertmüller,59,DEU032_Jürg_Jenatsch.txt.tsv
-Bündner,58,DEU032_Jürg_Jenatsch.txt.tsv
-Herr,58,DEU032_Jürg_Jenatsch.txt.tsv
-Mann,57,DEU032_Jürg_Jenatsch.txt.tsv
-Fräulein,34,DEU032_Jürg_Jenatsch.txt.tsv
-Zürcher,33,DEU032_Jürg_Jenatsch.txt.tsv
-Fausch,31,DEU032_Jürg_Jenatsch.txt.tsv
+Jürg,67,DEU032_Jürg_Jenatsch.txt.tsv
+Wertmüller,45,DEU032_Jürg_Jenatsch.txt.tsv
+Rohan,36,DEU032_Jürg_Jenatsch.txt.tsv
 Georg Jenatsch,30,DEU032_Jürg_Jenatsch.txt.tsv
-Rohan,30,DEU032_Jürg_Jenatsch.txt.tsv
-Vater,28,DEU032_Jürg_Jenatsch.txt.tsv
-Freund,27,DEU032_Jürg_Jenatsch.txt.tsv
-Vaters,27,DEU032_Jürg_Jenatsch.txt.tsv
-Hauptmann,27,DEU032_Jürg_Jenatsch.txt.tsv
-Obersten,27,DEU032_Jürg_Jenatsch.txt.tsv
-Oberst,27,DEU032_Jürg_Jenatsch.txt.tsv
-Herrn,24,DEU032_Jürg_Jenatsch.txt.tsv
-Herren,24,DEU032_Jürg_Jenatsch.txt.tsv
-Lucas,23,DEU032_Jürg_Jenatsch.txt.tsv
-Planta,23,DEU032_Jürg_Jenatsch.txt.tsv
-Bündners,23,DEU032_Jürg_Jenatsch.txt.tsv
-Lucretias,22,DEU032_Jürg_Jenatsch.txt.tsv
-Volk,22,DEU032_Jürg_Jenatsch.txt.tsv
-Menschen,21,DEU032_Jürg_Jenatsch.txt.tsv
-Bürgermeister,21,DEU032_Jürg_Jenatsch.txt.tsv
-Gott,20,DEU032_Jürg_Jenatsch.txt.tsv
-Herzogin,20,DEU032_Jürg_Jenatsch.txt.tsv
-Alte,19,DEU032_Jürg_Jenatsch.txt.tsv
-Freunde,19,DEU032_Jürg_Jenatsch.txt.tsv
-Herzog Rohan,19,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Pompejus,28,DEU032_Jürg_Jenatsch.txt.tsv
+Fausch,28,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Waser,23,DEU032_Jürg_Jenatsch.txt.tsv
+Lucas,22,DEU032_Jürg_Jenatsch.txt.tsv
+Herzog Rohan,22,DEU032_Jürg_Jenatsch.txt.tsv
+Grimani,20,DEU032_Jürg_Jenatsch.txt.tsv
+Serbelloni,19,DEU032_Jürg_Jenatsch.txt.tsv
 Jürg Jenatsch,18,DEU032_Jürg_Jenatsch.txt.tsv
-Grimani,18,DEU032_Jürg_Jenatsch.txt.tsv
-Serbelloni,18,DEU032_Jürg_Jenatsch.txt.tsv
-Herr Waser,17,DEU032_Jürg_Jenatsch.txt.tsv
-Herr Pompejus,17,DEU032_Jürg_Jenatsch.txt.tsv
-Kardinal,17,DEU032_Jürg_Jenatsch.txt.tsv
-Leute,16,DEU032_Jürg_Jenatsch.txt.tsv
-Spanier,16,DEU032_Jürg_Jenatsch.txt.tsv
-Kind,15,DEU032_Jürg_Jenatsch.txt.tsv
-Bündens,15,DEU032_Jürg_Jenatsch.txt.tsv
-Bünden,15,DEU032_Jürg_Jenatsch.txt.tsv
-Provveditore,15,DEU032_Jürg_Jenatsch.txt.tsv
-Pfarrer,14,DEU032_Jürg_Jenatsch.txt.tsv
-Spanien,14,DEU032_Jürg_Jenatsch.txt.tsv
-Locotenenten,14,DEU032_Jürg_Jenatsch.txt.tsv
-Locotenent,14,DEU032_Jürg_Jenatsch.txt.tsv
-Frauen,13,DEU032_Jürg_Jenatsch.txt.tsv
-Frau,13,DEU032_Jürg_Jenatsch.txt.tsv
-Gestalt,13,DEU032_Jürg_Jenatsch.txt.tsv
-Weib,13,DEU032_Jürg_Jenatsch.txt.tsv
-Manne,13,DEU032_Jürg_Jenatsch.txt.tsv
-Dame,13,DEU032_Jürg_Jenatsch.txt.tsv
-Kapuziner,13,DEU032_Jürg_Jenatsch.txt.tsv
-Mörder,13,DEU032_Jürg_Jenatsch.txt.tsv
-Volke,12,DEU032_Jürg_Jenatsch.txt.tsv
-Richelieu,12,DEU032_Jürg_Jenatsch.txt.tsv
-Rudolf,11,DEU032_Jürg_Jenatsch.txt.tsv
-Herrn Pompejus,11,DEU032_Jürg_Jenatsch.txt.tsv
-Schwester,11,DEU032_Jürg_Jenatsch.txt.tsv
-Lucia,11,DEU032_Jürg_Jenatsch.txt.tsv
-Pater,11,DEU032_Jürg_Jenatsch.txt.tsv
-Offiziere,11,DEU032_Jürg_Jenatsch.txt.tsv
-Lecques,11,DEU032_Jürg_Jenatsch.txt.tsv
-Mädchen,10,DEU032_Jürg_Jenatsch.txt.tsv
-Gruppe,10,DEU032_Jürg_Jenatsch.txt.tsv
-Wirt,10,DEU032_Jürg_Jenatsch.txt.tsv
-Gast,10,DEU032_Jürg_Jenatsch.txt.tsv
-Frankreichs,10,DEU032_Jürg_Jenatsch.txt.tsv
-König,9,DEU032_Jürg_Jenatsch.txt.tsv
+Rudolf,18,DEU032_Jürg_Jenatsch.txt.tsv
+Planta,16,DEU032_Jürg_Jenatsch.txt.tsv
+Richelieu,15,DEU032_Jürg_Jenatsch.txt.tsv
+Lucia,12,DEU032_Jürg_Jenatsch.txt.tsv
+Pater Pancraz,11,DEU032_Jürg_Jenatsch.txt.tsv
+Herzog Heinrich,10,DEU032_Jürg_Jenatsch.txt.tsv
+Lecques,10,DEU032_Jürg_Jenatsch.txt.tsv
 Semmler,9,DEU032_Jürg_Jenatsch.txt.tsv
-Sohn,9,DEU032_Jürg_Jenatsch.txt.tsv
-Gesellen,9,DEU032_Jürg_Jenatsch.txt.tsv
-Feldherrn,9,DEU032_Jürg_Jenatsch.txt.tsv
-Herzog Heinrich,9,DEU032_Jürg_Jenatsch.txt.tsv
 Pancraz,9,DEU032_Jürg_Jenatsch.txt.tsv
-Sprecher,9,DEU032_Jürg_Jenatsch.txt.tsv
-Bäcker,9,DEU032_Jürg_Jenatsch.txt.tsv
-Franzosen,9,DEU032_Jürg_Jenatsch.txt.tsv
-Gubernatore,9,DEU032_Jürg_Jenatsch.txt.tsv
 Schwester Perpetua,9,DEU032_Jürg_Jenatsch.txt.tsv
-Gesellschaft,8,DEU032_Jürg_Jenatsch.txt.tsv
-Diener,8,DEU032_Jürg_Jenatsch.txt.tsv
 Pompejus Planta,8,DEU032_Jürg_Jenatsch.txt.tsv
-Prädikanten,8,DEU032_Jürg_Jenatsch.txt.tsv
-Wasers,8,DEU032_Jürg_Jenatsch.txt.tsv
-Bündnerin,8,DEU032_Jürg_Jenatsch.txt.tsv
-Kleine,8,DEU032_Jürg_Jenatsch.txt.tsv
-Sohne,8,DEU032_Jürg_Jenatsch.txt.tsv
-Reiter,8,DEU032_Jürg_Jenatsch.txt.tsv
 Agostino,8,DEU032_Jürg_Jenatsch.txt.tsv
-Jürgs,8,DEU032_Jürg_Jenatsch.txt.tsv
 Blasius Alexander,8,DEU032_Jürg_Jenatsch.txt.tsv
-Soldaten,8,DEU032_Jürg_Jenatsch.txt.tsv
-Mannes,8,DEU032_Jürg_Jenatsch.txt.tsv
-ihnen,8,DEU032_Jürg_Jenatsch.txt.tsv
-Moorfeld,714,DEU025_Der_Amerika_Müde.txt.tsv
-Mann,185,DEU025_Der_Amerika_Müde.txt.tsv
-Herr,148,DEU025_Der_Amerika_Müde.txt.tsv
-Menschen,121,DEU025_Der_Amerika_Müde.txt.tsv
-Benthal,121,DEU025_Der_Amerika_Müde.txt.tsv
-Mädchen,87,DEU025_Der_Amerika_Müde.txt.tsv
-Herren,84,DEU025_Der_Amerika_Müde.txt.tsv
-Mensch,80,DEU025_Der_Amerika_Müde.txt.tsv
-Kind,76,DEU025_Der_Amerika_Müde.txt.tsv
-sie,73,DEU025_Der_Amerika_Müde.txt.tsv
-sich,72,DEU025_Der_Amerika_Müde.txt.tsv
-der,67,DEU025_Der_Amerika_Müde.txt.tsv
-er,65,DEU025_Der_Amerika_Müde.txt.tsv
-Amerikaner,65,DEU025_Der_Amerika_Müde.txt.tsv
-Sir,63,DEU025_Der_Amerika_Müde.txt.tsv
-Freund,60,DEU025_Der_Amerika_Müde.txt.tsv
-Anhorst,54,DEU025_Der_Amerika_Müde.txt.tsv
-Frau,52,DEU025_Der_Amerika_Müde.txt.tsv
-Volk,49,DEU025_Der_Amerika_Müde.txt.tsv
-Frauen,46,DEU025_Der_Amerika_Müde.txt.tsv
-Deutschen,45,DEU025_Der_Amerika_Müde.txt.tsv
-Engländer,45,DEU025_Der_Amerika_Müde.txt.tsv
-Cöleste,41,DEU025_Der_Amerika_Müde.txt.tsv
-Männer,40,DEU025_Der_Amerika_Müde.txt.tsv
+Georg,8,DEU032_Jürg_Jenatsch.txt.tsv
+Hauptmann Jenatsch,8,DEU032_Jürg_Jenatsch.txt.tsv
+oberer Jenatsch,8,DEU032_Jürg_Jenatsch.txt.tsv
+Herzog Heinrich Rohan,7,DEU032_Jürg_Jenatsch.txt.tsv
+Adjutant Wertmüller,6,DEU032_Jürg_Jenatsch.txt.tsv
+Heinrich Rohan,6,DEU032_Jürg_Jenatsch.txt.tsv
+Oberst Jenatsch,6,DEU032_Jürg_Jenatsch.txt.tsv
+Priolo,6,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Fortunatus,6,DEU032_Jürg_Jenatsch.txt.tsv
+Heinrich,5,DEU032_Jürg_Jenatsch.txt.tsv
+Fräulein Lucretia,5,DEU032_Jürg_Jenatsch.txt.tsv
+Alexander,5,DEU032_Jürg_Jenatsch.txt.tsv
+Blasius,5,DEU032_Jürg_Jenatsch.txt.tsv
+Pancrazi,5,DEU032_Jürg_Jenatsch.txt.tsv
+Sprecher,5,DEU032_Jürg_Jenatsch.txt.tsv
+Lucretia Planta,5,DEU032_Jürg_Jenatsch.txt.tsv
+Pater Joseph,5,DEU032_Jürg_Jenatsch.txt.tsv
+Fräulein Amantia,5,DEU032_Jürg_Jenatsch.txt.tsv
+Bürgermeister Meyer,5,DEU032_Jürg_Jenatsch.txt.tsv
+Heinrich Waser,4,DEU032_Jürg_Jenatsch.txt.tsv
+Bünden,4,DEU032_Jürg_Jenatsch.txt.tsv
+Lorenz Fausch,4,DEU032_Jürg_Jenatsch.txt.tsv
+Tizian,4,DEU032_Jürg_Jenatsch.txt.tsv
+Meister Lorenz,4,DEU032_Jürg_Jenatsch.txt.tsv
+Provveditore Grimani,4,DEU032_Jürg_Jenatsch.txt.tsv
+Signor Jenatsch,4,DEU032_Jürg_Jenatsch.txt.tsv
+Rudolf Planta,4,DEU032_Jürg_Jenatsch.txt.tsv
+Sennor,4,DEU032_Jürg_Jenatsch.txt.tsv
+Guler,4,DEU032_Jürg_Jenatsch.txt.tsv
+Herzog Serbelloni,4,DEU032_Jürg_Jenatsch.txt.tsv
+Herzog Bernhard von Weimar,4,DEU032_Jürg_Jenatsch.txt.tsv
+Herzog Bernhard,4,DEU032_Jürg_Jenatsch.txt.tsv
+Amantia,4,DEU032_Jürg_Jenatsch.txt.tsv
+-,3,DEU032_Jürg_Jenatsch.txt.tsv
+Robustelli,3,DEU032_Jürg_Jenatsch.txt.tsv
+Gott,3,DEU032_Jürg_Jenatsch.txt.tsv
+Kuri,3,DEU032_Jürg_Jenatsch.txt.tsv
+Vater Fausch,3,DEU032_Jürg_Jenatsch.txt.tsv
+Vater Lorenz,3,DEU032_Jürg_Jenatsch.txt.tsv
+Lorenz,3,DEU032_Jürg_Jenatsch.txt.tsv
+Gustav Adolf,3,DEU032_Jürg_Jenatsch.txt.tsv
+Gubernator Serbelloni,3,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Grison,3,DEU032_Jürg_Jenatsch.txt.tsv
+heilig Dominikus,3,DEU032_Jürg_Jenatsch.txt.tsv
+Perpetua,3,DEU032_Jürg_Jenatsch.txt.tsv
+Ammann Müller,3,DEU032_Jürg_Jenatsch.txt.tsv
+Meyer,3,DEU032_Jürg_Jenatsch.txt.tsv
+Pfarrer Jenatsch,2,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Pompejus Planta,2,DEU032_Jürg_Jenatsch.txt.tsv
+Maloja,2,DEU032_Jürg_Jenatsch.txt.tsv
+fuenter,2,DEU032_Jürg_Jenatsch.txt.tsv
+Heinrich IV.,2,DEU032_Jürg_Jenatsch.txt.tsv
+Pancratius,2,DEU032_Jürg_Jenatsch.txt.tsv
+Franziskus,2,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Blasius,2,DEU032_Jürg_Jenatsch.txt.tsv
+Kuri Lehmann,2,DEU032_Jürg_Jenatsch.txt.tsv
+Ritter Doktor Fortunatus Sprecher,2,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Fausch,2,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Wertmüller,2,DEU032_Jürg_Jenatsch.txt.tsv
+Salis,2,DEU032_Jürg_Jenatsch.txt.tsv
+Ruinell,2,DEU032_Jürg_Jenatsch.txt.tsv
+Familie Pesaro,2,DEU032_Jürg_Jenatsch.txt.tsv
+Madonna,2,DEU032_Jürg_Jenatsch.txt.tsv
+St. Georg,2,DEU032_Jürg_Jenatsch.txt.tsv
+Herr Rudolf,2,DEU032_Jürg_Jenatsch.txt.tsv
+Judith,2,DEU032_Jürg_Jenatsch.txt.tsv
+Grimanis,2,DEU032_Jürg_Jenatsch.txt.tsv
+Magister Pamfilio Dolce,2,DEU032_Jürg_Jenatsch.txt.tsv
+Donna Lucretia,2,DEU032_Jürg_Jenatsch.txt.tsv
+Satan,2,DEU032_Jürg_Jenatsch.txt.tsv
+Casutt,2,DEU032_Jürg_Jenatsch.txt.tsv
+Lasnier,2,DEU032_Jürg_Jenatsch.txt.tsv
+Moorfeld,711,DEU025_Der_Amerika_Müde.txt.tsv
+Benthal,122,DEU025_Der_Amerika_Müde.txt.tsv
+Anhorst,45,DEU025_Der_Amerika_Müde.txt.tsv
 Bennet,36,DEU025_Der_Amerika_Müde.txt.tsv
-Deutsche,35,DEU025_Der_Amerika_Müde.txt.tsv
-Europäer,34,DEU025_Der_Amerika_Müde.txt.tsv
-Mr. Bennet,34,DEU025_Der_Amerika_Müde.txt.tsv
-Gesellschaft,33,DEU025_Der_Amerika_Müde.txt.tsv
-Kinder,33,DEU025_Der_Amerika_Müde.txt.tsv
-Frau v. Milden,32,DEU025_Der_Amerika_Müde.txt.tsv
-wir,31,DEU025_Der_Amerika_Müde.txt.tsv
-Gott,31,DEU025_Der_Amerika_Müde.txt.tsv
-Dichter,30,DEU025_Der_Amerika_Müde.txt.tsv
-Dame,30,DEU025_Der_Amerika_Müde.txt.tsv
-Neger,30,DEU025_Der_Amerika_Müde.txt.tsv
-die,29,DEU025_Der_Amerika_Müde.txt.tsv
-Fremde,29,DEU025_Der_Amerika_Müde.txt.tsv
-Leute,29,DEU025_Der_Amerika_Müde.txt.tsv
-Mannes,28,DEU025_Der_Amerika_Müde.txt.tsv
-Damen,28,DEU025_Der_Amerika_Müde.txt.tsv
-Sclaven,28,DEU025_Der_Amerika_Müde.txt.tsv
-sein,27,DEU025_Der_Amerika_Müde.txt.tsv
-seiner,26,DEU025_Der_Amerika_Müde.txt.tsv
-Herr Staunton,26,DEU025_Der_Amerika_Müde.txt.tsv
-Mutter,26,DEU025_Der_Amerika_Müde.txt.tsv
-uns,26,DEU025_Der_Amerika_Müde.txt.tsv
-Manne,25,DEU025_Der_Amerika_Müde.txt.tsv
-Vater,25,DEU025_Der_Amerika_Müde.txt.tsv
-Freunde,24,DEU025_Der_Amerika_Müde.txt.tsv
-welche,24,DEU025_Der_Amerika_Müde.txt.tsv
-Herr Doctor,24,DEU025_Der_Amerika_Müde.txt.tsv
-Publikum,24,DEU025_Der_Amerika_Müde.txt.tsv
-Andern,24,DEU025_Der_Amerika_Müde.txt.tsv
-Mister,23,DEU025_Der_Amerika_Müde.txt.tsv
-seine,22,DEU025_Der_Amerika_Müde.txt.tsv
-Tochter,22,DEU025_Der_Amerika_Müde.txt.tsv
-Bürger,22,DEU025_Der_Amerika_Müde.txt.tsv
-Familie,22,DEU025_Der_Amerika_Müde.txt.tsv
-Wogan,22,DEU025_Der_Amerika_Müde.txt.tsv
-seinen,21,DEU025_Der_Amerika_Müde.txt.tsv
-Yankee,21,DEU025_Der_Amerika_Müde.txt.tsv
-Theodor,21,DEU025_Der_Amerika_Müde.txt.tsv
-Annette,21,DEU025_Der_Amerika_Müde.txt.tsv
-Fremden,20,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Bennet,35,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Staunton,33,DEU025_Der_Amerika_Müde.txt.tsv
+Frau v. Milde,32,DEU025_Der_Amerika_Müde.txt.tsv
+Pauline,23,DEU025_Der_Amerika_Müde.txt.tsv
+Annette,23,DEU025_Der_Amerika_Müde.txt.tsv
+Theodor,22,DEU025_Der_Amerika_Müde.txt.tsv
+Cöleste,21,DEU025_Der_Amerika_Müde.txt.tsv
+Wogan,21,DEU025_Der_Amerika_Müde.txt.tsv
 Howland,20,DEU025_Der_Amerika_Müde.txt.tsv
-Menschheit,19,DEU025_Der_Amerika_Müde.txt.tsv
-Kaufmann,19,DEU025_Der_Amerika_Müde.txt.tsv
-Gast,19,DEU025_Der_Amerika_Müde.txt.tsv
-Weib,19,DEU025_Der_Amerika_Müde.txt.tsv
-Andere,19,DEU025_Der_Amerika_Müde.txt.tsv
-Helden,18,DEU025_Der_Amerika_Müde.txt.tsv
-Sohn,18,DEU025_Der_Amerika_Müde.txt.tsv
-Indianer,18,DEU025_Der_Amerika_Müde.txt.tsv
-Kerl,18,DEU025_Der_Amerika_Müde.txt.tsv
-Wirth,18,DEU025_Der_Amerika_Müde.txt.tsv
-Wer,17,DEU025_Der_Amerika_Müde.txt.tsv
-Hausfrau,17,DEU025_Der_Amerika_Müde.txt.tsv
-man,17,DEU025_Der_Amerika_Müde.txt.tsv
-Personen,16,DEU025_Der_Amerika_Müde.txt.tsv
-Meister,16,DEU025_Der_Amerika_Müde.txt.tsv
-Doctor,16,DEU025_Der_Amerika_Müde.txt.tsv
-Gentleman,16,DEU025_Der_Amerika_Müde.txt.tsv
-Gäste,16,DEU025_Der_Amerika_Müde.txt.tsv
-Pauline,16,DEU025_Der_Amerika_Müde.txt.tsv
-Au Reste,16,DEU025_Der_Amerika_Müde.txt.tsv
-Bruder,15,DEU025_Der_Amerika_Müde.txt.tsv
-Lady,15,DEU025_Der_Amerika_Müde.txt.tsv
-Deutscher,15,DEU025_Der_Amerika_Müde.txt.tsv
-wer,15,DEU025_Der_Amerika_Müde.txt.tsv
-Mr. Mockingbird,15,DEU025_Der_Amerika_Müde.txt.tsv
-ihrer,15,DEU025_Der_Amerika_Müde.txt.tsv
-Richter,15,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Mockingbird,16,DEU025_Der_Amerika_Müde.txt.tsv
 Mr. Baine,15,DEU025_Der_Amerika_Müde.txt.tsv
-Gruppe,14,DEU025_Der_Amerika_Müde.txt.tsv
-ihm,14,DEU025_Der_Amerika_Müde.txt.tsv
-Herrn,14,DEU025_Der_Amerika_Müde.txt.tsv
-Compagnie,14,DEU025_Der_Amerika_Müde.txt.tsv
-Farmer,14,DEU025_Der_Amerika_Müde.txt.tsv
-Prediger,14,DEU025_Der_Amerika_Müde.txt.tsv
-Caspar,1120,DEU076_Caspar_Hauser.txt.tsv
-Quandt,306,DEU076_Caspar_Hauser.txt.tsv
-Daumer,259,DEU076_Caspar_Hauser.txt.tsv
-Mann,184,DEU076_Caspar_Hauser.txt.tsv
-Caspars,167,DEU076_Caspar_Hauser.txt.tsv
-Menschen,161,DEU076_Caspar_Hauser.txt.tsv
-Hauser,142,DEU076_Caspar_Hauser.txt.tsv
-Stanhope,135,DEU076_Caspar_Hauser.txt.tsv
-Hickel,128,DEU076_Caspar_Hauser.txt.tsv
-Frau,118,DEU076_Caspar_Hauser.txt.tsv
-Herr von Tucher,104,DEU076_Caspar_Hauser.txt.tsv
-Lord,96,DEU076_Caspar_Hauser.txt.tsv
-Präsident,95,DEU076_Caspar_Hauser.txt.tsv
-Lehrer,85,DEU076_Caspar_Hauser.txt.tsv
-Präsidenten,79,DEU076_Caspar_Hauser.txt.tsv
-Jüngling,74,DEU076_Caspar_Hauser.txt.tsv
-Feuerbach,73,DEU076_Caspar_Hauser.txt.tsv
-Polizeileutnant,66,DEU076_Caspar_Hauser.txt.tsv
-Mensch,63,DEU076_Caspar_Hauser.txt.tsv
-Leute,61,DEU076_Caspar_Hauser.txt.tsv
+Cölest,14,DEU025_Der_Amerika_Müde.txt.tsv
+Doctor Althof,14,DEU025_Der_Amerika_Müde.txt.tsv
+-,12,DEU025_Der_Amerika_Müde.txt.tsv
+Jack,11,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Livingstone,11,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Wogan,11,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Clahane,11,DEU025_Der_Amerika_Müde.txt.tsv
+Henning,10,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Henning,10,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Benthal,10,DEU025_Der_Amerika_Müde.txt.tsv
+John Stutering,10,DEU025_Der_Amerika_Müde.txt.tsv
+Moorfelden,9,DEU025_Der_Amerika_Müde.txt.tsv
+Jane Norwood,9,DEU025_Der_Amerika_Müde.txt.tsv
+Frau Appendage,9,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Bennet,9,DEU025_Der_Amerika_Müde.txt.tsv
+Mrs. Bennet,9,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Howland,8,DEU025_Der_Amerika_Müde.txt.tsv
+Dr. Channing,8,DEU025_Der_Amerika_Müde.txt.tsv
+Martin,8,DEU025_Der_Amerika_Müde.txt.tsv
+Lady Morgan,8,DEU025_Der_Amerika_Müde.txt.tsv
+Jesus,8,DEU025_Der_Amerika_Müde.txt.tsv
+Jackson,7,DEU025_Der_Amerika_Müde.txt.tsv
+Byron,7,DEU025_Der_Amerika_Müde.txt.tsv
+Poll,7,DEU025_Der_Amerika_Müde.txt.tsv
+Mistreß Bennet,7,DEU025_Der_Amerika_Müde.txt.tsv
+Cäsar,7,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Gull,7,DEU025_Der_Amerika_Müde.txt.tsv
+Hoby,6,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Mockingbird's,6,DEU025_Der_Amerika_Müde.txt.tsv
+Benjamin Ridge,6,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Blackely,6,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Birk,6,DEU025_Der_Amerika_Müde.txt.tsv
+Goethe,6,DEU025_Der_Amerika_Müde.txt.tsv
+General Jackson,6,DEU025_Der_Amerika_Müde.txt.tsv
+Omar,6,DEU025_Der_Amerika_Müde.txt.tsv
+Girard,6,DEU025_Der_Amerika_Müde.txt.tsv
+William,6,DEU025_Der_Amerika_Müde.txt.tsv
+Meier,6,DEU025_Der_Amerika_Müde.txt.tsv
+Doctor Moorfeld,5,DEU025_Der_Amerika_Müde.txt.tsv
+Sarah,5,DEU025_Der_Amerika_Müde.txt.tsv
+Sar,5,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Häberle,5,DEU025_Der_Amerika_Müde.txt.tsv
+Gott,5,DEU025_Der_Amerika_Müde.txt.tsv
+Malvine,5,DEU025_Der_Amerika_Müde.txt.tsv
+Lord Ormond,5,DEU025_Der_Amerika_Müde.txt.tsv
+Doctor Channing,5,DEU025_Der_Amerika_Müde.txt.tsv
+Livingstone,5,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Wood,5,DEU025_Der_Amerika_Müde.txt.tsv
+Scipio,5,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Cartwright,5,DEU025_Der_Amerika_Müde.txt.tsv
+Mozart,5,DEU025_Der_Amerika_Müde.txt.tsv
+da Ponte,5,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Staunton,4,DEU025_Der_Amerika_Müde.txt.tsv
+Daniel,4,DEU025_Der_Amerika_Müde.txt.tsv
+John,4,DEU025_Der_Amerika_Müde.txt.tsv
+Sir John,4,DEU025_Der_Amerika_Müde.txt.tsv
+Hariet,4,DEU025_Der_Amerika_Müde.txt.tsv
+Kapitän <ood>,4,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Eckerlein,4,DEU025_Der_Amerika_Müde.txt.tsv
+Racine,4,DEU025_Der_Amerika_Müde.txt.tsv
+Bruder Jonathan,4,DEU025_Der_Amerika_Müde.txt.tsv
+Moorfelde,4,DEU025_Der_Amerika_Müde.txt.tsv
+Härriett,4,DEU025_Der_Amerika_Müde.txt.tsv
+Tschanni,4,DEU025_Der_Amerika_Müde.txt.tsv
+Stutering,4,DEU025_Der_Amerika_Müde.txt.tsv
+Vater Ermar,4,DEU025_Der_Amerika_Müde.txt.tsv
+Settchen,4,DEU025_Der_Amerika_Müde.txt.tsv
+au Rest,4,DEU025_Der_Amerika_Müde.txt.tsv
+Vronele,4,DEU025_Der_Amerika_Müde.txt.tsv
+Dr. Moorfeld,3,DEU025_Der_Amerika_Müde.txt.tsv
+Hr. Staunton,3,DEU025_Der_Amerika_Müde.txt.tsv
+Staunton,3,DEU025_Der_Amerika_Müde.txt.tsv
+Haus Staunton,3,DEU025_Der_Amerika_Müde.txt.tsv
+Dr. Thompson,3,DEU025_Der_Amerika_Müde.txt.tsv
+Kapitän Ebenezer <ood>,3,DEU025_Der_Amerika_Müde.txt.tsv
+Magnolia,3,DEU025_Der_Amerika_Müde.txt.tsv
+Bruder Henning,3,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Sallmann,3,DEU025_Der_Amerika_Müde.txt.tsv
+Herr Bertling,3,DEU025_Der_Amerika_Müde.txt.tsv
+Yankee,3,DEU025_Der_Amerika_Müde.txt.tsv
+Homer,3,DEU025_Der_Amerika_Müde.txt.tsv
+Shakespeare,3,DEU025_Der_Amerika_Müde.txt.tsv
+Faust,3,DEU025_Der_Amerika_Müde.txt.tsv
+Werther,3,DEU025_Der_Amerika_Müde.txt.tsv
+Mr. Bennet's,3,DEU025_Der_Amerika_Müde.txt.tsv
+Caspar,1282,DEU076_Caspar_Hauser.txt.tsv
+Quandt,319,DEU076_Caspar_Hauser.txt.tsv
+Daumer,258,DEU076_Caspar_Hauser.txt.tsv
+Stanhope,144,DEU076_Caspar_Hauser.txt.tsv
+Hickel,134,DEU076_Caspar_Hauser.txt.tsv
+Herr von Tucher,131,DEU076_Caspar_Hauser.txt.tsv
+Hauser,92,DEU076_Caspar_Hauser.txt.tsv
+Feuerbach,82,DEU076_Caspar_Hauser.txt.tsv
+Frau Behold,61,DEU076_Caspar_Hauser.txt.tsv
 Frau von Imhoff,60,DEU076_Caspar_Hauser.txt.tsv
-Mutter,59,DEU076_Caspar_Hauser.txt.tsv
-Frau Behold,58,DEU076_Caspar_Hauser.txt.tsv
+Caspar Hauser,57,DEU076_Caspar_Hauser.txt.tsv
 Frau von Kannawurf,50,DEU076_Caspar_Hauser.txt.tsv
-Gott,46,DEU076_Caspar_Hauser.txt.tsv
-Grafen,45,DEU076_Caspar_Hauser.txt.tsv
-Caspar Hauser,44,DEU076_Caspar_Hauser.txt.tsv
-Bürgermeister,44,DEU076_Caspar_Hauser.txt.tsv
-der,41,DEU076_Caspar_Hauser.txt.tsv
-Kind,39,DEU076_Caspar_Hauser.txt.tsv
-sie,37,DEU076_Caspar_Hauser.txt.tsv
-Vater,36,DEU076_Caspar_Hauser.txt.tsv
-Hofrat,36,DEU076_Caspar_Hauser.txt.tsv
-Schildknecht,36,DEU076_Caspar_Hauser.txt.tsv
-Lehrerin,34,DEU076_Caspar_Hauser.txt.tsv
-Graf,33,DEU076_Caspar_Hauser.txt.tsv
-Jünglings,31,DEU076_Caspar_Hauser.txt.tsv
+Schildknecht,33,DEU076_Caspar_Hauser.txt.tsv
+Clara,32,DEU076_Caspar_Hauser.txt.tsv
 Anna,31,DEU076_Caspar_Hauser.txt.tsv
-Fremde,31,DEU076_Caspar_Hauser.txt.tsv
-Mannes,29,DEU076_Caspar_Hauser.txt.tsv
-Herr,29,DEU076_Caspar_Hauser.txt.tsv
-Clara,29,DEU076_Caspar_Hauser.txt.tsv
-Herren,28,DEU076_Caspar_Hauser.txt.tsv
 Hill,28,DEU076_Caspar_Hauser.txt.tsv
-Männer,28,DEU076_Caspar_Hauser.txt.tsv
-Freunde,27,DEU076_Caspar_Hauser.txt.tsv
-Freund,26,DEU076_Caspar_Hauser.txt.tsv
-Frauen,26,DEU076_Caspar_Hauser.txt.tsv
-Diener,26,DEU076_Caspar_Hauser.txt.tsv
-Herr Graf,26,DEU076_Caspar_Hauser.txt.tsv
-Dame,25,DEU076_Caspar_Hauser.txt.tsv
-Person,25,DEU076_Caspar_Hauser.txt.tsv
-Exzellenz,25,DEU076_Caspar_Hauser.txt.tsv
-Knaben,24,DEU076_Caspar_Hauser.txt.tsv
-sich,24,DEU076_Caspar_Hauser.txt.tsv
-Schwester,23,DEU076_Caspar_Hauser.txt.tsv
-Herrn von Tucher,23,DEU076_Caspar_Hauser.txt.tsv
-er,23,DEU076_Caspar_Hauser.txt.tsv
-Lords,22,DEU076_Caspar_Hauser.txt.tsv
-Du,21,DEU076_Caspar_Hauser.txt.tsv
+Gott,22,DEU076_Caspar_Hauser.txt.tsv
 Lord Stanhope,21,DEU076_Caspar_Hauser.txt.tsv
-Daumers,20,DEU076_Caspar_Hauser.txt.tsv
-Freundin,20,DEU076_Caspar_Hauser.txt.tsv
-Personen,19,DEU076_Caspar_Hauser.txt.tsv
-die,19,DEU076_Caspar_Hauser.txt.tsv
-Herrn,19,DEU076_Caspar_Hauser.txt.tsv
-Magd,19,DEU076_Caspar_Hauser.txt.tsv
-andern,19,DEU076_Caspar_Hauser.txt.tsv
-Tochter,18,DEU076_Caspar_Hauser.txt.tsv
-Lehrers,18,DEU076_Caspar_Hauser.txt.tsv
 Hofrat Hofmann,18,DEU076_Caspar_Hauser.txt.tsv
-Staatsrat,17,DEU076_Caspar_Hauser.txt.tsv
-Mylord,17,DEU076_Caspar_Hauser.txt.tsv
-Bursche,16,DEU076_Caspar_Hauser.txt.tsv
-Kinder,16,DEU076_Caspar_Hauser.txt.tsv
-seine,16,DEU076_Caspar_Hauser.txt.tsv
-Eure Exzellenz,16,DEU076_Caspar_Hauser.txt.tsv
-man,16,DEU076_Caspar_Hauser.txt.tsv
-Knabe,15,DEU076_Caspar_Hauser.txt.tsv
-Binder,15,DEU076_Caspar_Hauser.txt.tsv
-Feuerbachs,15,DEU076_Caspar_Hauser.txt.tsv
-Fremden,15,DEU076_Caspar_Hauser.txt.tsv
-Herr Polizeileutnant,15,DEU076_Caspar_Hauser.txt.tsv
-Rittmeister,14,DEU076_Caspar_Hauser.txt.tsv
-Professor Daumer,14,DEU076_Caspar_Hauser.txt.tsv
-Sohn,14,DEU076_Caspar_Hauser.txt.tsv
-Quandts,14,DEU076_Caspar_Hauser.txt.tsv
-Volk,13,DEU076_Caspar_Hauser.txt.tsv
-Caspar Hausers,13,DEU076_Caspar_Hauser.txt.tsv
-Weib,13,DEU076_Caspar_Hauser.txt.tsv
-Gäste,13,DEU076_Caspar_Hauser.txt.tsv
-einer,13,DEU076_Caspar_Hauser.txt.tsv
+Professor Daumer,16,DEU076_Caspar_Hauser.txt.tsv
+Präsident Feuerbach,15,DEU076_Caspar_Hauser.txt.tsv
+Herr Binder,13,DEU076_Caspar_Hauser.txt.tsv
 Pfarrer Fuhrmann,13,DEU076_Caspar_Hauser.txt.tsv
-ihr,12,DEU076_Caspar_Hauser.txt.tsv
-sein,12,DEU076_Caspar_Hauser.txt.tsv
-Gestalt,12,DEU076_Caspar_Hauser.txt.tsv
-Herr Binder,12,DEU076_Caspar_Hauser.txt.tsv
-ihre,12,DEU076_Caspar_Hauser.txt.tsv
-Bruder,12,DEU076_Caspar_Hauser.txt.tsv
-ihnen,12,DEU076_Caspar_Hauser.txt.tsv
+Herr Hickel,12,DEU076_Caspar_Hauser.txt.tsv
+Henriette,12,DEU076_Caspar_Hauser.txt.tsv
+Binder,11,DEU076_Caspar_Hauser.txt.tsv
+Frau Daumer,10,DEU076_Caspar_Hauser.txt.tsv
+Bürgermeister Binder,9,DEU076_Caspar_Hauser.txt.tsv
+Lehrer Quandt,9,DEU076_Caspar_Hauser.txt.tsv
+Herr von Wessenig,8,DEU076_Caspar_Hauser.txt.tsv
+Graf Stanhope,8,DEU076_Caspar_Hauser.txt.tsv
+Herr von Imhoff,8,DEU076_Caspar_Hauser.txt.tsv
+Joseph,8,DEU076_Caspar_Hauser.txt.tsv
+Herr von Feuerbach,7,DEU076_Caspar_Hauser.txt.tsv
+Direktor Wurm,7,DEU076_Caspar_Hauser.txt.tsv
+Herr Quandt,7,DEU076_Caspar_Hauser.txt.tsv
+Frau Quandt,7,DEU076_Caspar_Hauser.txt.tsv
+Baron Tucher,6,DEU076_Caspar_Hauser.txt.tsv
+Kandidat Regulein,6,DEU076_Caspar_Hauser.txt.tsv
+Herr Daumer,6,DEU076_Caspar_Hauser.txt.tsv
+Polizeileutnant Hickel,6,DEU076_Caspar_Hauser.txt.tsv
+Mylord,6,DEU076_Caspar_Hauser.txt.tsv
+Rittmeister Wessenig,5,DEU076_Caspar_Hauser.txt.tsv
+Caspars,5,DEU076_Caspar_Hauser.txt.tsv
+Heinrich,5,DEU076_Caspar_Hauser.txt.tsv
+Grafen Stanhope,5,DEU076_Caspar_Hauser.txt.tsv
+Jette,5,DEU076_Caspar_Hauser.txt.tsv
+Imhoff,5,DEU076_Caspar_Hauser.txt.tsv
+Fräulein von Stichaner,5,DEU076_Caspar_Hauser.txt.tsv
+Bind,4,DEU076_Caspar_Hauser.txt.tsv
+Anna Daumer,4,DEU076_Caspar_Hauser.txt.tsv
+Magistratsrätin Behold,4,DEU076_Caspar_Hauser.txt.tsv
+Archivdirektor Wurm,4,DEU076_Caspar_Hauser.txt.tsv
+Pfisterle,4,DEU076_Caspar_Hauser.txt.tsv
+Herr Graf,4,DEU076_Caspar_Hauser.txt.tsv
+Dillmann,4,DEU076_Caspar_Hauser.txt.tsv
+Gefängniswärter Hill,3,DEU076_Caspar_Hauser.txt.tsv
+Magistratsrat Behold,3,DEU076_Caspar_Hauser.txt.tsv
+Freiherr von Tucher,3,DEU076_Caspar_Hauser.txt.tsv
+Exzellenz Feuerbach,3,DEU076_Caspar_Hauser.txt.tsv
+Regierungspräsident Mieg,3,DEU076_Caspar_Hauser.txt.tsv
+Herr Behold,3,DEU076_Caspar_Hauser.txt.tsv
+Herr Gemahl,3,DEU076_Caspar_Hauser.txt.tsv
+Schwester Anna,3,DEU076_Caspar_Hauser.txt.tsv
+Clara von Kannawurf,3,DEU076_Caspar_Hauser.txt.tsv
+schildknecht,3,DEU076_Caspar_Hauser.txt.tsv
+Bettine,3,DEU076_Caspar_Hauser.txt.tsv
+Doktor Lang,3,DEU076_Caspar_Hauser.txt.tsv
+Friedrich,2,DEU076_Caspar_Hauser.txt.tsv
+Staatsrat Feuerbach,2,DEU076_Caspar_Hauser.txt.tsv
+Regierungsrat Hermann,2,DEU076_Caspar_Hauser.txt.tsv
+Herr von Rumpler,2,DEU076_Caspar_Hauser.txt.tsv
+Herr Rittmeister,2,DEU076_Caspar_Hauser.txt.tsv
+Polizeirat Merker,2,DEU076_Caspar_Hauser.txt.tsv
+Redaktor Pfisterle,2,DEU076_Caspar_Hauser.txt.tsv
+Wurm,2,DEU076_Caspar_Hauser.txt.tsv
+Redakteur Pfisterle,2,DEU076_Caspar_Hauser.txt.tsv
+Behold,2,DEU076_Caspar_Hauser.txt.tsv
+Herr Schmidt,2,DEU076_Caspar_Hauser.txt.tsv
+Lord Chesterfield,2,DEU076_Caspar_Hauser.txt.tsv
+Lord,2,DEU076_Caspar_Hauser.txt.tsv
+-,2,DEU076_Caspar_Hauser.txt.tsv
+Kaiser Napoleon,2,DEU076_Caspar_Hauser.txt.tsv
+Ritter von Lang,2,DEU076_Caspar_Hauser.txt.tsv
+Herr von F.,2,DEU076_Caspar_Hauser.txt.tsv
+Anselm,2,DEU076_Caspar_Hauser.txt.tsv
+Sohn Feuerbach,2,DEU076_Caspar_Hauser.txt.tsv
+Soldat Schildknecht,2,DEU076_Caspar_Hauser.txt.tsv
+Schreiber Dillmann,2,DEU076_Caspar_Hauser.txt.tsv
+Dukatus,2,DEU076_Caspar_Hauser.txt.tsv
+Schuster Weikmann,1,DEU076_Caspar_Hauser.txt.tsv
+Gymnasialprofessor Daumer,1,DEU076_Caspar_Hauser.txt.tsv
+Philister,1,DEU076_Caspar_Hauser.txt.tsv
+Andre,1,DEU076_Caspar_Hauser.txt.tsv
+du,1,DEU076_Caspar_Hauser.txt.tsv
+Herr Rendant,1,DEU076_Caspar_Hauser.txt.tsv
+Herr Major a. D.,1,DEU076_Caspar_Hauser.txt.tsv
+Schneidermeister Bügelfleiß,1,DEU076_Caspar_Hauser.txt.tsv
+Graf Rotstrumpf,1,DEU076_Caspar_Hauser.txt.tsv
+Kanzleirätin zahnlos,1,DEU076_Caspar_Hauser.txt.tsv

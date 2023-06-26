@@ -1,748 +1,340 @@
 ----------- prompt 0 (lessing-die-juden) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ja? nu? – –
 - Sie dürften mich ein klein wenig bitten, so sagte ich Ihnen, von wem ich sie bekommen habe – –
 -  [ O! daran ist mir nun eben so viel nicht gelegen. ] 
 - Über den Punkt habe ich eigentlich noch nichts beschlossen. Doch wenn Sie sie nicht sollten bekommen, so haben Sie es niemanden anders, als sich selbst zuzuschreiben. Ich würde Ihre Aufrichtigkeit gewiß nicht unbelohnt lassen.
 - Oder vielmehr meine Schwatzhaftigkeit! Doch, so wahr ich ein ehrlicher Kerl bin, wann ich dasmal verschwiegen bin, so bin ichs aus Not. Denn ich weiß nichts, was ich ausplaudern könnte. Verdammt! wie gern wollte ich meine Geheimnisse ausschütten, wann ich nur welche hätte.
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 1 (cronegk-codrus) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ich.
 - Verwägner! Welcher Muth erfüllet dein Gemüthe? Du selbsten suchst den Tod und trotzest meiner Güte. Du lebst? Durch welche List bist du dem Tod entflohn?
 - Erfülle nur dein Wort! Hör auf mit eitlem Drohn. [ Wer muthig sterben kann, verlachet die Tyrannen. ] Laß meinen König frey; dieß ists was ich gewählt: Auch Elisinde wird nunmehro losgezählt.
 - Du willst es, Rasender! Und nichts soll dich erretten. Schließt ihn in Fesseln ein! – – Doch sprich durch welche Wuth Vergießt die kühne Wahl der Philaide Blut? Du liebst sie: Doch du läßt sie selbst freywillig sterben. Um deinen Könige die Freyheit zu erwerben. Ist nicht dein Muth, nur Stolz, und deine Tugend Wahn?
 - Wär ich ein Dorier, so hätt ichs nicht gethan. Den Fesseln will ich gern die freyen Hände reichen. Jedoch erfüll dein Wort! Laß keine Zeit verstreichen, Laß diese Beyde frey!
-
 Label: positiv
 
 ----------- prompt 2 (weisse-atreus-und-thyest) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Daß das Glück, das deine Huld Mir zugedacht, den Dank weit übersteigt, Den ich dir geben kann. Herr! ich bin nichts ...
 - Kann ich aus nichts, nicht einen König machen? Bist du mir nicht der jüngste, liebste Sohn? Hat je ein Sterblicher wohl mehr als ich Das Weib geliebt, das dich mir einst gebar?
 -  [ Jedoch das Volk, das Pestilenz und Hunger Vertilgt, braucht Hülfe! ] 
 - Tor! des Orakels Spruch war leicht verdreht. Ein kluger Mann weiß schon, wie er damit Verfahren soll.
 - Ich zittre! würden wohl Die Götter, deren Wink die Welt erschüttert ...
-
 Label: negativ
 
 ----------- prompt 3 (klemm-der-besuch) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Stehn sie auf Erast, ich mag sie nicht in dieser Stellung sehn.
 - Nicht eher, nicht eher gnädige Frau, als bis ich Vergebung von ihnen erhalten habe, bis sie mir versprechen, daß sie meine Gemahlin werden wollen.
 -  [ Stehn sie auf Erast, ich fühle daß ich sie noch liebe, und daß sie meiner Liebe nicht ganz unwürdig sind. ] Sie sind sonst so ein edelmüthiger Mann, kann denn keine einzige Mannsperson zu allen Zeiten edelmüthig handeln?
 - O gnädige Frau, wie sehr entzücken sie mich! Gott, in was für einem Irthume war ich! Eine elende affectirte Närrin! Cydalise. O ich sterbe vor Scham.
 - So tauschen wir schon wieder? Gnädige Frau, ich sehe, man darf auf ihr Wort auch keinen Staat machen.
-
 Label: positiv
 
 ----------- prompt 4 (goethe-erwin-und-elmire) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Aber wie? Da führen sie ihre Kinder zusammen. Sie sitzen im Kreis, wie die Damen; trinken ihren Kaffee aus der Hand, wie die Damen, statt daß man sie sonst um einen Tisch setzte und es ihnen bequem machte; so müssen sie anständig sein, wie die Damen; und auch Langeweile haben, wie die Damen; und sind doch Kinder von innen, und werden durchaus verdorben, weil sie gleich von Anfang ihres Lebens nicht sein dürfen, was sie sind.
 - Unterdessen, unsre Lebensart verlangt's doch jetzt. Wenn wir erzogen würden wie vor alters, was für eine Figur würden wir in der Gesellschaft spielen?
 - Was für eine Figur, Mädchen? [ Glaubst du denn nicht, daß man ein angenehmes Mädchen, eine rechtschaffne Frau werden könne, wenn man die Erlaubnis gehabt hat, ein Kind zu sein? ] Dein Vater hat weder Schande an mir in der großen Welt er lebt, noch hatte er sich über mein häuslich Leben zu beklagen.
 - Unsre Kenntnisse, unsre Talente!
 - Das ist eben das verfluchte Zeug, das euch entweder nichts hilft oder euch wohl gar unglücklich macht. Wir wußten von all der Firlfanzerei nichts; wir tappelten unser Liedchen, unsern Menuett auf dem Klavier und sangen und tanzten dazu; jetzt vergeht den armen Kindern das Singen und Tanzen bei ihren Instrumenten; sie werden auf die Geschwindigkeit dressiert und müssen, statt einfacher Melodien, ein Geklimpere treiben, das sie ängstigt und nicht unterhält; und wozu? Um sich zu produzieren! Um bewundert zu werden! Vor wem? wo? – Vor Leuten, die' s nicht verstehen oder plaudern oder nur herzlich passen, bis ihr fertig seid, um sich auch zu produzieren und auch nicht geachtet und doch am Ende aus Gewohnheit oder Spott beklatscht zu werden.
-
 Label: positiv
 
 ----------- prompt 5 (goethe-das-jahrmarktsfest-zu-plundersweilern) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Zuerst der Herr und dann der Knecht.
 - Wie verkauft Sie Ihre Eier?
 -  [ Drei, ihr Herrn, für einen Dreier. ] 
 - Straf mich Gott, das sind sie wert.
 - Kauft meine Milch! Kauft meine Eier!
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 6 (bretzner-belmont-und-constanze) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Deine Sklavin? ich deine Sklavin? – Ha! ein Mädchen eine Sklavin! Noch einmal sag mir das, noch einmal!
 - Ich möchte toll werden, was das Madchen für ein starrköpfiges Ding ist.
 -  [ Mädchen sind keine Waare zum Verschenken! ] Ich bin eine Engländerin, zur Freyheit geboren;
 - Gift und Dolch über das Mädchen! – Beym Mahomet! sie macht mich rasend. – Und doch lieb' ich die Spitzbübin, trotz ihres tollen Kopfs! –
 - Hahaha! Komm mir nur ein wenig näher, ich will dir fühlbare Beweise davon geben.
-
-Label: negativ
+Label: neutral
 
 ----------- prompt 7 (schiller-don-carlos-infant-von-spanien) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Befinden Sich Ihre Majestät nicht wohl?
 - Im linken Pavillon war Feuer. Hörtet Ihr Den Lärmen nicht?
 -  [ Nein, Ihre Majestät. ] 
 - Nein? Wie? Und also hätt ich nur geträumt? Das kann von ungefähr nicht kommen. Schläft Auf jenem Flügel nicht die Königin?
 - Ja, Ihre Majestät.
-
-Label: negativ
+Label: neutral
 
 ----------- prompt 8 (sander-die-hoftrauer-oder-das-testament) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Hätten wir ihr nur erst einen Bräutigam aufgetrieben. Dem jungen Reinhard geben Sie doch wohl nimmer Ihre Einwilligung?
 - Könnten Sie das glauben? Einem Manne von so unbändigem Stolz, daß er auf die ganze Welt herab zu sehen scheint? Nein,
 - Ohne Zweifel . Mancher Vornehme hat sich schon vergebens um ihre Hand beworben; [ Denn damit schaft man sich im Nothfalle eine Stütze. ] 
 - Und erhält das Recht, eine wichtige Miene annehmen zu dürfen; ein Umstand von Bedeutung! Erst, wenn man durch seinen Einfluß bey Hofe zuweilen etwas bewürken, dem Einen eine kleine Bedienung verschaffen, oder dem andern Steine des Anstosses in den Weg legen kann; erst dann bekömmt man Gewicht und Ansehen in der Welt.
 - Sie sind fein, wie die Göttin Politick, meine Reizende!
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 9 (schikaneder-die-zauberfloete) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Pa – Pa – Papagena! –
 - Fort mit dir, junges Weib! er ist deiner noch nicht würdig.
 -  [  ] 
 - Bald prangt, den Morgen zu verkünden, Die Sonn' auf goldner Bahn, – Bald soll der finstre Irrwahn schwinden, Bald siegt der weise Mann. – O holde Ruhe, steig hernieder; Kehr in der Menschen Herzen wieder; Dann ist die Erd' ein Himmelreich, Und Sterbliche den Göttern gleich. –
 - Doch seht, Verzweiflung quält Paminen!
-
-Label: negativ
+Label: nan
 
 ----------- prompt 10 (brentano-ponce-de-leon) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Habe ich nicht ein kindisches Herz? Nun ist er im Hause, nun bin ich froh und ruhig – ich habe nun alles so lieb, ich möchte ihn und alle Menschen glücklich machen. Wie seine Augen heute morgen voll Tränen stiegen, da er Isidoren ansah. – Solche Tränen weinte auch schon Porporino um mich – und solche Tränen werden alle noch erhört. Mein Herz spricht nicht dagegen – so wie er war, so habe ich ihn geliebt – so wie er nun ist, habe ich keinen Anspruch mehr auf ihn – ich wäre bitterböse – wie schön kann alles werden! Du treuer Porporino, freue dich; du lieber Vater, freue dich – wenns nur zu Ende wäre, mein Herz war nie so voll, so voll Glück für alle, die ich liebe, und liebt Valeria sich nicht auch selbst – da kömmt Porporino. –
 - Deine Fräulein sollen in die Stube der beiden flandrischen Musikanten kommen, ihre Tante erwartet sie dort.
 -  [ Flandrische Musikanten sind die Pilger? ] 
 - Noch nicht bis jetzt, denn dem einen ist eine Seite zerrissen, und der andre ist verstimmt.
 - Ihr werdet sie bald geheilt haben, Herr Doktor.
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 11 (schlegel-jon) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ich halte dich, du lebst.
 - Fand ich dich wirklich?
 -  [ Dir wollt' ich einen Todesbecher reichen! ] 
 - Nach diesem Busen hat mein Pfeil gezielt!
 - Kannst du mir je verzeihn?
-
 Label: negativ
 
 ----------- prompt 12 (arnim-halle) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ich bin kein Richter über dich, du läufst aus meinem Kreise der Gedanken, doch wisse lieber Sohn, wer hier auf Erden Gottes Richtschwert ist,
 - Der weiß es nicht – und ich, ich wußte mir so viel damit! – Es schmettert mich dein Wort aus meiner Höhe nieder, bedenkst du auch was du gethan, den innern festen Trost mir noch zu rauben, da alles mich verläßt.
 -  [ Gott giebt uns alles zehnfach wenn er uns alles hier zu nehmen scheint. ] 
 - Ich folge dir, nicht gläubig, nicht entschlossen, nur weil des Bleibens hier nicht mehr; nichts stärkt mich was ich hier gethan geliebt; – ich möchte in ein fernes Land um alles zu vergessen,
 - Kaum ahne ich lieber Sohn was dir begegnet sei, so scheinst du mir verwandelt, sieh rings umher, wie liegt die Welt so offen, es thut ihr wohl daß sie sich froh erschließt, o zeig uns auch dein Herz so offen.
-
-Label: negativ
+Label: positiv
 
 ----------- prompt 13 (richter-eumenides-duester) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - O, zage nicht! Blüht dir nicht zum ew'gen Ruhme Mancher Dichtung schöne Blume?
 - Hörst du wohl? – O nein! ich fühl's, Abwärts neigt sich meine Bahn. Mit gewalt'gem Schritt heran Naht der Schluß des Trauerspiels. Höre selbst! – Heut ist's ein Jahr, Daß von schlummerlosem Kissen Frühes Zagen mich gerissen, Mich zu senden in Gefahr. In das Zimmer schreit' ich, höre Lust'gen Feuers hellen Laut, Finde Kaffee in der Röhre, Nächtlich von der Magd gebraut. Eben wollt' ich ihn entfüllen, Als mit ungeheurem Brüllen Schnell der Kachelofen sprang, Und das glüh'nde Eingeweide Rings umher auf Tisch und Bank, Wie des Als die Katze Feuer fing, Und so wie die heiße Hölle Wuchernd mit gewalt'ger Schnelle In dem schwarzen Pelze hing; Wie sie glühte, wie sie brannte, Starken Muthes, hoffnungslos In des Ofens Glutenschooß Mit den letzten Kräften rannte. Ruß im Antlitz, Lob im Herzen, Stand ich da mit offnem Mund, Wie sie starb den Tod der Schmerzen In des Ofens Flammenschlund. Eh' sie mit der hellen Glut Zündend lief durch Hof und Haus, Löschte sie mit edlem Muth Ihr gefährlich Daseyn aus! Mir ein Beispiel ist's gegeben! – Wer einmal des Unheils Saat In sich trägt, Ende sein gefährlich Leben. – Eher schüttelt solchen Funken Eine Katz' aus ihrem Felle, Als der Mensch, einmal gesunken, Aus der Brust die wilde Hölle. Denn der Teufel hält sich feste In dem einmal eignen Neste! Wohl denn! Selbst für sich zu wählen, Ward dem Menschengeiste Macht; Grauses hörtest du erzählen, Graus'res mußt' ich dir verhehlen; Weislich nimm dein Wohl in Acht! Soll mein Unstern dich nicht fassen, Dich umfahn mit gleicher Noth; Mußt du eilends mich verlassen.
 -  [ Und wär's mein Tod! ] 
 - Frevle nicht! noch bist du frei! Satan horcht mit scharfen Krallen, Ob Ein Opfer, oder drei Seinem Grimme werden fallen!
 - Kind und Mutter theilen gern Deines Glücks und Unglücks Stern.
-
 Label: negativ
 
 ----------- prompt 14 (holtei-die-kalkbrenner) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Oho!
 - Und wenn er gleich seine Braut gar nicht liebt, ihr nicht im Geringsten treu ist, so läßt er doch schon aus Eigensinn nicht von ihr ab, weil's sein Vater nicht haben will, daß sie sich lieben sollen.
 - Demoiselle entwirft Ihnen da ein lebendiges Bild Ihres Nebenbuhlers. Sollte der aber noch so schonend mit Ihnen umgehn, – immer danken Sie dem Himmel, wenn Sie Ihre Braut los werden! [ Keine Hecke ist ihr zu hoch und keine Bosheit zu boshaft. ] Sie ist kokett, zänkisch, eitel, verschwenderisch, launenhaft, unbeständig, naseweis.
 - Genug! genug! Ich glaube, Sie werden nichts weiter zu hören wünschen?
 - Ne! Fur heute ha ich genung vo allen Beeden! Das sein ju a paar recht eseme Dingriche! Wenn mir ock, daß
-
 Label: negativ
 
 ----------- prompt 15 (weissenthurn-welcher-ist-der-braeutigam) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Und das Fräulein sind schon heran gewachsenen Leibes, und reifen Verstandes, bis die einen bekömmt –
 - Kann bei diesen männerarmen Zeiten länger hergehen, als ich Lust habe, auf eine Schwiegertochter zu warten. Die acht Tage Bedenkzeit, die letzte Frist die ich meinem Sohne gab, sind heut verstrichen. Heute muß ich wissen, woran ich bin, und im Vertrauen,
 -  [ Der wäre? ] 
 - Eine Ambassade an die Mutter,
 - Herr Bilau, wo denken Sie hin – ich schlichter, einfältiger Mann –
-
-Label: negativ
+Label: neutral
 
 ----------- prompt 16 (lortzing-zar-und-zimmermann) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Doch die Schrift, die du empfangen, Wohl zu seinen Gunsten spricht.
 - Gern erfüll ich dein Verlangen, Ihn verteid'gen wird sie nicht.
 -  [ Öffnet dieses Saales Türen, Die zunächst zum Hafen führen. ] 
 - Heiliger Nikolaus, was sehen meine Augen?
 - Was geschieht? Was ergreift die Majestät?
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 17 (malss-die-jungfern-koechinnen) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Allons, Mamsell Frenz, gewwe Se uns emol des bewußt Liedche zum Beste.
 - Ach, des is ja ganz gemän! Des bloße schond die Postilion.
 -  [ Es is awwer doch scheen, un Sie singe wähs Gott, wie die Fischer. ] 
 - Warum net gar wie die Sunntag?
 - Awwer erscht misse Se uns was verzehle, so aus dem Theater ebbes. Sie kennes, sie lese jo all die Programmer, un kenne die Geschichte von dene Opern.
-
 Label: positiv
 
 ----------- prompt 18 (seemann-dulk-die-waende) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - S'ist zum Verzweifeln!
 - Ja, bisweilen denk' ich auch so.
 -  [ Dann ertrag' es nicht; ] erheb'
 - Wo denkst Du hin! Ei, so die Pietät verletzen Gegen meinen angestammten Erbwohlthäter Theodor?! Ach, ich werde stets gerührt, bedenk' ich, was ohn' seine Leitung Aus mir würde, matt und schwächlich, wie ich bin! – glaub' mir's, ich fühle Eben wieder Schmerz im Rücken –
 - Offenbar vom ew'gen Liegen! Hans, Du hast Dich durchgelegen; mach' dem tollen Spuck ein Ende, Iß' und trink', und lies und rede, was Dir ansteht. Deine Krankheit Ist Betrug, ist von den Ärzten auf den Antrieb Theodors Nur erfunden, daß sie sich'rer Deine Güter Selbst genießen; Jag' sie fort!
-
 Label: negativ
 
 ----------- prompt 19 (gutzkow-zopf-und-schwert) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ah! – – Lange in England?
 - Jetzt sollt' ich nun wohl bei ihm für Österreich wirken und England schlecht machen?
 -  [ Was? ] England? Hören Sie! Da können wir noch lange laufen, bis wir dahin angekommen sind, wo schon jetzt die Engländer stehen.
 - Ist er denn für England? Ich denke für Österreich? Er ist für Österreich!
 - Hören Sie, Bewegung? Die wird sich in Österreich noch halten lassen.
-
-Label: negativ
+Label: neutral
 
 ----------- prompt 20 (hebbel-gyges-und-sein-ring) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Durch alle Türen schreit ich hin, mich halten Nicht Schloß noch Riegel fern!
 - Wie fürchterlich.
 -  [ Für jeden Bösen, ] 
 - Nein doch, nein! Für jeden Guten noch viel mehr! Kannst du Noch ruhig atmen, wirst du nicht in Scham Verglühn, nun du dies weißt? Herr, wirf ihn fort, Hinunter in den tiefsten Fluß! Wem mehr Als Menschenkraft beschieden ist, der wird Als Halbgott gleich geboren! Gib ihn mir! Man sagt bei uns, daß Dinge, die die Welt Zertrümmern können, hie und da auf Erden Verborgen sind. Sie stammen aus der Zeit, Wo Gott und Mensch noch miteinander gingen Und Liebespfänder tauschten. Dieser Ring Gehört dazu! Wer weiß, an welche Hand Ihn eine Göttin steckte, welchen Bund Er einst besiegeln mußte! Graust dich nicht, None Und ihre Rache auf dein Haupt zu ziehn? Mich schaudert, wenn ich ihn nur seh! So gib!
 - Um einen Preis! Wenn du als Königin Beim Feste heut erscheinen willst.
-
 Label: negativ
 
 ----------- prompt 21 (benedix-die-hochzeitsreise) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - 
 - Doch halt!
 - Ja so, meine Frau! Soll ich? [ Famule, sagen Sie meiner Frau: es sei niemand da sie zu bedienen. ] 
 - 
 - Wirklich ist mir dieser Umstand noch nicht aufgefallen. Ob wir bei den Griechen nicht irgend einen Nachweis –? Hm – die Mägde der Penelope
-
-Label: negativ
+Label: neutral
 
 ----------- prompt 22 (moser-das-stiftungsfest) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ich ebenfalls, Herr Bolzau.
 - Was soll ich nun mit euch machen?
 -  [ Oh, wir sind noch nicht zu Ende – ] 
 - Frau Commerzienräthin!
 - Liebe Tante!
-
-Label: negativ
+Label: neutral
 
 ----------- prompt 23 (vischer-faust) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Wir ringeln ihn.
 - Was ist denn das?
 - Sancta Simplicitas! [ Schaut her! ] Ich nehm ihn, schneid hinein, doch nicht ganz quer, Auch nicht bis in des Markes Mitte; Aufsteigend in Spirale mit dem Schnitte, Ganz fein, daß man ihn ja nicht sieht, Richt ich den Stab so her, daß, wenn zu wild Die Zornesader dem Gereizten schwillt Und er nun doch vom Leder zieht, Das Instrument ihm in der Hand zerbricht Und ihm die Hälfte schnellet ins Gesicht.
 - Gern, gern nach Kräften! Wird's, so ist's famos!
 - Er kommt; an euren Platz! Dann frisch drauf los Mit allen euren Teufelei'n! Den Stecken schnell ins Pult hinein!
-
 Label: positiv
 
 ----------- prompt 24 (bredow-goerne-gute-freunde) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Und warum klopfen Sie nicht an die Thür des Glücks?
 - Ach –
 -  [ Weshalb seufzen Sie mein lieber Pech? ] 
 - Kennen Sie diesen Holmer?
 - Mein lieber Pech, lassen Sie uns glücklich sein, da wir noch jung sind.
-
 Label: negativ
 
 ----------- prompt 25 (anzengruber-der-gwissenswurm) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Was? – Ah ja – ahan – hon ich's gfahlt gebn?
 - No, wie! Nach was hast denn ausguckt?
 -  [ Ob moring – ob moring wohl a schön Wetter sein möcht, beispielmäßig, daß mir a weng furtfahrn kunnten. ] 
 - No, da hastn ja, 'n Grillhofer! Siehst, der mitm Polster aufm Rucken.
 - O du Lalli, »der mitm Polster aufm Rucken«, sagt er, wie wann der angwachsen war! Was gibt 's denn?
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 26 (hauptmann-vor-sonnenaufgang) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Was die Menschen nicht alles ausschnüffeln! Lieber Freund! Du glaubst nicht, wie ein Mann in meiner Stellung auf Schritt und Tritt beobachtet wird. Das ist auch so ’n Uebelstand des Reich.... – Die Sache ist nämlich die: ich erwarte der größeren Ruhe und gesünderen Luft wegen die Niederkunft meiner Frau
 - Wie paßt denn das aber mit dem Arzt? Ein guter Arzt ist doch in solchen Fällen von allergrößter Wichtigkeit. Und hier auf dem Dorfe ....
 -  [ Das ist es eben: der Arzt hier ist ganz besonders tüchtig; und, weißt Du, so viel habe ich bereits weg: ] 
 - Vielleicht ist sie eine Begleiterscheinung des Genies im Arzt.
 - Mein’twegen, jedenfalls
-
 Label: positiv
 
 ----------- prompt 27 (bleibtreu-ein-faust-der-that) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Die Schotten rüsten schon wieder mit aller Macht. Ich fürchte, wir werden bald von ihnen hören. Nun, nach Schottland kann er sich nicht mehr wenden. 'S ist zu weit und unsre Truppen sperren den Weg. Aber nach Süden ..
 - Ah, Du meinst nach dem Kontinent?
 -  [ Wohl, auf freiem Fuß in Frankreich oder Holland kann er kaum so schaden, wie hier im Lande. ] 
 - Was! Von dort aus, das Ausland zur Hilfe rufend, würde er ja ewig den Krieg fortschüren.
 - Das fragt sich. Ist eine bloße Machtfrage. Werden wir wirklich Herren im Land, räumen mit
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 28 (hartleben-rosenmontag) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Carte Blanche?
 - Was?! Pommery!!
 -  [ Zwei Flaschen! ] 
 - Das heißt, meine Herrn, nicht wahr? Die Sache ist heute noch geheim – wir sind ja unter uns. Aber!
 - Hurra! Am
-
 Label: positiv
 
 ----------- prompt 29 (widmann-maikaefer-komoedie) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Haben eine Gnadenfrist zu bereuen, eh' sie abscheiden.
 - Wie sie zappeln und zucken und sich nutzlos abmühen!
 -  [ Die Qual wird ihnen das Gewissen schärfen. ] 
 - Du bist unbarmherzig.
 - Da stimm' ich bei; auch mir wird's nachgerade zu dick.
-
 Label: negativ
 
 ----------- prompt 30 (bahr-das-konzert) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - O ja für mich auch!
 - Das darf sie doch! Lassen Sie sie doch, Fräulein! Das ist erlaubt! Warum denn nicht? Sie will es ja nur photographieren! Für uns alle!
 -  [ Für mich auch? ] 
 - Für uns alle doch!
 - Natürlich auch für Sie.
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 31 (hauptmann-carl-frau-nadja-bielew) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Was ruft Frau Bielew?
 - Frau Nadja denkt, es wollte sie jemand aus ihren Himmeln reissen.
 -  [ wer ist der dunkle, schlanke Herr, der mit ihr kommt, und von dem sie sich jetzt so hastig und zutraulich verabschiedet? ] 
 - None
 - 
-
 Label: positiv
 
 ----------- prompt 32 (chlumberg-die-fuehrer) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Ich sagte schon anfangs: der Name tut nichts zur Sache. Uebrigens sprach der Mann, das war aus den lauten »Bravorufen« zu entnehmen, im Namen fast aller.
 - Weiter.
 -  [ Interpellant meinte, es wäre geraten, dir beizeiten eine passende Hilfskraft zur Seite zu stellen. ] 
 - So legt man mir mein Verhalten in der Maschinengewehrfrage als Starrköpfigkeit aus? Ich weiß, man hat es mir hinterbracht.
 - Fast allgemein. Man sagt, du wärest unseren Gegnern in die Falle gegangen, denen es nur angenehm ist, wenn allein
-
-Label: positiv
+Label: neutral
 
 ----------- prompt 33 (sudermann-der-bettler-von-syrakus) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
+Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label ['positiv', 'negativ', 'neutral'] zu. Gib nur das Label ohne weiteren Text aus.
 
 - Wir liefen, Herr –
 - Im Wettlauf, Herr. Der Blinde –
 -  [ Am Tor – ] 
 - Und ich –
 - Der Blinde?
-
-Label: positiv
-
------------ prompt 34 (cronegk-codrus) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- O Medon! Welches Glück!
-- Tritt näher! – – Welcher Gott gab dich Athen zurück?
-- In welchem Zustand muß mein Auge dich erblicken? Es kann nun unser Sieg Athen nur halb entzücken, Wenn unser König fällt! Herr! Der Thebaner Schaar, Die, wie ich dir gesagt, der Stadt schon nahe war, Kam unversehens an, von ew'ger Macht bewogen. Die Nacht mit welcher sich der Himmel überzogen, Das schreckliche Geräusch, von nahen Sturm erweckt, Die Götter, die mit Furcht der Feinde Herz geschreckt, Ließ ihnen zu, mit Muth in unsre Stadt zu dringen, Als die bestimmte Schaar mich zu dem Tod zu bringen, Mich auf den Markt geführt. [ Nileus wars, der sich von edlem Muth erwecket, ] Von Banden los gemacht, als mir das Schwerdt gedroht. Man lauft Verwirrungsvoll, erschrickt, und glaubt mich todt. Nunmehr fieng Thebens Volk an, muthig loszubrechen, Sie wollten meinen Tod an allen Feinden rächen. Ich zeige mich zuletzt, wir siegen; alles fällt. Artander, den man noch bisher gefesselt hält, Erwartet seinen Tod und zittert in den Banden. Der Sturm der uns bisher im Siegen beygestanden, Macht sanfter stille Plaz: Die Nacht ist schon zerstreut; Der gütge Himmel glänzt mit neuer Heiterkeit. Der Donner läßt sich noch, der Götter Macht zu lehren, Zum Zeichen ihrer Gunst, von linker Seiten hören. Der Krieg und unsre Quaal ist auf einmal vorbey;
-- Es ist geschehn! – – Ich sehs aus diesen Donnerstreichen, – – Ihr Götter! Dieser Blitz, itzt eurer Gnaden Zeichen, Treff jedes Königs Herz, der sich im Glück vergißt; Und der nicht für sein Volk bereit zu sterben ist! O Medon, nähre dich! Du nur bist, zu regieren An meiner Stelle, werth. Laß nicht dein Herz verführen. Ein hoher Stand droht oft der Tugend mit Gefahr! Beschütze dieses Volk, von dem ich Vater war.
-- Nein! Niemand ist es werth, daß er nach dir regieret. Die Götter deren Macht dieß alles ausgeführet, Sind es alleine werth. Die mögen nun allein Mit ungetheilter Macht Athens Beherrscher seyn! Die freygewordne Stadt soll keinen Herrn erkennen, Und welchen Namen kann man wohl nach Codrus nennen? Als Bürger von Athen bring ich mein Leben zu, Beglückt durch deine Hand in ungestöhrter Ruh. Der Kronen prächtge Last mag sich, wer will, erwerben; Ich wünsche mir nichts mehr, – – als einst, wie du zu sterben.
-
-Label: positiv
-
------------ prompt 35 (wieland-lady-johanna-gray) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Meine Wahl Ist schon getroffen! – Dank in meinem Namen Der Königin für eine Huld, die mir Zu theuer angeboten wird – Das Leben, Wornach ich dürste, kann der Tod nur geben. – Ich sollte Gott, ich sollte Dich, mein Erlöser! Und dein Evangelium, Die Wahrheit, die du selbst mit deinem Blut versiegelt! Dir, und der heiligen Gemeine Der Auserwählten, die in frommer Demuth Dir folgen – sollt ich untreu werden? O Schande! – Und warum? Ein Leben zu verlängern, Worin ich fern von deinem Anblick schmachte? Verschonet meiner, Mylord! – Treibet nicht Die müdgemarterte Geduld zum Murren! Verschont mein Ohr, Versuchungen zu hören, Wovon der blosse Schall mir Greuel ist!
-- Was hör ich? Wie? Ist das die Dankbarkeit, Womit das Übermass der königlichen Grossmuth Empfangen wird? Ist das die Antwort, Lady, None Zurücke bringen soll? –
-- Auf euern Antrag Ist keine andre möglich! [ – ] 
-- Ach Johanna! Wie sehnlich wünscht' ich –
-- Still! Mein Guilford! Lass mich Nichts weiter hören! – Mylord! Mein Entschluss Befremdet euch? – Ihr kennt mein Herz nicht! Nie, Nie fühlt ich nur das mindeste Verlangen Nach Macht und Purpur! Edwards Tod Erweckt' in mir nur brennende Begierden Ihm nachzufolgen, und bey dem zu seyn, Den meine Seele liebt! – Der Himmel weiss, Was wider meine Neigung, die sich stets Dagegen sträubte, mich bewogen hat None Der Vorsicht, nun zum Ziele meiner Hoffnung Mich bringen wird! – Ich wollte das vollenden, Was Edward angefangen. Doch der Schluss Des unerforschten Schicksals hält den Fortgang Des grossen Werks noch auf. Maria herrscht! Der Aberglaube sitzt an ihrer Seite, Ihr sanftres Herz mit fremder Grausamkeit, Und einem Eifer, der den Gott der Liebe Mit Menschenblut versöhnen will, zu füllen. Was soll mir nun das Leben? Soll ich mich Durch Übelthaten zu dem bangen Anblick Der schreckenvollen Scenen aufbehalten, Die eu're heilge Wuth mir angekündigt? O Nein! gesegnet sey der Tod! der Führer In eine besre Welt! Gesegnet sey Der Mund, der ihn mir angekündigt hat!
-
-Label: negativ
-
------------ prompt 36 (wieland-klementina-von-porretta) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Willkommen in Italien und in Bologna, theuerster Grandison! Wie grossmüthig, wie freundschaftlich ist es von Ihnen, dass Sie unsere Bitte mit einer so, verbindlichen Eilfertigkeit erfüllt haben! – Glauben Sie indessen, dass der Chevalier Grandison der einzige ist, gegen den wir fähig waren, einen solchen Schritt zu thun.
-- Die Freundschaft und das Zutrauen, gnädiger Herr, womit Ihre erlauchte Familie mich beehrt, berechtigt sie von ihrem Grandison alles zu erwarten, was ihn derselben würdig zeigen kann.
--  [ Wir sind Ihnen alle unendlich verbunden, Herr Grandison! ] Sie sind der Erretter meines Bruders gewesen, und jetzt entrissen Sie Sich Ihrem Vaterlande, Ihren Freunden, Ihrer Ruhe, und setzen bey dieser Jahrszeit selbst Ihr Leben in Gefahr, um Ihre Wohlthat vollständig zu machen. Wie werden wir jemahls im Stande seyn, Ihnen eine Dankbarkeit zu zeigen, die solcher Dienste würdig sey?
-- Sie demüthigen mich, gnädiger Herr, wenn Sie von Verbindlichkeiten reden. Wenn ja das, was ich gethan habe, eine andere Belohnung verdiente; als das Vergnügen, womit das Herz sich selbst belohnt, so ist es bloss in der Macht des Himmels, sie zu geben. Wenn unser Jeronymo uns wieder geschenkt wird, wenn die Gräfin Klementina wieder die Freude ihrer Verwandten ist, und ich das Vergnügen habe, sie alle nach ihrem Herzen und nach meinem Wunsche glücklich zu sehen, so bin ich auf die vollständigste Art belohnt. Aber sagen Sie mir, gnädiger Herr, wie lebt der Baron von Porretta? Wie befindet sich die junge Gräfin?
-- Jeronymo – Ach, der arme Jeronymo! Ehe Sie zu uns kamen, war alles, was man sagen konnte, dass er noch athmete, um den langsamen Tod desto länger zu fühlen, der mit dem Überrest eines schmachtenden Lebens kämpft. Und Klementina – Ach, Grandison! sie ist seit Ihrer Abwesenheit höchst elend gewesen. Sie haben von den unglücklichen Massregeln gehört, wozu der Rath des Generals und der Gräfin Sforza die Familie getrieben. Man wollte die Strenge gegen ein junges Geschöpf versuchen, das an die zärtlichste Begegnung gewöhnt, das lauter Sanftmuth und Güte ist. Man lieferte sie der Gräfin und ihrer Tochter Laurana aus, die von der ersten Kindheit an ihre Gespielin gewesen war, und die schwärzesten
-
-Label: positiv
-
------------ prompt 37 (klemm-der-auf-den-parnass-versetzte-gruene-hut) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Was klopft? der Teufel? laß ihn hereinkommen.
-- Ach mein lieber Hr. Hauptmann, es geht seit acht Tagen in unserm Hause so jämmerlich um, es wirft, es schlägt. Ach, da klopfts wieder, itzt beym Fenster; o, ich bin des Todes.
--  [ Was, was, was? (Das verfluchte Mädel erwischt mich selbst bey meiner Furcht.) ] 
-- Ach, da kömmts schon. Ach Hr. Hauptmann, helfen sie doch –
-- Wo denn, wo denn?
-
-Label: negativ
-
------------ prompt 38 (goethe-proserpina) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Bist nun unser! Warum trauerst du? Sieh, wir ehren dich! Dich, o Königin!
-- O hätte der Tartarus eine Tiefe, daß ich euch drein verwünschte! O wäre der Kozyt nicht euer ewig Bad, daß ich für euch noch Flammen übrig hätte! Ich Königin, und kann euch nicht vernichten? In ewigem Haß sei ich mit euch verbunden! – So schöpfet, Danaiden! spinnt, Parzen! wütet, Furien! in ewig gleich elendem Schicksal! Ich beherrsch euch und bin drum elender als ihr alle.
--  [ Bist nun unser! ] Wir neigen dir!
-- Fern! weg von mir sei eure Treu und Herrlichkeit!
-- Unser! Unsere Königin!
-
-Label: positiv
-
------------ prompt 39 (anonym-der-deutsche-student) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Hier! Fritz! sind abermal Schuld-Register
-- Was gehen mich die Schulden an? Sie mögen sehen, wo sie sie bezahlt kriegen. Und die alte Vettel! was mag doch die wollen?
-- Ich sehe wohl, daß dich nichts mehr rührt. Deine Seele ist alles zärtlichen kindlich Gefühls beraubt. Deine Mutter schwimmt in Thränen; dein Vater ist äußerst bekümmert – Nichts rührt dich. [ Geh mir aus den Augen! ] 
-- Zuchthaus! des muß ich lachen. Das hat nichts zu sagen. Dafür danke ich. Ich will Sie durch meine Gegenwart nicht mehr beunruhigen. Leben Sie wohl!
-- Nun treibts mein Alter zu weit. Ich soll ins Zuchthaus! – Das wäre noch eine listige Erfindung. Lieber will ich den Tod fürs Vaterland sterben. Ich habe ja noch einen ziemlich gesunden Körper. – Vielleicht giebt es bald Krieg; so kann ich mein Glück machen. Das
-
-Label: negativ
-
------------ prompt 40 (bueschel-die-neue-messaline) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Der lispelt wenn er spricht.
-- Ich besitze die Gabe, sehr gut zu erzählen.
--  [ Ich habe eine Stimme wie ein Castrat. ] 
-- O hört auf – ihr betäubt mich.
-- Alles aus Eifer, gnädigster Prinz.
-
-Label: positiv
-
------------ prompt 41 (iffland-die-jaeger) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Was dem einen recht ist, ist dem andern billig.
-- Schurke, nun ist es genug.
--  [ Herr Förster! ] 
-- Was Er denn wohl will, ins Kuckucks Namen!
-- Kerl, geh aus der Stube, oder du bist des Todes!
-
-Label: negativ
-
------------ prompt 42 (sander-die-hoftrauer-oder-das-testament) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Die würde ich selber tragen, wäre ich Schneider.
-- Die Welt ist verkehrt. Ja dann, mein Lakay soll sie hintragen. Adieu Meister!
--  [ Adieu, gnädige Frau! ] 
-- Ich kann denn doch wohl ruhig seyn, lieber Stram; kann mich gewiß darauf verlassen, die halben Zinsen von meines Mannes hinterlassenem Kapitale zu ziehen?
-- Ohne Zweifel. Das Testament lautet ausdrücklich, daß die Zinsen, so lange Sie leben, zwischen Ihnen und Ihrer Tochter gleich getheilt werden sollen. Nur die verwünschte Beylage zu Ihres Mannes Testament beschnitt Ihnen Ihre Einkünfte so sehr. Wenn ich es sagen darf, so war es eben auch nicht klug von Ihnen gehandelt, daß Sie ihn ohne Gemeinschaft des Vermögens heyratheten.
-
-Label: positiv
-
------------ prompt 43 (schikaneder-die-zauberfloete) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Ey! Ey! was mag darinnen seyn?
-- Darinnen hörst du Glöckchen tönen.
--  [ Werd ich sie auch wohl spielen können? ] 
-- O ganz gewiß! Ja, ja! gewiß.
-- Silber – Glöckchen, Zauberflöten, Sind zu eurem / unserm Schutz vonnöthen. Lebet wohl! wir wollen gehen, Lebet wohl! auf Wiedersehen.
-
-Label: positiv
-
------------ prompt 44 (benkowitz-die-jubelfeier-der-hoelle) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Ja, Wagner, itzt bin ich ganz glücklich! Alles vereinigt sich, mich froh zu machen. Ich bin gesund, habe ein liebenswürdiges Weib, wohlgerathne Kinder, und ein reichliches Auskommen. Seit Jahren hatte ich keinen Kummer, als meinen Rechtshandel mit dem gehaßten Rochus. Nun ist auch dieser geendigt, mein Einkommen zehnfach erhöht, meine Rache befriedigt. Nichts bleibt mir zu wünschen übrig.
-- Ich freue mich mit Dir darüber; aber ich höre es nicht gern, wenn jemand mit seinem Glücke so zuversichtlich prahlt.
--  [ Warum nicht? ] Sei nur in meiner Lage, guter Wagner, und Du wirst triumphiren, wie ich. Du weißt, von Jugend auf bin ich glücklich gewesen, und itzt steigt mein Glück höher, wie je. Soll ich es nicht genießen, nicht mein Herz darüber ausschütten, nicht meinen Mund überfließen lassen?
-- Noch etwas Großes: die Gewißheit, ob dies alles bis ans Ende so dauern wird.
-- Recht so, Wagner! Philosophire Du, ich will genießen! Sei Du ein Solon, erinnere mich an Erösus, an Polykrates; ich will mich unterdessen über meinen gewonnenen Prozeß freuen.
-
-Label: positiv
-
------------ prompt 45 (kleist-die-hermannsschlacht) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Aber, Thuschen! Thuschen. Wie wirst du aussehn, liebste Frau, Wenn du mit einem kahlen Kopf wirst gehn?
-- Wer? Ich?
--  [ Du, ja! – Wenn Marbod erst geschlagen ist, So läuft kein Mond ins Land, beim Himmel! ] 
-- Ich glaub, du träumst, du schwärmst! Wer wird den Kopf mir –?
-- Wer? Ei, Quintilius Varus und die Römer, Mit denen ich alsdann verbunden bin.
-
-Label: positiv
-
------------ prompt 46 (solbrig-die-dorfschule) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- O ja.
-- Ja, er ist auch in der Kirche; denn er ist – Traugott! über –
--  [ Ueber – ] 
-- Ueberall.
-- Ueberall.
-
-Label: positiv
-
------------ prompt 47 (castelli-jeitteles-der-schicksalsstrumpf) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Ach, das thu' ich auch.
-- Hör' weiter: Endlich fielen meine Gucken Müde zu, Und die Ruh' Senkte sich auf meine matten Glieder Sanft hernieder. – Aber kaum 'ne halbe Stunde Mocht' ich so geschlafen haben, Als das Knarren meiner Thüre – (Dreimal hatt' ich's schon befohlen, Daß die Magd mit Oel sie schmiere) Mich erweckte, und – o Himmel! – Schrecklich war's, was ich gesehn, Einen ungeheuren Dolch Sah ich in das Zimmer gehn, Hohl schrie er und dumpf: Kunigunde, du mußt sterben! Er war freilich stumpf, Doch ich war gewiß verloren; Denn es ist ein leichtes Spiel, Und dazu gehört nicht viel, Schwache Weiber zu durchbohren: Ach! halt' ein, schrie ich voll Schrecken; Unter meine Wollt' ich schnelle mich verstecken, Doch umsonst, schon kam er nah, Schon sah ich im Blut mich baden, Da – Sprang mein kleiner Bologneser Knurrend aus dem Bett heraus, Biß den Dolch in seine Waden, Und in diesem Augenblick Stieg der alte Pompadour, Der im Bild am Bette hing, Aus dem Rahmen jetzt heraus: Spitzbub'! – schrie er, – schlechter Kerl! Fort von meines Hauses Perl', Sollst sie nimmer mir berühren, Und mit eigner Hand Warf den Dolch, der sprachlos stand, Er hinaus jetzt zu der Thüre, Warf mir dann ein Busserl Und stieg in der besten Ruh Wieder in sein Bild hinein; – Und ich – schlief ermattet ein.
--  [ Das ist wol, besehn beim Lichte, Eine schreckliche Geschichte. ] 
-- Weiß ich's? – Seit ich denken kann, Hab' ich niemand Leid's gethan. Unsern groben Bauern, die im Dorfe sind, Habe ich so manches Kind Liebreich aus der Tauf' gehoben, Wöchnerinnen steh' ich bei, Pilgern, die vorüber wallen, Nicht den Oeffn' ich dieses Schlosses Hallen, Einen Labetrunk erhalten Immer sie in meinen Mauern, Andre füttr' ich mit Bedauern. – Nein! in meines Herzens Falten Wohnt das Mitleid gegen alle Männer auf dem Erdenballe.
-- Doch
-
-Label: negativ
-
------------ prompt 48 (raupach-kritik-und-antikritik) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Vermutlich ihrem Manne oder ihren Aeltern entflohen?
-- Bewahre! sie hat weder Vater noch Mutter, noch Mann noch Kind: kurz und gut, es ist eine Schriftstellerin.
--  [ Eine Schriftstellerin? ] 
-- Ja wohl! Ein Freund auf den wir hier warten, will ihrer habhaft werden, um sie zu züchtigen.
-- Züchtigen? eine Dame?
-
-Label: negativ
-
------------ prompt 49 (malss-der-alte-buerger-capitain) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Un der Schulthes der hot noch den Herr Mähr im Kopp, der hot die Leit mit Salvevenia – Volleile gehäße.
-- Ja so warsch! Nach diesem hawe se ewens den Bollezey un den Schulthes ferchterlich zugericht: dem Bollezey hawe se des Nasebähn verschmisse.
--  [ Des wor recht, hette sen doht geschmisse! ] 
-- Se hawe awwer geklagt –
-- Loßt se klage, se hawe ihr Feng, die nemmt en der jung Herr Borjermäster gewiß net ab.
-
-Label: negativ
-
------------ prompt 50 (devrient-hans-heiling) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Unselige! Unselige! Was hast du gethan? Welch toller Vorwitz trieb dich an? Hinweg! Vermessene!
-- Was ist dir, O mein Kind?
--  [ Wehe mir! ] 
-- Verzeihe mir!
-- Ach, mein Kind!
-
-Label: negativ
-
------------ prompt 51 (grillparzer-weh-dem-der-luegt) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Wo da! Wo da?
-- Sie sind schon, seht, im Strom.
--  [ Verfolgt sie. ] 
-- Ja, da ist ringsum kein Kahn. Doch an der Sandbank müssen sie vorüber Dort rechts, da reichen wir mit unsern Pfeilen.
-- Schießt immer, schießt! Und, träft ihr auch mein Kind, Weit lieber tot – verwundet wollt ich sagen – Als daß entkommen sie, mein Kind mit ihnen.
-
-Label: negatic
-
------------ prompt 52 (hebbel-maria-magdalene) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Und wie wirds dann gemacht?
-- Darin sind die Temperamente verschieden. Einige arbeiten sich durch. Die kommen gewöhnlich in drei bis vier Jahren wieder ans Tageslicht, sind dann aber etwas mager und blaß, das muß man ihnen nicht übel nehmen. Zu diesen gehöre ich. Andere legen sich in der Mitte des Waldes nieder, sie wollen bloß ausruhen, aber sie stehen selten wieder auf. Ich habe selbst einen Bekannten, der nun schon drei Jahre im Schatten der Lex Julia sein Bier trinkt, er hat sich den Platz des Namens wegen ausgesucht, der ruft ihm angenehme Erinnerungen zurück. Noch andere werden desparat und kehren um. Die sind die Dümmsten, denn man läßt sie nur unter der Bedingung aus dem einen Dickigt heraus, daß sie sich spornstreichs wieder in ein anderes hineinbegeben. Und da gibts einige, die noch schrecklicher sind, die gar kein Ende haben!
--  [ Alles ist heute lustig und munter, das macht der schöne Tag! ] 
-- Ja, bei solchem Wetter fallen die Eulen aus dem Nest, die Fledermäuse bringen sich um, weil sie fühlen, daß der Teufel sie gemacht hat, der Maulwurf bohrt sich so tief in die Erde ein, daß er den Weg zurück nicht mehr findet und jämmerlich ersticken muß, wenn er sich nicht bis zur anderen Seite durchfrißt und in Amerika wieder zum Vorschein kommt. Heute tut jede Korn-Ähre einen doppelten Schuß, und jede
-- Ach, das ist so wahr, so wahr – ich könnte gleich zu weinen anfangen!
-
-Label: positiv
-
------------ prompt 53 (hebbel-judith) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Ich stand dabei. Und ob er seinen Schwur halten wird, mögt ihr daran erkennen: Er ergrimmte über mich, als ich von der Macht eures Gottes sprach, und sein Zorn ist Tod.
-- Es soll nicht geöffnet werden. Wenn wir durchs Schwert umkommen wollen, so haben wir ja selbst Schwerter!
--  [ Lasset uns eine Zeit bestimmen. ] 
-- Eine Zeit! eine Zeit!
-- Lieben Brüder, so habt noch fünf Tage Geduld, und harrt der Hülfe des Herrn!
-
-Label: positiv
-
------------ prompt 54 (birch-pfeiffer-die-grille) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Und da nahm ich mir vor, daß ich nicht mehr leben mag.
-- Das werden sie bleiben lassen; lohnte auch wohl der Mühe, sich um dich zu grämen, du dummer Junge!
--  [ Verspottest du mich schon wieder, häßlicher Kobold? ] 
-- Ich weiß es auch nicht, Didier; die Ehre hast du der Grille in Jahr und Tag nicht angethan – muß dir schon recht jämmerlich zu Mute sein, daß du dich mit
-- Laß mich in Ruhe, hämisches Geschöpf – ich gehe schon!
-
-Label: negativ
-
------------ prompt 55 (wagner-das-rheingold) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Bereit liegt die Lösung: des Goldes Maß sei nun gütlich gemessen.
-- Das Weib zu missen, wisse, gemutet mich weh: soll aus dem Sinn sie mir schwinden, des Geschmeides Hort häufet denn so, daß meinem Blick die Blühende ganz er verdeck!
--  [ So stellt das Maß nach Freias Gestalt! ] 
-- Gepflanzt sind die Pfähle None gehäuft nun füll es der Hort!
-- Eilt mit dem Werk: widerlich ist mir's!
-
-Label: negativ
-
------------ prompt 56 (hebbel-kriemhilds-rache) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Warum denn kein Empfang?
-- Mir kam es vor, als wär er angebunden, Und hätte uns nur darum nicht begrüßt.
--  [ Sein Weib hat ihm gewehrt, Hinab zu steigen, doch das bracht er reichlich Durch seine Milde wieder ein. ] 
-- Ich dachte An meinen Hund, als er so überfreundlich Die Hand uns bot. Der wedelt immer doppelt, Wenn ihn sein Strick verhindert, mir entgegen Zu springen bis zur Tür.
-- Ich dachte nicht An deinen Hund, ich dachte an den Leuen, Der Eisenketten, wie man sagt, zerreißt Und Weiberhaare schont. Nun eßt und trinkt! Wir habens hinter uns und übernehmen Die Wacht für euch!
-
-Label: positiv
-
------------ prompt 57 (hebbel-der-gehoernte-siegfried) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Und was Euch betrifft, Nicht wahr, ich kniff Euch in den dritten Arm, Es tat nicht weh, ich weiß, Ihr habt ihn nicht! Als ich hier einritt, packte mich ein Grauen, Wie ichs noch nicht empfand, solang ich lebe, Mich fröstelte, als würds auf einmal Winter, Und meine Mutter kam mir in den Sinn, Die nie zu weinen pflegte, wenn ich zog, Und dies Mal weinte, als ob alles Wasser Der Welt den Weg durch ihre Augen nahm. Das machte mir den Kopf so wirr und kraus, Ich wollte gar vom Pferde nicht herunter – Jetzt bringt Ihr mich so bald nicht mehr hinauf.
-- Der Falk ist dein Gemahl!
--  [ Ich hörte stets, daß Liebe kurze Lust Und langes Leid zu bringen pflegt, ich sehs Ja auch an dir und werde nimmer lieben, O nimmer, nimmer! ] 
-- Kind, was sagst du da? Wohl bringt die Liebe uns zuletzt auch Leid, Denn eines muß ja vor dem andern sterben, Und wie das schmerzt, das magst du sehn an mir. Doch all die bittren Tränen, die ich weine, Sind durch den ersten Kuß voraus bezahlt, Den ich von deinem Vater einst empfing. Auch hat er, eh er schied, für Trost gesorgt, Denn wenn ich stolz auf tapfre Söhne bin, Und wenn ich dich jetzt an den Busen drücke, So kanns doch nur geschehn, weil ich geliebt. Drum laß dich nicht durch einen Reim erschrecken: Ich hatte lange Lust und kurzes Leid.
-- Viel besser, nie besitzen, als verlieren!
-
-Label: negativ
-
------------ prompt 58 (wagner-parsifal) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Wehe! Wehe! Du Hüter des Grals! Zum letzten Mal sei des Amtes gemahnt!
-- Ja – Wehe! Wehe! Weh über mich! So ruf ich willig mit euch. Williger nähm ich von euch den Tod, – der Sünde mildeste Sühne!
-- Mein Vater! – Hochgesegneter der Helden! Du Reiner, dem einst die Engel sich neigten: der einzig ich sterben wollt, dir – gab ich den Tod! Oh! [ Tod! Sterben ... ] Einz'ge Gnade! Die schreckliche Wunde, das Gift, ersterbe, das es zernagt, erstarre das Herz! Mein Vater!
-- Enthülle den Gral! Walte des Amtes! Dich mahnet dein Vater: du mußt, du mußt!
-- Nein! – Nicht mehr! – Ha! Schon fühl ich den Tod mich umnachten, und noch einmal sollt ich ins Leben zurück? Wahnsinnige! Wer will mich zwingen zu leben, könnt ihr doch Tod mir nur geben? Hier bin ich, – die off'ne Wunde hier! Das mich vergiftet, hier fließt mein Blut: heraus die Waffe! Taucht eure Schwerte tief, tief – bis ans Heft! – Auf! Ihr Helden: tötet den Sünder mit seiner Qual, von selbst dann leuchtet euch wohl der Gral! ...
-
-Label: negativ
-
------------ prompt 59 (mosenthal-das-goldene-kreuz) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Pardon, mein Kapitän – wenn ich unser Abendessen noch auf kurze Zeit hinausgeschoben – aber ich weiß, daß meine Schwester Christine –
-- Was weißt du, Colas?
--  [ Daß Christine Sie verehrt – ] 
-- Verehrt?
-- Wie wir alle!
-
-Label: positiv
-
------------ prompt 60 (hauptmann-vor-sonnenaufgang) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Koan Der’sch nich verdenken, Willem!
-- Ich muß aber doch ehrlich sagen, Mama! ..
-- Mahr Dich [ . ] 
-- Die gnädige Frau – m – haben heut manches häusliche Aergerniß gehabt – m –. Ich
-- Ja, siehst Du, so sind die Weiber!
-
-Label: negativ
-
------------ prompt 61 (bleibtreu-ein-faust-der-that) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Genommen.
-- Wie, Ihr hier?
--  [ Wo ist der König? ] 
-- Noch nicht sichtbar. – Aber, Sidney, was sagtet Ihr? London –
-- Ist genommen. Heut Vormittag sind die Truppen von allen vier Windseiten in Westminster eingerückt mit klingendem Spiel.
-
-Label: positiv
-
------------ prompt 62 (wedekind-fritz-schwigerling) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Unmöglich, Komtesse!
-- Was haben Sie denn?
--  [ Ich kann mich nicht losreißen. ] 
-- Sie können sich nicht losreißen? – Wenn man Sie hier ertappt, bekommen Sie die Knute!
-- Dann werde ich mich mit Wollust zu Tode knuten lassen!
-
-Label: negativ
-
------------ prompt 63 (wedekind-fruehlings-erwachen) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- O glaub mir, es gibt keine
-- – – Nicht! – – – – – – Nicht, Melchior! – –
--  [ – – – Wendla! ] 
-- O Melchior! – – – – – – nicht – – nicht – –
-- Lieber Herr Stiefel! Nachdem ich vierundzwanzig Stunden über alles, was Sie mir schreiben, nachgedacht und wieder nachgedacht, ergreife ich schweren Herzens die Feder. Den Betrag zur Überfahrt nach Amerika kann ich Ihnen – ich gebe Ihnen meine heiligste Versicherung – Daß Sie mir andeutungsweise drohen, im Fall Ihnen die Flucht nicht ermöglicht wird, sich das Leben nehmen Und so hoffe ich denn auch zuversichtlich, daß diese meine Worte Sie bereits in gefaßterer Gemütsstimmung antreffen. Nehmen Sie die Sache, wie sie liegt. Es ist meiner Ansicht nach durchaus unzulässig, einen jungen Mann nach seinen Schulzeugnissen zu beurteilen. Wir haben zu viele Beispiele, daß sehr schlechte Schüler vorzügliche Menschen geworden und umgekehrt ausgezeichnete Schüler sich im Leben nicht sonderlich bewährt haben. Auf jeden Fall gebe ich Ihnen die Versicherung, daß Ihr Mißgeschick, soweit das von mir abhängt, in Ihrem Verkehr mit Und somit Kopf hoch, Herr Stiefel! – Solche Krisen dieser oder jener Art treten an jeden von uns heran, und wollen eben überstanden sein. Wollte da ein jeder gleich zu Dolch und Gift greifen, es möchte recht bald keine Menschen mehr auf der Welt geben. Lassen Sie bald wieder etwas von sich hören und seien Sie herzlich gegrüßt von Ihrer Ihnen unverändert zugetanen mütterlichen Freundin Fanny G.
-
-Label: negativ
-
------------ prompt 64 (bahr-das-konzert) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Lassen Sie doch diese Briefe nicht überall herumliegen, Fräulein! Der Herr wünscht, daß sie aufgehoben werden. Er wird sie vielleicht später einmal lesen, bis er sich zurückgezogen hat.
-- 
--  [ Verzeihen Sie, gnädige Frau, aber ich kann nicht anders! ] Ich habe etwas Entsetzliches getan!
-- Bitte, nehmen Sie Platz!
-- Nein, um Gottes willen! Die Zeit drängt, sonst ist alles verloren!
-
-Label: negativ
-
------------ prompt 65 (lautensack-medusa) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- ...Sie ... Sie haben mir was zu sagen .... Sie sagen es nicht .... Warum sprechen Sie nicht? ...
-- Ich habe Ihnen was zu sagen? ...
--  [ Sie sehen mich an – wie – ich weiß nicht .... ] Soll ich ....
-- Sind Sie verrückt!? ... Der Teufel soll dieses Warten holen!
-- None
-
-Label: negativ
-
------------ prompt 66 (sternheim-der-snob) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Sagt man nicht so?
-- Ich würde beschnuppert sagen, Herr Graf.
--  [ Mein Vater will unbedingt mit dem Mittagszug heim. ] 
-- Aber lassen Sie doch endlich! Der alte Herr muß vor allem ausgiebig frühstücken. Und alles andere findet sich später. Kommen Sie!
-- Was war das plötzlich für ein Ton von ihm? Habe ich einen Fehler gemacht? Er läßt ihn vor sich in den Wagen steigen? Welch umständliche Höflichkeit. – Ich habe einen Fehler Ich zittre ja wie Espenlaub! Er offeriert ihm eine Zigarre. Beide lachen über's ganze Gesicht. Worüber? Über mich? Herrgott, einen furchtbaren Fehler habe ich gemacht! Wollte ich nicht auftrumpfen, habe ich vor fünf Minuten hier nicht geschworen, mich mit ihm brüsten, rühmen zu wollen? Hatte ich doch den einzig richtigen Instinkt. Und nun wird er es Marianne, wird es der ganzen Familie klatschen, ich wollte meinen Vater verleugnen. Kann er nicht behaupten, ich hätte ihn ehemals totgesagt? Das leugne ich ihm aber brüsk ins Gesicht ab. Gegenmaßregeln! Schnell! Was? Setzen Sie die Fremdenzimmer in Bereitschaft. Mein Vater kam an. Dem alten Herrn soignierteste Bedienung.
-
-Label: positiv
-
------------ prompt 67 (holz-ignorabimus) ---------
-Führe eine Sentiment-Analyse durch. Weise dem Satz, der in eckigen Klammern steht, ein Label 'positiv' oder 'negativ' zu. Gib nur das Label ohne weiteren Text aus.
-
-- Liebe!! ... Süße!! ... Liebe!! ... Liebe!!
-- Immer ... dies Wort! Immer ... dies Wort!
--  [ !! Nie ... genug!! ] 
-- Was ...?
-- Wie-so ...?
-
-Label: positiv
+Label: neutral
 
